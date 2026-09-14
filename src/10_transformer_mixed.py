@@ -30,7 +30,7 @@ import os
 import numpy as np
 import pandas as pd
 import torch
-
+import time
 from datasets import Dataset
 
 from sklearn.metrics import (
@@ -54,10 +54,10 @@ from transformers import (
 MODEL_NAME = "google-bert/bert-base-uncased"
 
 # Keep full training disabled while developing the script.
-RUN_FULL_TRAINING = False
+RUN_FULL_TRAINING = True
 
 # Use a small dataset sample for quick testing.
-TEST_MODE = True
+TEST_MODE = False
 
 # Use one epoch in test mode and three epochs for full training.
 NUM_EPOCHS = 1 if TEST_MODE else 3
@@ -309,7 +309,12 @@ if RUN_FULL_TRAINING or TEST_MODE:
     print("=" * 70)
 
     print("\nStarting mixed-domain fine-tuning...")
+    training_start_time = time.time()
+
     train_result = trainer.train()
+
+    training_end_time = time.time()
+    training_time_seconds = training_end_time - training_start_time
 
     print("\nMixed-domain fine-tuning completed.")
 
@@ -405,6 +410,9 @@ if RUN_FULL_TRAINING or TEST_MODE:
     print("\n" + "=" * 70)
     print("SAVE EVALUATION METRICS")
     print("=" * 70)
+
+    # Add training time to the final metrics.
+    test_metrics["training_time_seconds"] = training_time_seconds
 
     # Convert final test metrics into a one-row DataFrame.
     metrics_df = pd.DataFrame([test_metrics])

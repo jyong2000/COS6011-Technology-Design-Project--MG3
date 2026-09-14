@@ -38,6 +38,7 @@ import os
 import numpy as np
 import pandas as pd
 import torch
+import time
 
 from datasets import Dataset
 
@@ -61,8 +62,8 @@ from transformers import (
 
 MODEL_NAME = "google-bert/bert-base-uncased"
 
-RUN_FULL_TRAINING = False
-TEST_MODE = True
+RUN_FULL_TRAINING = True
+TEST_MODE = False
 
 NUM_EPOCHS = 1 if TEST_MODE else 3
 
@@ -371,7 +372,12 @@ print("\n" + "=" * 70)
 print("START DATASET WEIGHTING TRAINING")
 print("=" * 70)
 
+training_start_time = time.time()
+
 train_result = trainer.train()
+
+training_end_time = time.time()
+training_time_seconds = training_end_time - training_start_time
 
 # ============================================================
 # SAVE TRAINING HISTORY
@@ -407,7 +413,11 @@ print(test_metrics)
 # SAVE TEST METRICS
 # ============================================================
 
-test_metrics_df = pd.DataFrame([test_metrics])
+# Add training time to the final metrics.
+test_metrics["training_time_seconds"] = training_time_seconds
+
+# Convert final test metrics into a one-row DataFrame.
+metrics_df = pd.DataFrame([test_metrics])
 
 test_metrics_df.to_csv(
     "results/tables/bert_dataset_weighting_test_metrics.csv",

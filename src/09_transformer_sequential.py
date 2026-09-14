@@ -27,6 +27,7 @@ import os
 import numpy as np
 import pandas as pd
 import torch
+import time
 
 from datasets import Dataset
 
@@ -51,8 +52,8 @@ from transformers import (
 MODEL_NAME = "google-bert/bert-base-uncased"
 
 # Keep full training disabled while developing the script.
-RUN_FULL_TRAINING = False
-TEST_MODE = True
+RUN_FULL_TRAINING = True
+TEST_MODE = False
 # Use one epoch in test mode and three epochs for full training.
 NUM_EPOCHS = 1 if TEST_MODE else 3
 # File paths for sequential transfer learning.
@@ -327,12 +328,28 @@ source_trainer = Trainer(
 # STAGE 1: TRAIN ON SOURCE DATA
 # ============================================================
 
+# ============================================================
+# STAGE 1: TRAIN ON SOURCE DATA
+# ============================================================
+
 # Run source-domain training only when full training is enabled.
 if RUN_FULL_TRAINING or TEST_MODE:
     print("\nStarting source-domain fine-tuning...")
+
+    source_training_start_time = time.time()
+
     source_trainer.train()
+
+    source_training_end_time = time.time()
+    source_training_time_seconds = (
+        source_training_end_time - source_training_start_time
+    )
+    
+
     print("\nSource-domain fine-tuning completed.")
-    # ============================================================
+
+
+# ============================================================
 # STAGE 2: TARGET TRAINING ARGUMENTS
 # ============================================================
 
@@ -373,10 +390,24 @@ target_trainer = Trainer(
 # Continue training on the target domain only after source training.
 if RUN_FULL_TRAINING or TEST_MODE:
     print("\nStarting target-domain fine-tuning...")
+
+    target_training_start_time = time.time()
+
     target_trainer.train()
+
+    target_training_end_time = time.time()
+    target_training_time_seconds = (
+        target_training_end_time - target_training_start_time
+    )
+
     print("\nTarget-domain fine-tuning completed.")
 
-    
+# Calculate the total sequential training time.
+total_training_time_seconds = (
+    source_training_time_seconds + target_training_time_seconds
+)
+
+
 # ============================================================
 # FINAL EVALUATION ON TARGET TEST SET
 # ============================================================
@@ -471,6 +502,11 @@ print("\nTraining history saved successfully.")
 # ============================================================
 # SAVE TEST METRICS
 # ============================================================
+# Add training times to the final metrics.
+test_metrics["source_training_time_seconds"] = source_training_time_seconds
+test_metrics["target_training_time_seconds"] = target_training_time_seconds
+test_metrics["total_training_time_seconds"] = total_training_time_seconds
+
 # Convert test metrics to a DataFrame.
 test_metrics_df = pd.DataFrame([test_metrics])
 
