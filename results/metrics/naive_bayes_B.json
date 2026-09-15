@@ -1,0 +1,75 @@
+{
+  "model": "naive_bayes",
+  "experiment": "B",
+  "training_rows": 7000,
+  "validation_rows": 1500,
+  "test_rows": 1500,
+  "refit_on_train_val": true,
+  "val_macro_f1": 0.4617,
+  "best_parameters": {
+    "classifier": "ComplementNB()",
+    "classifier__alpha": "1.0",
+    "tfidf__min_df": "2",
+    "tfidf__ngram_range": "(1, 1)"
+  },
+  "per_class_report": {
+    "anger": {
+      "precision": 0.1935483870967742,
+      "recall": 0.12244897959183673,
+      "f1-score": 0.15,
+      "support": 49.0
+    },
+    "disgust": {
+      "precision": 0.5681818181818182,
+      "recall": 0.33783783783783783,
+      "f1-score": 0.423728813559322,
+      "support": 74.0
+    },
+    "fear": {
+      "precision": 0.3944954128440367,
+      "recall": 0.2621951219512195,
+      "f1-score": 0.315018315018315,
+      "support": 164.0
+    },
+    "happy": {
+      "precision": 0.5265553869499241,
+      "recall": 0.7510822510822511,
+      "f1-score": 0.6190900981266726,
+      "support": 462.0
+    },
+    "neutral": {
+      "precision": 0.6561264822134387,
+      "recall": 0.6217228464419475,
+      "f1-score": 0.6384615384615384,
+      "support": 534.0
+    },
+    "sad": {
+      "precision": 0.3170731707317073,
+      "recall": 0.1566265060240964,
+      "f1-score": 0.20967741935483872,
+      "support": 83.0
+    },
+    "surprise": {
+      "precision": 0.4636363636363636,
+      "recall": 0.3805970149253731,
+      "f1-score": 0.4180327868852459,
+      "support": 134.0
+    },
+    "accuracy": 0.5446666666666666,
+    "macro avg": {
+      "precision": 0.44565957452200894,
+      "recall": 0.3760729368363661,
+      "f1-score": 0.3962869959151332,
+      "support": 1500.0
+    },
+    "weighted avg": {
+      "precision": 0.5322073662603094,
+      "recall": 0.5446666666666666,
+      "f1-score": 0.5271644279923016,
+      "support": 1500.0
+    }
+  },
+  "accuracy": 0.5447,
+  "macro_f1": 0.3963,
+  "weighted_f1": 0.5272
+}
