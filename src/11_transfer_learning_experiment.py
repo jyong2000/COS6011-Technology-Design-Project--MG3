@@ -419,7 +419,7 @@ test_metrics["training_time_seconds"] = training_time_seconds
 # Convert final test metrics into a one-row DataFrame.
 metrics_df = pd.DataFrame([test_metrics])
 
-test_metrics_df.to_csv(
+metrics_df.to_csv(
     "results/tables/bert_dataset_weighting_test_metrics.csv",
     index=False
 )
