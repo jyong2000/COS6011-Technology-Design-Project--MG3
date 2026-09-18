@@ -1,0 +1,290 @@
+[
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.3525
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.351
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.3415
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.3379
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.3299
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.3296
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.3258
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.3212
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2989
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2956
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2866
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2802
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2772
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2681
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2638
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2563
+  },
+  {
+    "params": {
+      "classifier__C": "10.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2539
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2535
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2462
+  },
+  {
+    "params": {
+      "classifier__C": "5.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2283
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.2172
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.205
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.2006
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.1769
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.1739
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.168
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.1677
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "None",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.1634
+  },
+  {
+    "params": {
+      "classifier__C": "1.0",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.1447
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.094
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "2",
+      "tfidf__ngram_range": "(1, 2)"
+    },
+    "val_macro_f1": 0.0593
+  },
+  {
+    "params": {
+      "classifier__C": "0.1",
+      "classifier__class_weight": "balanced",
+      "tfidf__min_df": "1",
+      "tfidf__ngram_range": "(1, 1)"
+    },
+    "val_macro_f1": 0.0386
+  }
+]
