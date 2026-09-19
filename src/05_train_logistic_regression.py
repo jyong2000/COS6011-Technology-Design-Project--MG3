@@ -23,7 +23,7 @@ Traditional ML Member
 
 from sklearn.linear_model import LogisticRegression
 
-from ml_utils import run_all_experiments
+from utils.ml_utils import run_all_experiments
 
 
 # ============================================================

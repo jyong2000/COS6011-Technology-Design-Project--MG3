@@ -329,9 +329,9 @@ print("\nTrainer created successfully.")
 # Training has already been completed.
 # The saved best checkpoint will be used for final evaluation.
 
-# print("\nStarting BERT fine-tuning...")
-# train_result = trainer.train()
-# print("\nTraining completed successfully.")
+print("\nStarting BERT fine-tuning...")
+train_result = trainer.train()
+print("\nTraining completed successfully.")
 
 # ============================================================
 # LOAD BEST TRAINED CHECKPOINT

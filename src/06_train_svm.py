@@ -22,7 +22,7 @@ Traditional ML Member
 
 from sklearn.svm import LinearSVC
 
-from ml_utils import run_all_experiments
+from utils.ml_utils import run_all_experiments
 
 
 # ============================================================

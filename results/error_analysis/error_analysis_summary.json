@@ -1,0 +1,191 @@
+{
+  "models_analysed": 16,
+  "test_rows_per_model": 1500,
+  "labels": [
+    "anger",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "llm_invalid_predictions": {
+    "FLAN-T5 Zero-shot": {
+      "count": 177,
+      "rate": 0.118
+    },
+    "FLAN-T5 Few-shot": {
+      "count": 353,
+      "rate": 0.23533333333333334
+    },
+    "FLAN-T5 Structured": {
+      "count": 360,
+      "rate": 0.24
+    }
+  },
+  "lowest_recall_class_by_model": {
+    "Logistic Regression A": {
+      "label": "disgust",
+      "recall": 0.0
+    },
+    "Logistic Regression B": {
+      "label": "anger",
+      "recall": 0.02040816326530612
+    },
+    "Logistic Regression C": {
+      "label": "disgust",
+      "recall": 0.04054054054054054
+    },
+    "Linear SVM A": {
+      "label": "disgust",
+      "recall": 0.0
+    },
+    "Linear SVM B": {
+      "label": "anger",
+      "recall": 0.22448979591836735
+    },
+    "Linear SVM C": {
+      "label": "anger",
+      "recall": 0.12244897959183673
+    },
+    "Naive Bayes A": {
+      "label": "disgust",
+      "recall": 0.0
+    },
+    "Naive Bayes B": {
+      "label": "anger",
+      "recall": 0.12244897959183673
+    },
+    "Naive Bayes C": {
+      "label": "anger",
+      "recall": 0.04081632653061224
+    },
+    "BERT Domain-only": {
+      "label": "anger",
+      "recall": 0.1836734693877551
+    },
+    "BERT Sequential": {
+      "label": "disgust",
+      "recall": 0.16216216216216217
+    },
+    "BERT Mixed": {
+      "label": "anger",
+      "recall": 0.30612244897959184
+    },
+    "BERT Dataset Weighting": {
+      "label": "anger",
+      "recall": 0.24489795918367346
+    },
+    "FLAN-T5 Zero-shot": {
+      "label": "disgust",
+      "recall": 0.02702702702702703
+    },
+    "FLAN-T5 Few-shot": {
+      "label": "disgust",
+      "recall": 0.013513513513513514
+    },
+    "FLAN-T5 Structured": {
+      "label": "sad",
+      "recall": 0.0
+    }
+  },
+  "top_confusion_by_model": {
+    "Logistic Regression A": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 296,
+      "rate_within_true_class": 0.5543071161048689
+    },
+    "Logistic Regression B": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 82,
+      "rate_within_true_class": 0.15355805243445692
+    },
+    "Logistic Regression C": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 134,
+      "rate_within_true_class": 0.250936329588015
+    },
+    "Linear SVM A": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 300,
+      "rate_within_true_class": 0.5617977528089888
+    },
+    "Linear SVM B": {
+      "true_label": "happy",
+      "predicted_label": "neutral",
+      "count": 79,
+      "rate_within_true_class": 0.170995670995671
+    },
+    "Linear SVM C": {
+      "true_label": "happy",
+      "predicted_label": "neutral",
+      "count": 109,
+      "rate_within_true_class": 0.23593073593073594
+    },
+    "Naive Bayes A": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 170,
+      "rate_within_true_class": 0.31835205992509363
+    },
+    "Naive Bayes B": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 133,
+      "rate_within_true_class": 0.24906367041198502
+    },
+    "Naive Bayes C": {
+      "true_label": "happy",
+      "predicted_label": "neutral",
+      "count": 189,
+      "rate_within_true_class": 0.4090909090909091
+    },
+    "BERT Domain-only": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 77,
+      "rate_within_true_class": 0.1441947565543071
+    },
+    "BERT Sequential": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 68,
+      "rate_within_true_class": 0.12734082397003746
+    },
+    "BERT Mixed": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 83,
+      "rate_within_true_class": 0.15543071161048688
+    },
+    "BERT Dataset Weighting": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 69,
+      "rate_within_true_class": 0.12921348314606743
+    },
+    "FLAN-T5 Zero-shot": {
+      "true_label": "neutral",
+      "predicted_label": "happy",
+      "count": 110,
+      "rate_within_true_class": 0.20599250936329588
+    },
+    "FLAN-T5 Few-shot": {
+      "true_label": "happy",
+      "predicted_label": "neutral",
+      "count": 105,
+      "rate_within_true_class": 0.22727272727272727
+    },
+    "FLAN-T5 Structured": {
+      "true_label": "neutral",
+      "predicted_label": "surprise",
+      "count": 223,
+      "rate_within_true_class": 0.41760299625468167
+    }
+  }
+}

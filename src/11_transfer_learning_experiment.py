@@ -446,9 +446,14 @@ predicted_labels = [
 
 os.makedirs("results/predictions", exist_ok=True)
 
-prediction_df = target_test_df.copy()
-
-prediction_df["predicted_label"] = predicted_labels
+prediction_df = pd.DataFrame({
+    "text": target_test_df["text"],
+    "true_label": [
+        id_to_label[label_id]
+        for label_id in target_test_df["label"]
+    ],
+    "predicted_label": predicted_labels
+})
 
 prediction_df.to_csv(
     "results/predictions/bert_dataset_weighting_predictions.csv",
