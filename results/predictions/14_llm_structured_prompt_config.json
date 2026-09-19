@@ -1,0 +1,16 @@
+{
+    "model_name": "google/flan-t5-base",
+    "prompt_type": "structured",
+    "labels": [
+        "anger",
+        "disgust",
+        "fear",
+        "happy",
+        "neutral",
+        "sad",
+        "surprise"
+    ],
+    "test_file": "data\\processed\\target_test.csv",
+    "test_limit": null,
+    "response_format": "{\"label\": \"emotion\"}"
+}

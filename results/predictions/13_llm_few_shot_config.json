@@ -1,0 +1,48 @@
+{
+    "model_name": "google/flan-t5-base",
+    "prompt_type": "few-shot",
+    "labels": [
+        "anger",
+        "disgust",
+        "fear",
+        "happy",
+        "neutral",
+        "sad",
+        "surprise"
+    ],
+    "training_file": "data\\processed\\target_train.csv",
+    "test_file": "data\\processed\\target_test.csv",
+    "test_limit": null,
+    "examples_source": "target_train.csv",
+    "number_of_examples": 7,
+    "examples": [
+        {
+            "text": "$SNAP mark my word again ....this pos not worth more than $5",
+            "label": "anger"
+        },
+        {
+            "text": "$TSLA Her head is pumped up like she pumps stocks and her head is FULL OF NOTHING BUT AIR.",
+            "label": "disgust"
+        },
+        {
+            "text": "$RGSE not worried. Looking at the end game.",
+            "label": "fear"
+        },
+        {
+            "text": "$TOPS If you hold or buy this, roll up a magazine and wack yourself with it",
+            "label": "happy"
+        },
+        {
+            "text": "$BABA it may be 38x but so are alot of growth stocks....",
+            "label": "neutral"
+        },
+        {
+            "text": "$CRBP we&#39;re pulling a Corbus again bois, market green we red",
+            "label": "sad"
+        },
+        {
+            "text": "$XGTI did you read the fillings?, where is dated anything abt deal",
+            "label": "surprise"
+        }
+    ]
+}

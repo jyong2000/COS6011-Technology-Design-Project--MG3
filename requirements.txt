@@ -6,3 +6,4 @@ torch
 transformers
 datasets
 accelerate
+sentencepiece

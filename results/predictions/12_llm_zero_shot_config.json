@@ -1,0 +1,17 @@
+{
+    "model_name": "google/flan-t5-base",
+    "prompt_type": "zero-shot",
+    "labels": [
+        "anger",
+        "disgust",
+        "fear",
+        "happy",
+        "neutral",
+        "sad",
+        "surprise"
+    ],
+    "test_file": "data\\processed\\target_test.csv",
+    "test_limit": null,
+    "temperature": 0,
+    "examples_used": false
+}
