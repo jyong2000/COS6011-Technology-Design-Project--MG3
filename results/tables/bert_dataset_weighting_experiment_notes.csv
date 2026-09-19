@@ -1,0 +1,2 @@
+model,method,source_weight,target_weight,epochs,test_mode
+google-bert/bert-base-uncased,Dataset Weighting,1.0,2.0,3,False
