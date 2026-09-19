@@ -1,0 +1,8 @@
+label,source_count,source_percentage,target_count,target_percentage,present_in_source,present_in_target
+anger,13661,16.93,326,3.26,True,True
+disgust,0,0.0,492,4.92,False,True
+fear,0,0.0,1091,10.91,False,True
+happy,36441,45.17,3084,30.84,True,True
+neutral,13397,16.6,3560,35.6,True,True
+sad,9290,11.51,549,5.49,True,True
+surprise,7895,9.79,898,8.98,True,True

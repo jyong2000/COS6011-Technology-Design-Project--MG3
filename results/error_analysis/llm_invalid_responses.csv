@@ -1,0 +1,891 @@
+model,strategy,row_index,text,true_label,predicted_label,raw_response,prompt_type
+FLAN-T5 Zero-shot,Zero-shot,4,"$REXX This is and has been pure bs for as long as I been here, over 2 Years already lost a lot of money guess I’ll just give them the rest!",disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,15,$SHOP market going red and this will fade with rest of tech sector,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,22,$CL_F short 106.90 with 107st,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,26,$NNOX lost 500 in Vegas this weekend made up in $NNOX got in at 39,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,33,"Take-Two $TTWO misses by $0.38, beats on revs; guides Q2 EPS below consensus, revs above consensus; raises FY20 outlook; +7.0% after hours",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,35,@TheStalwart: $THQI bankruptcy filing,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,36,"$UGAZ very loose trailing stop hit, took $70 on my 1 contract. may wait for tomorrow for another position, seems unclear with tht rejection",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,39,"$SPHS What happened to this one? Have it on watch still, but fully invested in $AMRS at the moment.",surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,45,$FB Why facebook will enter a new bearish trend http://stks.co/ieBG,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,58,$ZC_F gone short .5 of the high,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,98,"$DRYS I only made 2,880$ yesterday. I reall need this to go 1.95$🎉💰🎉💰🎉",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,117,$ROX Its silly not to be in this when so many mergers happen over the weekend??,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,134,Big fail-$APOL,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,136,$TSLA this ship is sinking who is going to hold to ocean floor with elon and who is jumping ship early? 🌊🚣,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,138,$NFLX why is this down?,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,159,$AI I&#39;m used to this. Down down down down down down. 87 Avg. and the dip keeps dipping.,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,162,RT @alexlee169: RT @alexlee169: $GMCR looks like its about to roll over // theres the death// there's my 28.00 target $GMCR from 29,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,168,"$TVIX $UVXY $VXX First order adjusted down 17.23. Come on, one more bump.",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,174,$AMZN this is what holding AMZN feels like every day for the last 5 months,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,211,$NAK so what&#39;s Our Fate,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,221,$YELP There is no more room to go up any more,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,222,$AMRN futures not looking good. Ouch,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,224,"$AMD Spent some time looking at the charts, the daily on this thing is beautiful. The flag has been broke, next leg up now.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,229,$AMD I think this one dumps again! I am watching all the new bag holder dreaming of getting rich on this POS stock.,disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,233,$IBB $BIIB $CELG $GILD settle down CNBS its just a heathly pullback,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,264,$RGSE 7 million loss earnings,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,265,"$MCRB Not a pretty day, but the market overall was crushed! Once this whole DB crisis clears up then this rebounds",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,277,$WATT This is your dip. Wont last long,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,280,$SPY Dead Cat bounce...expect sell off to continue as normal,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,294,My portfolio is down 50% in 3 months and I&#39;m literally lost with what to do $SOS $WKHS $XL $LEDS $RIDE $GMBL $PLAG,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,318,"$NFLX this pet stock still managing to hold up decently but I think the falling tide..blah,blah,blah",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,320,"$XLF acting weak, oversold N/T. If attracts bids, likely gets sold near broken resistance. https://hedgopia.com/xlf-likely-faces-selling-pressure-if-rallies-to-broken-support/",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,325,Natural Gas Finally Rebounds With Colder Risks And Tighter Balances $UNG https://goo.gl/a8jUAN,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,335,@LoneWolf888 @Filledatask I can&#39;t day trade nymore..worth a one day hold? And ru guys gonna come back into $NVCN?,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,339,$DCTH Al institutional managers will dump- they can&#39;t hold a co going to OTC,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,347,$CIDM And the next thing you know would be offering.. :(,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,351,$HMNY probably just a concerted effort by teds circle of friends to stop the embarrassment for a day. Oh it’s dumping,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,371,$PIP looking to break below $1,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,377,"$IG 3 negative revisions in past few weeks and current year earnings consensus lowered over last 30 days, better buy opportunities ahead.",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,383,"$AAOI Easy to take a small loss/profit, but Hard to take a big loss/profit. So Cut losses quickly and ride winners paiently.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,395,$AAPL will NEVER see $103.5 again. NEVER NEVER NEVER . Watch and Learn . For my special followers,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,398,"$IBB, $BBH looks like we have finally, finally bottomed. Never seen a sector so overworked on the swings, bodes well for a strong move up.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,404,$MLNX not moving AH?? JUst +3.39%???,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,428,$SPY Prayers for the innocent in Venezuela. What a damn shame the whole thing is and how it&#39;s been down there. $TVIX,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,433,"$DGB.X BTC is down today so far, we seem to be following suit. Probably a good day to buy some more coins if you can. Lost a lot of what we gained yesterday, but the day is young.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,435,@Obi_Wan yup! I can tell you first hand in Los Angeles the market is practically non-existence... No Buyers at ALL $SPY $QQQ,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,468,$SYN Regeneron Drops Like a Rock after approval... this is what happen to me with HZNP. I lost big time. Will SYN do the same?,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,485,$MU Micron earnings down -65% from 2018 have declined year of year since 2018 MU earnings 11.51 $AAPL $NVDA $AMD $QCOM $SPY,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,492,$PEI plenty shorts cant even cover until tomorrow. What a bear trap yesterday was. They will cover tomorrow. We will bath in their money.,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,501,The GEO Group downgraded by ValuEngine to strong sell. https://www.marketbeat.com/r/1189834 $GEO,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,522,$CTST could I have possibly timed the bottom? $4.99,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,525,$BHP yap. think it will fall back to around 24.89,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,536,"$SPY seeing so many new highs is good, if ur in but if not, most are late and eps to come. one way markets are hard for traders.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,541,"$FB Judging from the selling pressure, $45.2 may not hold this week.",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,543,"$FCX Kids, one up day does not a trend make. This sick puppy will go lower.",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,544,$XXII Clarence this stock &amp; the weather here is horrific.....,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,545,$MNKD News is out. Mike diagnosed with Down Syndrome. I knew it all along.,disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,551,$RAD bostonsonics needs a life!,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,552,$DAX Less than 100points to go and i have to take my losses,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,554,&quot;@LiveSquawk $SSEC Shanghai Comp Opens Down 2.7%&quot;,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,558,$OPGN buy the dips this morning; maybe the last chance to have sub .35,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,587,$AAPL @totalguru is being awfully quiet today.,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,597,"$INTC a bad one, closed near the lows &amp; a few cents below the breakout level. Obviously couldn&#39;t hold the prior day&#39;s high. Clearly defin",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,606,$AAPL Too many shares. and the price is expensive for a lot of &quot;regular people&quot; at 100+ so that is why its hard to move.,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,608,$JNUG gold continues to go down,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,610,$GS weak,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,615,$CDEV didn&#39;t hold its breakout of 17.7. bearish.,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,617,"$ABUS @AmeroAmigo it seems that every time there is news it goes down. &#39;No news is good news&#39;, has never been truer than with this stock.",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,618,"$VTVT not a real company, no existing pipeline that works",anger,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,624,$SPCE $24 million in bonuses. Zero income. Can we say bankruptcy? Let&#39;s say it together,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,625,"$GLUU if gluu creates TS game properly with deep quality , still able to make big money , but still far far away from now",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,641,$BLDP unbelievable. Whole sector tanking since February without a single break through. These shorts I really hope they lose everything for being too greedy. How xannyou be happy when others are all losing tons of money. Most ev stocks have pulled back over 50% and still shows no sign of any recovery at all.,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,642,$PLUG i cant see it beijg amazon guys coke on,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,649,$TRVN look at $TNDM saw it early too but I sold at $50 and got inpatient 🤷‍♂️ this will have its day too soon and u won’t see it coming!,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,651,"$NE Misses EPS by .02, looks to enter 16.60 area by market open tomorrow imo",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,674,@walhomedi $DRYS is halted - no pre trades today.,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,678,"$WORK Forgive me if it seems like I&#39;m being mean, but when has WORK ever popped after ER? In my last 3 ERs with this ticker, each time there has been a sell off in AH including after Q4 call. I think they just struggle to truly scale the business into a revenue generating operation. Maybe LT, but ST it will continue to struggle IMO",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,684,"@Stocks_Investing Calm Down, these aren’t penny stock buddy! You trying to short the whole market?!?! 😂 $TSLA wi be over $1000 before you know it.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,686,"Corporate profits -11.5% in the 4thQ from the year-ago period, the biggest drop since a 31% collapse at the end of 2008. $SPY $DIA $AAPL $C",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,690,"$SAEX this isnt up 1000% yet? Shoot son, I witnessed this bad boy in August. No way it&#39;s done",surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,692,$CSIQ there simply are no buyers. No bids. Market makers taking this down as slowly as possible. There are no bids anywhere,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,704,"$AQST reported a loss of $0.59, consensus was ($0.49) via @eWhispers #epsmiss http://eps.sh/d/aqst",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,712,"$ATNM The science is real here,the FUD pathetic from pathetic losers.Perhaps they should buy shs &amp; relax,kick back,&amp; enjoy ride up?or not.",disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,720,$JNUG that was a very telling 1200 test fail for you bulls...time to test 1120 area,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,725,$SRPT &quot;all showed decline in distance since week 144&quot; ---- Weak data,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,727,$AAPL new lows on the horizon double down on $96 puts,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,732,$ROSE This is about have Hard Squeeze,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,744,$IRBT this is falling as bad as $EFX LOL Holding small size 83.65,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,749,"$TLSS 50% down, what a bad move.",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,752,$CELG 115 EOD. keeping stongly the uptrend.,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,755,$GM the worlds gone upside down... how does a company that had an incredible Q4 suffer 2 days straight?,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,766,bought puts on $jpm when it was at $44.41 ... will exit it tomorrow probably,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,768,Dont quite have that crazy vol in $TUES yet,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,807,$UAL I was regretting for not going long but would have I stayed till the crash or not idk. Algos doing this wtf,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,814,"$MBLY Tesla did their own regression analysis on sensor fusion prior to OTA update to enable ADAS, not MBLY. TSLA redundancy algo failed.",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,822,$GE Where are all of the worthless PM bearshi* artists now?,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,827,$BBRY yawnnn boring week,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,829,$TRXC There is too many good things going on behind scenes worst scenario TRXC poised perfectly for a buyout By J&amp;J or Int. its a No Brainer,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,835,@frankrandall $FIT post from earlier meant $27.77 to 27.87 27.97 target today. Sorry. Typo. #intraday #stocks #daytrading #followme,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,837,$JAGX I need this to go over $2,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,841,RT @howardlindzon have had the new mac air in my lap for an hour and no &#39;hot balls&#39; ...an end of an era $AAPL,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,865,$FCX continues to crash in the face of all the bullish commentary - new lows just hit http://stks.co/r2fs9,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,868,RT @arxitekt $REE is anyone short this beast? - Closed out my intraday puts when it reversed back thru 16. No shares to borrow.,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,870,$DRYS this is suicidal,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,873,$NAK market got crushed . NAK and UVXY were the only green on my watchlist . Tomorrow will test 96 cents with 90 as new support .,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,874,$TWTR I am out from this stock.. closed long positions with big loss,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,875,"BUYING $EURCHF now, a bit late, but more sure it will rise now, have lot of losing pips to recover fr yesterday",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,882,$DOGE.X dump it btc breaking out to 50 now,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,883,"$AMC I’m certainly not a pro at this, or even good, but looking at these charts, shorts positions, and what these loser head-honchos on CNBC interviews are saying in their scrappy little offices.. Something sketchy is at play... which boosts my confidence in coming out of this not only unharmed, but with a little something extra to show for it. I’m down, at a big loss, but I’m ready to hold no matter how long it takes. Who’s with me?",disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,893,$ETH.X I&#39;m covering at 1400. I&#39;m still up. But there&#39;ll be another layer of liquidation if it falls bellow 1350.,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,900,$GRPN Finally it moved some. I just wished it would do more then the 3 range GL,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,912,$AMRH .375 next line to break,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,924,"$HEAR But lets be serious here: they had top earnings over last q&#39;s and outlook is great, however they lost more than half of their value",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,926,20-day low alerts: $DXD and $SDS,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,950,$GNOG lmao Poor gnog bulls do you like sucking 🥚 back to 10,disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,959,$SPHS He is not coming back. Buy and Hold.,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,965,$CHEK $9 by end of week the institutions want to get in lower right now,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,968,$BZUN god body is this stock,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,970,$JNJ Boring,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,974,"$BB looks pretty bad that ER driven by lowered costs, which were already far bloated. Cutting costs becoming even more irrelevant",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,990,$NFLX anyone shorted into earnings?,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,999,$BAC if this stock goes down any further then it will wipe away any kind of gain it had for 2017. Seems like bear market for banks again,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1003,$AAPL declining 20 day rejected last week and rejected again twice this week. Lower volume today. Should start to boogie one we reclaim it. All the moving averages still not in line as well.,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1012,$ISRG what a monster move off the $619 lows that were noted back in November. Indeed it bottomed. These bottoming formations r ubiquitous,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1014,$GPRO this stock always tanks and loses half its gains by eod all the time,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1015,"$WSM Williams-Sonoma (WSM, $45.54), top market loser yesterday, dropped -3.11%",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1024,"$GPRO I was killed averaging down on this. My heart goes out to my former fellow longs. If we hit single digits, I will jump back in.",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1032,"$APRN no buyout folks...sorry. closed outright short and shorts calls. No position, but it&#39;s going lower.",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1039,"$GLBS Saw a report that they have a large debt and that major shares are held by individual insiders 5,539,767.",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1041,@hinduhamma because to expensive and has similar problem with price action as $IQ since last ER.,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1050,@classy1671 it is &amp; it is going to get worse but there is still few people that dont want to understand that ..$amd,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1054,"$NKLA if it took you this long to realize they were a scam, then zero sympathy and not sorry you lost your cash. You were given dozens of signs since June.",disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1055,$ITUS Look at $INO Inks cancer research deal with Parker. Flew today on H1N1. But 87 mil OS; Hard to move. Our news this Fri w/6 mil float?,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1056,@NoPainsAllGains I love volatility and I love $PXS but I just can’t bring myself to buy when it’s already up so high today,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1068,$LKNCY thinking positive.. This jumps to 17-20 overnight how many people are gonna sell right away jump ship?? Missing out on the Big Prize,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1069,"$BMY U.S. Food and Drug Administration Approves Opdivo® (nivolumab) in Combination with Chemotherapy for Patients with Advanced or Metastatic Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma.... https://www.stocktitan.net/news/BMY/u-s-food-and-drug-administration-approves-opdivo-r-nivolumab-in-7okuwzx5u710.html #cancer",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1070,$BIS peeling a little more off into this meltdown and adding some $SPY shorts and ultra&#39;s for the next week,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1078,$SRPT A little disappointed but that was a solid bounce from 73.8 almost to 76.... so you telling me there is a chance...... lol.,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1080,"$LC why did we dump today? Doesnt appear any big sell orders came through, and i didnt see any bad news",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1092,$DK all synergies from merger and billion dollar cash in hand and monster $2.4 billion revenue growth gone!! Brutal,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1108,$WATT I think we are about to witness a short transfer from smart covering to dumb shorting,anger,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1110,$MTZ They thought they&#39;d slip that 63K order past me. Little incremental accumulation AH.,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1113,"$GEVO Its too late to RS, with the deadline only 6 days away, it cannot maintain $1 for 10 days. THEY WILL GET EXTENTION or get delisted.",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1126,$MVIS temporarily untradable RH?,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1134,$TSLA UP 30 BUCKS FROM THE LOWS...searching for 700.+ no doubt,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1142,$GOOG Could get ugly. Very bearish chart here. http://fsc.bz/50B #WORDEN,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1146,$SPY This is nothing like the 2008-2009 financial crisis. We were in recession and the big banks were on verge of collapsing. Now the US economy actually is very strong and we have almost zero chance of entering into a recession,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1148,$TNXP I fell sorry for shorts when we take off keep holding us down u going get f up,anger,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1150,"$CLF rise to $20 Into Friday, get shorted back to $19 for eod Max pain, liftoff on Monday",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1159,$DWTI - Cant say I saw that next leg up coming!,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1162,$HMNY #moviepass #undervalued Buying under $16 is:,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1165,$JNUG you are seeing rejection on the 50 ema 15minute line. enjoy your loss buying now. https://www.tradingview.com/x/pMivIxmE/,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1169,"$BBRY Sunday, Oct. 06 2013 BlackBerry falls near liquidation value, says report http://stks.co/alVe",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1191,"#sectorbreadth Energy ($XLE) suffers five spot ranking loss. Relative losses all around, Technology ($XLK) most resistant",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1192,$RAD morale at hq is low,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1195,$SPY I don&#39;t get sentiment is high but the SPY is down??????,surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1199,$PLAY no play here.. sinking,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1206,"$SPY Eventually, I will own the power of a god if this continues.",surprise,__invalid__,joy,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1215,&quot;@CashMoney210: $KNDI I told you guys....yesterday was nothing more than a &quot;dead cat bounce&quot;. This is heading back down again.&quot; U sure?,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1235,$GOOGL had slight rise though its Q4 revenues continue to be disappointing. http://stks.co/b1aQ2,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1252,"Target on the bearish Shark in $SPY 243.70, through that then 242.89",fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1258,"$SPY It&#39;s going to get very, very messy.",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1276,"$T sellers will dry up, investors will continue to accumulate",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1279,"$MBRX I’m setting stop losses and sleeping I. Tomorrow, either this flies or it doesn’t 😂",happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1286,$SPY I bet you if i bought calls in $gsg it&#39;d breakdown right aftewards.,sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1300,@jsaettele looks like $NZDUSD is just retesting the breakdown from the head and shoulders? http://stks.co/hzYL,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1338,"$XVG.X I need to learn how to play this coin. I rode the top yesterday and got stuck holding 1,000 at .24 - need some serious pumpers today",disgust,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1352,$RTTR some people were just never made to make $ hold your shares losers😂,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1360,$EROS It&#39;s PM on no news. Best we can hope for is a continuation off the lows of yesterday&#39;s prices. Very doable. This thing has been beaten to a pulp.,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1367,$NYMX Look another SPHS bag holder. Bitter that the pump and dump didn&#39;t pan out?,fear,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1381,"$MARK short are burn today , I guess there are no type of lub can help them to ease the pain.",surprise,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1386,"$MTN Gapped down, gapped back up at open.",neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1426,"$FIT weak premise --FIT may not be able to compete in the smrt watch category and 3rd party apps, it was #2 smrt watch Q1 --and 700 R&amp;D sf",sad,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1429,$ENPH strength on display...yesterday bottomed around 18 rebounded quickly...today gets a downgrade by some chump and the bottom is higher than yesterday&#39;s bottom....strength.,happy,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1443,$AAPL 125.80 dont forget that stocktwit lags...,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1455,"@jakesthelegend Annoying month. I called $TVIX spot on but one week early, then $FB took a dump on stellar earnings after I moved into it.",anger,__invalid__,sadness,zero-shot
+FLAN-T5 Zero-shot,Zero-shot,1496,$GOOS the goose is loose!,neutral,__invalid__,sadness,zero-shot
+FLAN-T5 Few-shot,Few-shot,2,@vanfam I whish I could.. my broker does not allow short position for $DBX,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,4,"$REXX This is and has been pure bs for as long as I been here, over 2 Years already lost a lot of money guess I’ll just give them the rest!",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,15,$SHOP market going red and this will fade with rest of tech sector,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,16,"$CLRB little bit of volume and little more attention form the traders, this will fly. very low float ...4Mil",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,17,$AAPL - other side Bought 635 $CALLs @ 5.35 - TIGHT stop,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,22,$CL_F short 106.90 with 107st,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,23,$HMNY last time this went up. It was a shit show after hours. Bad news ahead,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,26,$NNOX lost 500 in Vegas this weekend made up in $NNOX got in at 39,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,28,$TSLA Hong Kong protesters stage rallies (FRiday 11-08) across city https://www.scmp.com/news/hong-kong/politics/article/3036874/hundreds-march-lunchtime-central-protest-mourn-death-hong via @scmpnews South China News 11-08,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,32,$DRYS that guy called a buy at 1.4!!!,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,33,"Take-Two $TTWO misses by $0.38, beats on revs; guides Q2 EPS below consensus, revs above consensus; raises FY20 outlook; +7.0% after hours",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,34,$ECYT so u put up a wall at 8.74 lmfao,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,35,@TheStalwart: $THQI bankruptcy filing,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,36,"$UGAZ very loose trailing stop hit, took $70 on my 1 contract. may wait for tomorrow for another position, seems unclear with tht rejection",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,39,"$SPHS What happened to this one? Have it on watch still, but fully invested in $AMRS at the moment.",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,41,$SPY if people looked at the daily chart they wouldn&#39;t be freaking out.Too busy looking at hourly charts that they think the world is ending,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,45,$FB Why facebook will enter a new bearish trend http://stks.co/ieBG,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,58,$ZC_F gone short .5 of the high,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,67,$GILD wish the market tanks today just so i can read pnross comments. After all he did say the market is overvalued last week,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,75,$PTCT short going to get fried round 3 for me now. Up 2pts today so far,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,85,"$INO don’t beat yourself up about this one. I’m not an investor, but seems you guys read data right from what I’m hearing, just bad CEO and management",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,91,"$AMZN $FB $SPY exactly, he is also calling for 2200 and a bear market, if we go over 2750 it ends all the bear thesis",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,98,"$DRYS I only made 2,880$ yesterday. I reall need this to go 1.95$🎉💰🎉💰🎉",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,100,"The Global Times, a widely-read tabloid published by the ruling Communist Party’s official People’s Daily, said leaving the Chinese market would be “suicide” for U.S. companies, especially for auto firms. $SPY $ES_F $GM $FXI $VIX",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,101,$WISH literally no other stock in the market that falls 5%-10% on the daily lol looks like I&#39;m gonna have to average down at the low 12$&#39;s 🤷‍♂️,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,111,$TSLA sub 700 today. I was wrong yesterday. GLTA,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,117,$ROX Its silly not to be in this when so many mergers happen over the weekend??,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,118,$VRNG buyout could happen without news leak. Look at what happened to $dell a few days ago.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,134,Big fail-$APOL,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,136,$TSLA this ship is sinking who is going to hold to ocean floor with elon and who is jumping ship early? 🌊🚣,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,137,$GPRO shorts overstayed their welcome. HERE&quot;S THE FRONTDOOR,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,138,$NFLX why is this down?,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,141,$SLS @BigGainsTwits is gods gift to man. Whenever they post negativity out sp goes up. When they post positive the sp goes down. Thank goodness they are a bear!!,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,143,"Coupa Software Q4 Adj. EPS $0.17 May Not Compare To $(0.11) Estimate, Sales $163.50M Beat $145.66M Estimate Related Tickers: $COUP Read more at: https://quantdata.us/news/20200744",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,156,$MTCH look at FOSL they’re squeezing too right before earnings. We have way more shorts.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,159,$AI I&#39;m used to this. Down down down down down down. 87 Avg. and the dip keeps dipping.,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,162,RT @alexlee169: RT @alexlee169: $GMCR looks like its about to roll over // theres the death// there's my 28.00 target $GMCR from 29,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,163,$INPX looks like it ready to break .14,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,165,$MU que 💪 su madre los bulls,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,168,"$TVIX $UVXY $VXX First order adjusted down 17.23. Come on, one more bump.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,169,$AMZN new guidance too. EPS blew out of water.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,174,$AMZN this is what holding AMZN feels like every day for the last 5 months,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,176,$DIS is never buying $GNUS - never ever - now stfu,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,179,$TOPS get into $AST. STOP LOSING MONEY,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,189,$AKER Buy Buy Buy!!! Come power hour you&#39;ll regret it.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,194,$ZSAN it&#39;s below VWAP right now. Watch for the cross over.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,204,@charlesh_chang shorts on $FNMA $DrYS $tvix not printing money today,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,211,$NAK so what&#39;s Our Fate,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,213,$SPY QE = Welfare for banksters. Every American and European should be told that basic truth. None of them know what is being done to them,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,221,$YELP There is no more room to go up any more,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,222,$AMRN futures not looking good. Ouch,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,224,"$AMD Spent some time looking at the charts, the daily on this thing is beautiful. The flag has been broke, next leg up now.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,225,$VXRT PPS is down $8 In the last month. Maybe we can close 8 CENTS green today,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,228,"$TXMD 0 bearish case on this one, anyone selling is clueless. Adding 300 @7.20",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,229,$AMD I think this one dumps again! I am watching all the new bag holder dreaming of getting rich on this POS stock.,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,230,"$MS filed form 424B2 on June 27, 13:33:01 https://s.flashalert.me/D6vGvc",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,233,$IBB $BIIB $CELG $GILD settle down CNBS its just a heathly pullback,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,242,$SPU go bulls. But I would not hold this over the weekend. More offerings will come. $STUDY,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,251,$XELA any thoughts on $MA earnings tomorrow potentially hitting xela? the alternative seems to be flatlining at 50% volume for another week and then getting pumped and dumped on earnings,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,254,$SINO We have to get through 40M in VOLUME,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,264,$RGSE 7 million loss earnings,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,265,"$MCRB Not a pretty day, but the market overall was crushed! Once this whole DB crisis clears up then this rebounds",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,267,$NVCN our float is really small and they keep trying this after hour is another huge short everyone know we would be making huge amount,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,277,$WATT This is your dip. Wont last long,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,280,$SPY Dead Cat bounce...expect sell off to continue as normal,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,285,$JNUG someone slapped $31 for some reason in $GDXJ,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,294,My portfolio is down 50% in 3 months and I&#39;m literally lost with what to do $SOS $WKHS $XL $LEDS $RIDE $GMBL $PLAG,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,299,$DRYS 😂😂😂😂this will be back to a penny stk in morning😂😂😂😂😂😂,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,300,$SPY any short would need it to make a new lod to have any confidence,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,302,"$HMNY is not ATM placement, shares to be placed at instits at the bottom, natural buyers who looted the retail investors &amp; will now fund co.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,303,SVP of Quest Diagnostics Incorporated just disposed of 662 shares http://stks.co/r1clY $DGX,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,314,$AVEO ...take profit shot at....3.02...greeat!!!!!,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,318,"$NFLX this pet stock still managing to hold up decently but I think the falling tide..blah,blah,blah",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,320,"$XLF acting weak, oversold N/T. If attracts bids, likely gets sold near broken resistance. https://hedgopia.com/xlf-likely-faces-selling-pressure-if-rallies-to-broken-support/",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,325,Natural Gas Finally Rebounds With Colder Risks And Tighter Balances $UNG https://goo.gl/a8jUAN,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,327,$CDEV is a bad ER priced in? Meaning a slightly decent earnings would be a +? Trying to decide whether to buy in the .80s or if it will go lower on bad ER...,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,335,@LoneWolf888 @Filledatask I can&#39;t day trade nymore..worth a one day hold? And ru guys gonna come back into $NVCN?,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,339,$DCTH Al institutional managers will dump- they can&#39;t hold a co going to OTC,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,345,"DexCom&#39;s * just disposed of 2,386 shares http://www.conferencecalltranscripts.org/4/summary2/?id=6832134 $DXCM",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,347,$CIDM And the next thing you know would be offering.. :(,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,351,$HMNY probably just a concerted effort by teds circle of friends to stop the embarrassment for a day. Oh it’s dumping,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,354,$ADMA what the heck is going on!!?? I bought some more this morning at 3.45 n I’m way down now 🤦🏽‍♂️,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,357,Hillenbrand ($HI) financial leverage: TOLERABLE. Current probability of bankruptcy is under… http://dlvr.it/RJ0FwT #trading #ideas #stocks,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,367,$WTW gap from 6 to 10 gets filled when market crashes. then i will have an entry point.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,368,$APEN what is this waiting for? no lawsuits are coming.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,371,$PIP looking to break below $1,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,374,$BIDU 120 CALLS 2019-11-29 $42K SPLIT View flow: https://optionsflow.aidedtrade.com/ #options #trading,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,377,"$IG 3 negative revisions in past few weeks and current year earnings consensus lowered over last 30 days, better buy opportunities ahead.",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,378,$AMZN blowing through the 1960&#39;s today - will close at $1970+... Just like in Spain now - its the Running of the Bulls....,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,381,$TVIX they needs to go above and hold 32 or else it&#39;s tough to even consider holding for longs,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,393,$IMNP Good news and it tanks?? What the Heck??,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,395,$AAPL will NEVER see $103.5 again. NEVER NEVER NEVER . Watch and Learn . For my special followers,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,397,$DRYS the ones who got 330$ Million worth of shares at 1.40 want to sell it at 3.00$ or maybe 4.00$,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,398,"$IBB, $BBH looks like we have finally, finally bottomed. Never seen a sector so overworked on the swings, bodes well for a strong move up.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,403,$INTC will be red by eod,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,404,$MLNX not moving AH?? JUst +3.39%???,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,411,$SPOT I can’t wait to short this,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,421,$EURUSD: Key short-term pivot point is 1.3325 a break of which will suggest a cycle has ended @ 1.3370 (HOD) #EUR #Elliottwave,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,428,$SPY Prayers for the innocent in Venezuela. What a damn shame the whole thing is and how it&#39;s been down there. $TVIX,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,433,"$DGB.X BTC is down today so far, we seem to be following suit. Probably a good day to buy some more coins if you can. Lost a lot of what we gained yesterday, but the day is young.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,435,@Obi_Wan yup! I can tell you first hand in Los Angeles the market is practically non-existence... No Buyers at ALL $SPY $QQQ,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,454,$CVE http://stockcharts.com/h-sc/ui its trying.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,468,$SYN Regeneron Drops Like a Rock after approval... this is what happen to me with HZNP. I lost big time. Will SYN do the same?,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,478,$GPRO I just took a percocet to relieve the pain around my corn hole from today. See if that helps.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,481,"$GE last chance to exit with a good price, futures blood red and bid ask being propped, take advantage of it",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,484,@sonicmerlin Still waiting on whatever autopilot system $SHOP is on to break.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,485,$MU Micron earnings down -65% from 2018 have declined year of year since 2018 MU earnings 11.51 $AAPL $NVDA $AMD $QCOM $SPY,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,486,"$EC SHS, next target, march 12 low http://fsc.bz/FTm #WORDEN",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,487,$AMDA I wish this can stay low for a while so I can buy mass :(,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,492,$PEI plenty shorts cant even cover until tomorrow. What a bear trap yesterday was. They will cover tomorrow. We will bath in their money.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,501,The GEO Group downgraded by ValuEngine to strong sell. https://www.marketbeat.com/r/1189834 $GEO,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,506,$ES_F 48 into the close.??. this looks sick,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,521,$COTY is in Parabolic SAR Breakout winning 62.16% in the past. https://goo.gl/THgiUx,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,522,$CTST could I have possibly timed the bottom? $4.99,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,524,$MU fvck it apparently AMD is curing cancer,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,525,$BHP yap. think it will fall back to around 24.89,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,527,"$SPY If they pull that stunt once more from the markets yesterday they know something wrong, Can they pull it off tomorrow.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,531,$JNUG no way under 10s,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,534,$CSIQ highly unlikely that another bidder will come forward offer has been out for a week,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,536,"$SPY seeing so many new highs is good, if ur in but if not, most are late and eps to come. one way markets are hard for traders.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,541,"$FB Judging from the selling pressure, $45.2 may not hold this week.",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,542,$ETH.X Cryptocurrency Angel Investor Files Complaint Against A... https://coinstarter.com/article/1534370618990x894643215462565400,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,543,"$FCX Kids, one up day does not a trend make. This sick puppy will go lower.",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,544,$XXII Clarence this stock &amp; the weather here is horrific.....,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,545,$MNKD News is out. Mike diagnosed with Down Syndrome. I knew it all along.,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,551,$RAD bostonsonics needs a life!,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,552,$DAX Less than 100points to go and i have to take my losses,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,554,&quot;@LiveSquawk $SSEC Shanghai Comp Opens Down 2.7%&quot;,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,558,$OPGN buy the dips this morning; maybe the last chance to have sub .35,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,564,"$VVPR is this thing done for, hope it doesn&#39;t go below 2.62 ugh",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,572,"If there is any possible rerun of rags to riches like $BBY $NFLX $HPQ last year, finding now = $$$ .. ie. $ISRG $MLNX",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,585,$CREX push her to 4 hold at five t day runner lets go!,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,587,$AAPL @totalguru is being awfully quiet today.,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,594,$SPY The stars are falling into place. Oil falling again today and the markets are starting to crumble. $USO $UVXY,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,597,"$INTC a bad one, closed near the lows &amp; a few cents below the breakout level. Obviously couldn&#39;t hold the prior day&#39;s high. Clearly defin",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,606,$AAPL Too many shares. and the price is expensive for a lot of &quot;regular people&quot; at 100+ so that is why its hard to move.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,608,$JNUG gold continues to go down,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,610,$GS weak,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,611,&quot;@WallStJesus: $M JUNE CALL SWEEPER&quot;,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,615,$CDEV didn&#39;t hold its breakout of 17.7. bearish.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,617,"$ABUS @AmeroAmigo it seems that every time there is news it goes down. &#39;No news is good news&#39;, has never been truer than with this stock.",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,618,"$VTVT not a real company, no existing pipeline that works",anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,622,$SPCE not much of a response,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,624,$SPCE $24 million in bonuses. Zero income. Can we say bankruptcy? Let&#39;s say it together,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,625,"$GLUU if gluu creates TS game properly with deep quality , still able to make big money , but still far far away from now",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,626,$MVIS Again no order today?,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,629,$SKLZ low 13.02......bought more.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,630,$JNUG debt ceiling will do what to this mess?,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,636,"$XOMA anyone notice that everyday, same stuff is said? Everyone is bullish as can be, but the stock still drifts lower and lower",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,641,$BLDP unbelievable. Whole sector tanking since February without a single break through. These shorts I really hope they lose everything for being too greedy. How xannyou be happy when others are all losing tons of money. Most ev stocks have pulled back over 50% and still shows no sign of any recovery at all.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,642,$PLUG i cant see it beijg amazon guys coke on,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,646,$NVCN im going bed,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,649,$TRVN look at $TNDM saw it early too but I sold at $50 and got inpatient 🤷‍♂️ this will have its day too soon and u won’t see it coming!,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,651,"$NE Misses EPS by .02, looks to enter 16.60 area by market open tomorrow imo",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,653,$USDJPY hit 97 like I said... possible bounce now off trendline... no position.... http://stks.co/eoFG,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,660,$PHAS Far from over bought the sorts will burns for trying,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,669,$RSLS so let’s buy a company that produces revenue Then throw out an offering miss expectations by 200% &amp; now go global hmmmmm,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,670,$BABA Can we take solace that volume is light considering this “selloff” curse you Algos! 😂,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,674,@walhomedi $DRYS is halted - no pre trades today.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,678,"$WORK Forgive me if it seems like I&#39;m being mean, but when has WORK ever popped after ER? In my last 3 ERs with this ticker, each time there has been a sell off in AH including after Q4 call. I think they just struggle to truly scale the business into a revenue generating operation. Maybe LT, but ST it will continue to struggle IMO",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,682,"$JNUG Dow down, USD/JPY down...and this is down!! WTF",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,684,"@Stocks_Investing Calm Down, these aren’t penny stock buddy! You trying to short the whole market?!?! 😂 $TSLA wi be over $1000 before you know it.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,686,"Corporate profits -11.5% in the 4thQ from the year-ago period, the biggest drop since a 31% collapse at the end of 2008. $SPY $DIA $AAPL $C",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,687,$MED take your profits now bulls. Shares being sold. Not going to be a good ER for Bulls,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,688,$NUGT game over for now usd/jpy can only make a double top here,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,690,"$SAEX this isnt up 1000% yet? Shoot son, I witnessed this bad boy in August. No way it&#39;s done",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,692,$CSIQ there simply are no buyers. No bids. Market makers taking this down as slowly as possible. There are no bids anywhere,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,699,$NFLX overvalued urdu wont drop. stock is way too high.Perfect time for reed hastings to dump shares to dumb retail,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,704,"$AQST reported a loss of $0.59, consensus was ($0.49) via @eWhispers #epsmiss http://eps.sh/d/aqst",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,709,$UWTI $DWTI - Wow - What a week! - Lost 1k like a moron chasing that EIA report - Out of oil for now - Almost beet thirty!,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,710,ALERT: $GBR Watch over 1.50,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,712,"$ATNM The science is real here,the FUD pathetic from pathetic losers.Perhaps they should buy shs &amp; relax,kick back,&amp; enjoy ride up?or not.",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,715,$CLDR one confusing cloud company.. very hard to analyze,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,719,$CSCO March 27th 46$ calls are causing me much pain,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,720,$JNUG that was a very telling 1200 test fail for you bulls...time to test 1120 area,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,721,"$T This is Xmas in June, buy the depressed shares now, hold 6% dividend....risk free for the most part, this isn&#39;t GE folks",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,725,$SRPT &quot;all showed decline in distance since week 144&quot; ---- Weak data,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,727,$AAPL new lows on the horizon double down on $96 puts,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,732,$ROSE This is about have Hard Squeeze,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,740,$SYNA sitting on support but the gap n crap Fri has me unconvinced. Acting like a lot of failed b/o&#39;s lately. http://stks.co/a1JZw,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,742,$IONS Hopefully it&#39;s BS,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,744,$IRBT this is falling as bad as $EFX LOL Holding small size 83.65,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,745,$DGAZ had to adjust my charts...4ss coming...ultimate target 6.5sss http://stks.co/b0kVU,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,749,"$TLSS 50% down, what a bad move.",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,752,$CELG 115 EOD. keeping stongly the uptrend.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,755,$GM the worlds gone upside down... how does a company that had an incredible Q4 suffer 2 days straight?,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,766,bought puts on $jpm when it was at $44.41 ... will exit it tomorrow probably,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,768,Dont quite have that crazy vol in $TUES yet,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,769,$DOGE.X papa musk is behind us. Let’s fucken go!!!!!!,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,784,$CEI Soldiers of CEI -- continue doing Dr. Jonathan Camber&#39;s work. I shall carry a piece of each and every one of you into the afterlife.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,805,Q4 iPhone numbers are gonna be horrendous. iPad numbers should be better. Competition is heating up. Id release earlier than Oct. $aapl,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,807,$UAL I was regretting for not going long but would have I stayed till the crash or not idk. Algos doing this wtf,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,814,"$MBLY Tesla did their own regression analysis on sensor fusion prior to OTA update to enable ADAS, not MBLY. TSLA redundancy algo failed.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,822,$GE Where are all of the worthless PM bearshi* artists now?,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,827,$BBRY yawnnn boring week,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,829,$TRXC There is too many good things going on behind scenes worst scenario TRXC poised perfectly for a buyout By J&amp;J or Int. its a No Brainer,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,835,@frankrandall $FIT post from earlier meant $27.77 to 27.87 27.97 target today. Sorry. Typo. #intraday #stocks #daytrading #followme,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,837,$JAGX I need this to go over $2,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,839,$TSLA $NFLX Solid Fri decay on options.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,841,RT @howardlindzon have had the new mac air in my lap for an hour and no &#39;hot balls&#39; ...an end of an era $AAPL,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,842,"$AMZN Bear, Do you really think this thing is not going to fill that gap. It is a magnet, everyone wants to see that gap close before contin",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,865,$FCX continues to crash in the face of all the bullish commentary - new lows just hit http://stks.co/r2fs9,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,868,RT @arxitekt $REE is anyone short this beast? - Closed out my intraday puts when it reversed back thru 16. No shares to borrow.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,870,$DRYS this is suicidal,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,873,$NAK market got crushed . NAK and UVXY were the only green on my watchlist . Tomorrow will test 96 cents with 90 as new support .,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,874,$TWTR I am out from this stock.. closed long positions with big loss,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,875,"BUYING $EURCHF now, a bit late, but more sure it will rise now, have lot of losing pips to recover fr yesterday",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,877,$RGLS I sure hope this pos stock goes to 40. That way I can short this back down to 6$ a share.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,880,$TOPS dilution drying up faster than a dollar bill in a strip club,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,881,$ZNOG oil supply crunch coming? 3-digit price per barrel of oil coming ? https://youtu.be/kS_KWqJua90,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,882,$DOGE.X dump it btc breaking out to 50 now,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,883,"$AMC I’m certainly not a pro at this, or even good, but looking at these charts, shorts positions, and what these loser head-honchos on CNBC interviews are saying in their scrappy little offices.. Something sketchy is at play... which boosts my confidence in coming out of this not only unharmed, but with a little something extra to show for it. I’m down, at a big loss, but I’m ready to hold no matter how long it takes. Who’s with me?",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,893,$ETH.X I&#39;m covering at 1400. I&#39;m still up. But there&#39;ll be another layer of liquidation if it falls bellow 1350.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,895,"$MNKD seriously, could swear I walked past @hola getting off the elevator at Milwaukee county courthouse",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,897,$SUNE what happend guys no BK ?,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,900,$GRPN Finally it moved some. I just wished it would do more then the 3 range GL,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,901,$PINS Why is Pins not on the earnings calendar.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,912,$AMRH .375 next line to break,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,918,"$MYSZ @MoMoneyBurns Dont listen to Mo. There is a 1,000,000,000% chance of PR tomorrow not 1,000%. Follow me for calls like this 🙃",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,919,$DCTH release PR and this goes NUTS,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,924,"$HEAR But lets be serious here: they had top earnings over last q&#39;s and outlook is great, however they lost more than half of their value",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,931,$AMD nothing but a theta burner Tuesday $AAPL,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,932,$VTAE MM&#39;s stealing stops today big time. I think I just saw a $.60 drop and rebound.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,939,"$OCGN Quite a bit of red today all round market, that coupled with waiting for catalyst and here we are. Patience hodl!",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,945,"$WTW to be honest, looks pretty cheap here. can&#39;t find shares to short either",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,947,$MOBI easy short,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,950,$GNOG lmao Poor gnog bulls do you like sucking 🥚 back to 10,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,954,$GRT.X I&#39;m still waiting for an established uptrend I&#39;m not going in to break even again.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,958,"$ARNA nyc soda ban has been struck down, long live diabetes! cancer, obesity. nyer&#39;s celebrating in the streets drinking 64 oz sodas.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,959,$SPHS He is not coming back. Buy and Hold.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,965,$CHEK $9 by end of week the institutions want to get in lower right now,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,966,$BA So a decision is yet to be made and it will likely be at the end of the day. But a halt is more likely. So it&#39;s going to be a wild one. https://www.reuters.com/article/us-boeing-737max-production/boeing-suppliers-bracing-for-temporary-halt-in-737-max-output-idUSKBN1YK18Q,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,967,$TGT put in a limit order for March 2016 calls 70 strike for 1.00. Stock will have to hit high 66s to fill,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,970,$JNJ Boring,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,974,"$BB looks pretty bad that ER driven by lowered costs, which were already far bloated. Cutting costs becoming even more irrelevant",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,979,$IGC it only has to go up 60% to get back to where we were,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,980,$AMD Nothing is worse than a bearish article using only buissness indicators and no discussion about the products that drive this company.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,990,$NFLX anyone shorted into earnings?,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,999,$BAC if this stock goes down any further then it will wipe away any kind of gain it had for 2017. Seems like bear market for banks again,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1003,$AAPL declining 20 day rejected last week and rejected again twice this week. Lower volume today. Should start to boogie one we reclaim it. All the moving averages still not in line as well.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1012,$ISRG what a monster move off the $619 lows that were noted back in November. Indeed it bottomed. These bottoming formations r ubiquitous,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1014,$GPRO this stock always tanks and loses half its gains by eod all the time,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1015,"$WSM Williams-Sonoma (WSM, $45.54), top market loser yesterday, dropped -3.11%",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1019,$SPY Why is it not going up today?? MACD close to crossing down on the daily with perfect smooth trend. Bears will win!,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1020,$BPMX this has been SUCKING for soooo long now,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1022,$EXAS expecting earnings of $14-16mil for q3 or about 80-100% increase over q2 sales of $8mil. $350mil cash on hand means they aren&#39;t leavin,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1024,"$GPRO I was killed averaging down on this. My heart goes out to my former fellow longs. If we hit single digits, I will jump back in.",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1032,"$APRN no buyout folks...sorry. closed outright short and shorts calls. No position, but it&#39;s going lower.",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1039,"$GLBS Saw a report that they have a large debt and that major shares are held by individual insiders 5,539,767.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1041,@hinduhamma because to expensive and has similar problem with price action as $IQ since last ER.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1047,Netflix cut to Underperform at Needham http://bit.ly/hVIgFd $NFLX,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1050,@classy1671 it is &amp; it is going to get worse but there is still few people that dont want to understand that ..$amd,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1054,"$NKLA if it took you this long to realize they were a scam, then zero sympathy and not sorry you lost your cash. You were given dozens of signs since June.",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1055,$ITUS Look at $INO Inks cancer research deal with Parker. Flew today on H1N1. But 87 mil OS; Hard to move. Our news this Fri w/6 mil float?,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1056,@NoPainsAllGains I love volatility and I love $PXS but I just can’t bring myself to buy when it’s already up so high today,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1059,$TSLA broke thru 339. now has to hold as support instead of resistance. then all good,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1063,"$GME Copied from and credit to u/smartbrainguy “20 Million shares of GME are going to be bought because of 1/29 (January 29) calls on Friday that are expiring ITM (in the money). Don’t even think about selling until then. I looked through the options chain for GME and there are at least 200,000 options expiring on 1/29 that are easily ITM ($200 or less). All of those calls will be exercised on Friday resulting in 20,000,000 shares of the stock needing to be purchased. The stock is going to rocket higher and harder than your wife’s boyfriend when she let him do anal for the first time.” The shorts may decide to cover their positions before that happens knowing that the stock will rocket higher DO NOT EVEN THINK OF SELLING UNTIL FRIDAY, and even then, it’s likely the shorts will get their positions called next week based on that kind of skyrocketing activity and this will all be game over. I’m not a financial advisor, I’m just an astronaut riding a GME rocket ship to Valhalla.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1068,$LKNCY thinking positive.. This jumps to 17-20 overnight how many people are gonna sell right away jump ship?? Missing out on the Big Prize,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1069,"$BMY U.S. Food and Drug Administration Approves Opdivo® (nivolumab) in Combination with Chemotherapy for Patients with Advanced or Metastatic Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma.... https://www.stocktitan.net/news/BMY/u-s-food-and-drug-administration-approves-opdivo-r-nivolumab-in-7okuwzx5u710.html #cancer",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1070,$BIS peeling a little more off into this meltdown and adding some $SPY shorts and ultra&#39;s for the next week,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1078,$SRPT A little disappointed but that was a solid bounce from 73.8 almost to 76.... so you telling me there is a chance...... lol.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1080,"$LC why did we dump today? Doesnt appear any big sell orders came through, and i didnt see any bad news",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1081,$DPW I have no choice but to be bullish --- in at $3.58,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1082,$DCTH TOMORROW IS GOING TO BE EPIC,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1083,Fundamentals imply Manpowe $MAN is 10% undervalued w/ earnings expected Apr-20 https://t.co/z71n1eZb7U,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1090,$KODK does this go for 9 days of red in a row? Highly doubtful even with the market,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1092,$DK all synergies from merger and billion dollar cash in hand and monster $2.4 billion revenue growth gone!! Brutal,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1095,$IQ They need huge cash to operate their business...and for BIDU IQ has become a big burden...if BIDU has to sustain they have to get rid of IQ...Either IQ will be announcing huge offering or they have to bring the SP down considerbly to lure big hedge funds... Hedge funds wont be willing to pay over 20 for this pos...hence this rug pull,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1103,"$AAPL Everyone her is only holding Apple stock and praying, No one buying it except Apple themselves. NOT GOOD! SELL, Buy Blackberry Instead",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1107,$BTC.X can&#39;t stop digital currency,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1108,$WATT I think we are about to witness a short transfer from smart covering to dumb shorting,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1110,$MTZ They thought they&#39;d slip that 63K order past me. Little incremental accumulation AH.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1112,$GBSN this is textbook coiled,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1113,"$GEVO Its too late to RS, with the deadline only 6 days away, it cannot maintain $1 for 10 days. THEY WILL GET EXTENTION or get delisted.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1114,$CYTR the price says it all...get me back to .7 so i can evac this burning deathstar.,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1117,$WYY revers split next,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1126,$MVIS temporarily untradable RH?,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1129,$GWPH this could not go up despite the upgrade. Disappointed hope monday is better,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1134,$TSLA UP 30 BUCKS FROM THE LOWS...searching for 700.+ no doubt,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1138,$HTZ Holy cow.......shorts destroyed here-----,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1140,"Nov 23 Monday, $VXX Low was $18.79 and just short of $0.01 from hitting my BEARISH target $18.78 from Nov 20?",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1142,$GOOG Could get ugly. Very bearish chart here. http://fsc.bz/50B #WORDEN,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1144,$CZR Eldorado needs a Flagship premier name in gaming like Caesar’s. There is no way they are selling for 10 dollars Ever! 13 already/ table,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1146,$SPY This is nothing like the 2008-2009 financial crisis. We were in recession and the big banks were on verge of collapsing. Now the US economy actually is very strong and we have almost zero chance of entering into a recession,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1148,$TNXP I fell sorry for shorts when we take off keep holding us down u going get f up,anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1150,"$CLF rise to $20 Into Friday, get shorted back to $19 for eod Max pain, liftoff on Monday",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1152,$LFIN bid/ask spread too wide.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1159,$DWTI - Cant say I saw that next leg up coming!,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1162,$HMNY #moviepass #undervalued Buying under $16 is:,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1165,$JNUG you are seeing rejection on the 50 ema 15minute line. enjoy your loss buying now. https://www.tradingview.com/x/pMivIxmE/,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1167,$AMC i want this to go massively down as well. 😉,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1169,"$BBRY Sunday, Oct. 06 2013 BlackBerry falls near liquidation value, says report http://stks.co/alVe",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1178,"$VUZI yet they never seem to hit, do they 🤔 pumpers like @M000 here have been taking about shorts and a squeeze for 3 years. Never seems to happen.",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1190,$AAL STILL BULLISH Let’s go!,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1191,"#sectorbreadth Energy ($XLE) suffers five spot ranking loss. Relative losses all around, Technology ($XLK) most resistant",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1192,$RAD morale at hq is low,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1195,$SPY I don&#39;t get sentiment is high but the SPY is down??????,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1198,How to trade this choppy market: http://stks.co/eacp $SPY $SPX $ES_F,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1199,$PLAY no play here.. sinking,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1206,"$SPY Eventually, I will own the power of a god if this continues.",surprise,__invalid__,joy,few-shot
+FLAN-T5 Few-shot,Few-shot,1214,$HLF - HLF is on fire. Maybe a big fund is taking a position?,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1215,&quot;@CashMoney210: $KNDI I told you guys....yesterday was nothing more than a &quot;dead cat bounce&quot;. This is heading back down again.&quot; U sure?,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1226,$SPY boom announced delay in tariffs,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1231,$AMD its the fake news. Once reality sets in it will fall like a rock.,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1232,$GLAD hammer wedge rock bottom squeez 9.08$,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1235,$GOOGL had slight rise though its Q4 revenues continue to be disappointing. http://stks.co/b1aQ2,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1236,$CRMD why is Oragenics shooting up and we&#39;re plateauing.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1239,$CLWD had that last week and sold in a negative,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1247,$OCUL i am gonna just jerkk the rest of the day off,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1252,"Target on the bearish Shark in $SPY 243.70, through that then 242.89",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1257,$ADMP 94m market cap. Lol awful mngmt,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1258,"$SPY It&#39;s going to get very, very messy.",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1263,Huge spike in mentions of Valeant Pharmaceuticals on Oct. 14 - well before crash. Anxious to read this report. $VRX,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1264,Short volume percent for $EAT was 61.34% on 08-23-18 and 20 day rank was ~65th percentile https://volumebot.com/?s=EAT,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1276,"$T sellers will dry up, investors will continue to accumulate",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1279,"$MBRX I’m setting stop losses and sleeping I. Tomorrow, either this flies or it doesn’t 😂",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1285,@schelaine $CANN is going all the way to $10!,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1286,$SPY I bet you if i bought calls in $gsg it&#39;d breakdown right aftewards.,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1289,"$TTWO What the F#%$! Dipped to 21.5, exactly my stop and then shoots up a dollar. SOB",anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1293,"$AMZN its going back up, wtf?",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1300,@jsaettele looks like $NZDUSD is just retesting the breakdown from the head and shoulders? http://stks.co/hzYL,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1307,"$JKS I seldom regret my trading decisions but I&#39;m regretting not selling this one when it was in 80s. Fellow Longs, what&#39;s ur take here? Would we see 80s plus again? Would Biden green deal materialize and help this stock? Or we will continue with Tarrifs and just lip service from liberals and environmentalists",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1334,$MYSZ Who&#39;s ready for some more bleeding?,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1338,"$XVG.X I need to learn how to play this coin. I rode the top yesterday and got stuck holding 1,000 at .24 - need some serious pumpers today",disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1340,"$DPW not selling any time soon. Don&#39;t care if it hits 5 dollars, not selling. Mark this post so if I do sell you can rub it in.",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1342,$VRX HEY WE KNOW FROM THE SLUMS IS A DAY TRADER NOW TOO THERES NO LONGS ON THE THREAD TODAY,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1352,$RTTR some people were just never made to make $ hold your shares losers😂,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1356,$VXRT another gap up coming with people chasing here and shorts covering before pr,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1360,$EROS It&#39;s PM on no news. Best we can hope for is a continuation off the lows of yesterday&#39;s prices. Very doable. This thing has been beaten to a pulp.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1367,$NYMX Look another SPHS bag holder. Bitter that the pump and dump didn&#39;t pan out?,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1377,$SPY rofl idiot celebrate with 0.5 Move im dead AHAHAH,disgust,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1380,$FB all the bears are depressed on Facebook saying sad quotes and then here talking smack hilarious anyone 18-25 would think this is a buy,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1381,"$MARK short are burn today , I guess there are no type of lub can help them to ease the pain.",surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1385,$RXII my bretheren. Crucified we have collectively been. Scarred too!! Can this stock be ressurected? In themeantime happy easter all,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1386,"$MTN Gapped down, gapped back up at open.",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1389,$TTNP Getting close to the next halt at -11 % s&amp;p500 🙄🙄🙄🙄,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1393,$UBER They dont seem to get it. They are going to let the sp go to nowwhere. So many opportunities and sll they do is promote the giveback discounts. People love the service and it can stand on its own. People are not traveling now so it is a problem.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1405,$EURUSD vulnerable to {{http://online.wsj.com/article/SB10001424052748704329104576138334082512672.html } ...sell rallies,sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1406,$DIS locked and loaded Jan 2018 $120 calls SPRING is coiled.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1410,"$SPY we are going to float back and forth over this 10sma on nothing but hot air for a while, way too many options trading 244.5/245",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1426,"$FIT weak premise --FIT may not be able to compete in the smrt watch category and 3rd party apps, it was #2 smrt watch Q1 --and 700 R&amp;D sf",sad,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1427,Weekend Reading: Charged With Obstruction http://www.elliottwaveanalytics.com/2017/06/weekend-reading-charged-obstruction/ $SPY $SPX $WTIC $USO $XLK $XLE $FB $AAPL $NFLX $MSFT $AMZN $GOOG #FANMAG,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1429,$ENPH strength on display...yesterday bottomed around 18 rebounded quickly...today gets a downgrade by some chump and the bottom is higher than yesterday&#39;s bottom....strength.,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1443,$AAPL 125.80 dont forget that stocktwit lags...,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1446,$GNUS wtf is wrong with this stock? Never liked it last time I got in it either. Patience ...zzzzzzzzzzzz says another bag holder.,surprise,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1453,"$ATNM @newmoney12 My solace, a little birdie reminded me to go back and look at 3 past PIII&#39;s, and pay attention to the patient count",neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1455,"@jakesthelegend Annoying month. I called $TVIX spot on but one week early, then $FB took a dump on stellar earnings after I moved into it.",anger,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1468,$BTC-X patiently waiting at the bottom with my USD.,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1474,$DWTI $UWTI They just completely dumped the $. Up 130 basis points now down almost 50 basis points. All in the name of oil. $USO,fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1476,"Futes are looking green at the time of this posting..Shorts are gonna get squeezed again this week... $GME $NOK $AMD $SPY .. &#39;Smart Money&#39; isnt as smart as you think....HODL! ..To Robinhooders, Vlad should be in prison!..Fellow traders, I hope ya&#39;ll end this week on a green note... Wish you Godspeed",happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1488,"$ETSY a $1bb market cap, still overvalued. Better at $5-$6",fear,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1492,$ATOS hold,happy,__invalid__,sadness,few-shot
+FLAN-T5 Few-shot,Few-shot,1496,$GOOS the goose is loose!,neutral,__invalid__,sadness,few-shot
+FLAN-T5 Structured,Structured prompt,1,$EURUSD 1 min trade. myfxprofitsignals.blogspot.pt http://stks.co/c0cvl,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,2,@vanfam I whish I could.. my broker does not allow short position for $DBX,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,4,"$REXX This is and has been pure bs for as long as I been here, over 2 Years already lost a lot of money guess I’ll just give them the rest!",disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,8,$VRX how low do you think VRX can go.? Comments.,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,15,$SHOP market going red and this will fade with rest of tech sector,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,16,"$CLRB little bit of volume and little more attention form the traders, this will fly. very low float ...4Mil",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,19,"$QQQ Inverse Head and Shoulders forming, buyers can buy freely, as today is a buying opportunity",happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,22,$CL_F short 106.90 with 107st,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,26,$NNOX lost 500 in Vegas this weekend made up in $NNOX got in at 39,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,29,$YINN - http://www.trade-ideas.com/ticky/ticky.html?symbol=YINN - Tanking Pre Market the News is Out - New premarket low. Next support 21.83 from 9/18/2018.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,35,@TheStalwart: $THQI bankruptcy filing,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,36,"$UGAZ very loose trailing stop hit, took $70 on my 1 contract. may wait for tomorrow for another position, seems unclear with tht rejection",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,39,"$SPHS What happened to this one? Have it on watch still, but fully invested in $AMRS at the moment.",surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,41,$SPY if people looked at the daily chart they wouldn&#39;t be freaking out.Too busy looking at hourly charts that they think the world is ending,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,45,$FB Why facebook will enter a new bearish trend http://stks.co/ieBG,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,49,$SPY $DIA $AAPL Both Dow and Aapl sitting on their Weekly 50ma... and a long way down to the 200 for both,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,50,"$CTSH An attempt to stem the slide here with RV = 2.46. ER on the 8th, worth the watch in case we get a small run-up/pre-ER reversal.",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,58,$ZC_F gone short .5 of the high,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,61,$CHKE accumulating,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,64,$UVXY charts are also posted on my blog to keep a tracking. $TVIX $SPY $XIV $SVXY $VXX $QQQ,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,71,$ISR 1 penny a day. Next week ir will be sub $0.48 again. Cash flows indicate longs selling off.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,84,$BTC.X I block about 50 bear bots per day. Eventually I&#39;ll find real people here.,anger,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,94,$SPWR Take it easy... It&#39;s got to dip before it spikes to a hold again,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,98,"$DRYS I only made 2,880$ yesterday. I reall need this to go 1.95$🎉💰🎉💰🎉",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,100,"The Global Times, a widely-read tabloid published by the ruling Communist Party’s official People’s Daily, said leaving the Chinese market would be “suicide” for U.S. companies, especially for auto firms. $SPY $ES_F $GM $FXI $VIX",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,101,$WISH literally no other stock in the market that falls 5%-10% on the daily lol looks like I&#39;m gonna have to average down at the low 12$&#39;s 🤷‍♂️,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,105,$AKER Actually ill just request this company be cremated like all your portfolios will be,anger,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,109,$QTM some serious relative volume here,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,117,$ROX Its silly not to be in this when so many mergers happen over the weekend??,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,119,$LNKD too bad this couldn&#39;t break 200... killed my lotto puts,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,125,$TVIX 8.90 ---&gt; 10 let&#39;s roll,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,131,"I&#39;ve been really bearish lately $ISR $PLUG $SNTA I&#39;m sorry guys, going back to my bullish roots",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,132,"$NIHD was in and out of this, might get back in",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,134,Big fail-$APOL,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,136,$TSLA this ship is sinking who is going to hold to ocean floor with elon and who is jumping ship early? 🌊🚣,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,138,$NFLX why is this down?,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,159,$AI I&#39;m used to this. Down down down down down down. 87 Avg. and the dip keeps dipping.,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,161,Bought $GDX 7/14 $22 calls for $0.06 - $USDJPY breaking and should see run into precious metals here.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,162,RT @alexlee169: RT @alexlee169: $GMCR looks like its about to roll over // theres the death// there's my 28.00 target $GMCR from 29,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,171,"$NUGT in 9.95, stops with chesswine 9.75",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,173,"$LPTX Today disappointing no less, but answers many questions, established results are very promising. Partnership deals likely, although not guaranteed, and further trial results due September. I&#39;ll continue my position here. Also diversified and added $APVO and $XBIO here, low os, with catalyst in play. This is the world of bios. Market conditions didnt help any, but no excuses. Bios do hold safe play during Tariff and market turbulence. I also added to macro caps today, MSFT , TWTR, And few others looking, waiting on APPL , but looks like rebounding as well. Good luck, I remain professional, I ask each of you do as well. Personal attacks are unwarranted. Trading below $5 stocks not for weak hearted...",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,174,$AMZN this is what holding AMZN feels like every day for the last 5 months,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,179,$TOPS get into $AST. STOP LOSING MONEY,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,189,$AKER Buy Buy Buy!!! Come power hour you&#39;ll regret it.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,197,$IGC $NBEV - I have a nice &quot;buffer&quot; looking to add more possibly on Monday - looking for the short squeeze - stop-loss - always!,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,198,$RKT: Rock-Tenn announces senior note offering that includes senior notes maturing in 2020 and senior notes maturing... http://t.co/MJhhHQiE,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,201,"$DGII - http://stks.co/q1ukU - There it is, the pullback...time to get set - Running down: -0.29 in 31 seconds",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,205,$DNDN Goodbye Micro no time to waste on those who unable to learn. Anyone interested here&#39;s what needs to hold http://stks.co/i0mOL,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,210,$ESNC hmmm thinking about grabbing those .093s,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,211,$NAK so what&#39;s Our Fate,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,221,$YELP There is no more room to go up any more,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,222,$AMRN futures not looking good. Ouch,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,224,"$AMD Spent some time looking at the charts, the daily on this thing is beautiful. The flag has been broke, next leg up now.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,225,$VXRT PPS is down $8 In the last month. Maybe we can close 8 CENTS green today,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,229,$AMD I think this one dumps again! I am watching all the new bag holder dreaming of getting rich on this POS stock.,disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,233,$IBB $BIIB $CELG $GILD settle down CNBS its just a heathly pullback,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,241,$XBI $LABU forming a bear flag on the daily. I&#39;m expecting range bound $56.90-$55.70 until Monday or Tuesday on a down move. $LABD,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,242,$SPU go bulls. But I would not hold this over the weekend. More offerings will come. $STUDY,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,245,"Large Print $KR Size: 160000 Price: 37.415 Time: 1144 Amount: $5,986,400.00",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,253,"$TWTR $FB weak with the pull markets, can be buying opportunity.",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,257,@undavit4444 Good Bull flag opportunities for all. $HYRE for a short since no news. $ALRN id ride with caution...rest look fir gains.,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,264,$RGSE 7 million loss earnings,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,265,"$MCRB Not a pretty day, but the market overall was crushed! Once this whole DB crisis clears up then this rebounds",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,277,$WATT This is your dip. Wont last long,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,280,$SPY Dead Cat bounce...expect sell off to continue as normal,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,282,"$MYSZ I believe we will see $4.00 Tuesday, but I think it closes high 2’s or low 3’s. By Friday it will be trading in the 5’s or 6’s.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,287,"$PSTH.U Space X is not going public. Elon has said repeatedly, he is gonna land on Mars; before he takes this public. I’d love that tho!!",happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,294,My portfolio is down 50% in 3 months and I&#39;m literally lost with what to do $SOS $WKHS $XL $LEDS $RIDE $GMBL $PLAG,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,299,$DRYS 😂😂😂😂this will be back to a penny stk in morning😂😂😂😂😂😂,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,312,man I hope $AAPL rallies so i can take my cave bat to it...,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,318,"$NFLX this pet stock still managing to hold up decently but I think the falling tide..blah,blah,blah",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,324,$SPHS nothing to see here...move along. $NVDA is in rally mode,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,325,Natural Gas Finally Rebounds With Colder Risks And Tighter Balances $UNG https://goo.gl/a8jUAN,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,327,$CDEV is a bad ER priced in? Meaning a slightly decent earnings would be a +? Trying to decide whether to buy in the .80s or if it will go lower on bad ER...,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,335,@LoneWolf888 @Filledatask I can&#39;t day trade nymore..worth a one day hold? And ru guys gonna come back into $NVCN?,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,341,$BTC.X 3128 to 4215 ain&#39;t nutt&#39;n. Just start&#39;n it&#39;s run back up. Let it happen. Going to take tame and patience. So...,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,342,$BTC.X Been waiting.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,347,$CIDM And the next thing you know would be offering.. :(,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,350,"$JNUG today&#39;s reversal is an indication gold is about to bottom,yesterday gold 1258 jnug was at13.30 but u c some contraction activity 2day",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,351,$HMNY probably just a concerted effort by teds circle of friends to stop the embarrassment for a day. Oh it’s dumping,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,352,$ALGN 3 day rule! It works almost always! Look at the chart at Finviz. $190 is its support plus $178 has been its lowest where it bounced from last time beginning of this year after the brutal Nov-Dec selloff so I say it will retest its low again. $178-$180,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,356,$ROKU shorties nervous now lol,disgust,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,357,Hillenbrand ($HI) financial leverage: TOLERABLE. Current probability of bankruptcy is under… http://dlvr.it/RJ0FwT #trading #ideas #stocks,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,359,$TTCF tending though!,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,368,$APEN what is this waiting for? no lawsuits are coming.,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,374,$BIDU 120 CALLS 2019-11-29 $42K SPLIT View flow: https://optionsflow.aidedtrade.com/ #options #trading,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,377,"$IG 3 negative revisions in past few weeks and current year earnings consensus lowered over last 30 days, better buy opportunities ahead.",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,379,$AKS the way I have my trend drawn $AKS is trend break and retest. Steels generally look bottoming off move ended in Dec.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,383,"$AAOI Easy to take a small loss/profit, but Hard to take a big loss/profit. So Cut losses quickly and ride winners paiently.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,388,$ECYT ive been holding since 2.60 and im holding till its 10.00 atleast,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,395,$AAPL will NEVER see $103.5 again. NEVER NEVER NEVER . Watch and Learn . For my special followers,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,398,"$IBB, $BBH looks like we have finally, finally bottomed. Never seen a sector so overworked on the swings, bodes well for a strong move up.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,404,$MLNX not moving AH?? JUst +3.39%???,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,407,$QQQ lets go lower low,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,411,$SPOT I can’t wait to short this,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,421,$EURUSD: Key short-term pivot point is 1.3325 a break of which will suggest a cycle has ended @ 1.3370 (HOD) #EUR #Elliottwave,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,428,$SPY Prayers for the innocent in Venezuela. What a damn shame the whole thing is and how it&#39;s been down there. $TVIX,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,432,"$CLRB Took a seat in the rocket, ready for the take off",happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,433,"$DGB.X BTC is down today so far, we seem to be following suit. Probably a good day to buy some more coins if you can. Lost a lot of what we gained yesterday, but the day is young.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,439,bought some $spy feb 128 puts for $1.69.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,440,Guggenheim Downgrades Walt Disney ($DIS) to Neutral http://stks.co/f1AsC,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,443,@Chase03670 @Fibline Thanks bro...i need to figure out how to do the ex-div adjusted charts in TOS ..any ideas $AAPL,surprise,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,446,$SNDL $420 Stimulus club.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,468,$SYN Regeneron Drops Like a Rock after approval... this is what happen to me with HZNP. I lost big time. Will SYN do the same?,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,478,$GPRO I just took a percocet to relieve the pain around my corn hole from today. See if that helps.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,482,$IVR if this goes to $4 today it will fly. Let&#39;s get our July calls,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,485,$MU Micron earnings down -65% from 2018 have declined year of year since 2018 MU earnings 11.51 $AAPL $NVDA $AMD $QCOM $SPY,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,486,"$EC SHS, next target, march 12 low http://fsc.bz/FTm #WORDEN",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,487,$AMDA I wish this can stay low for a while so I can buy mass :(,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,488,"$GPS rallies up to 35.03 on Q2 results, but quickly gives back gains. $$",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,492,$PEI plenty shorts cant even cover until tomorrow. What a bear trap yesterday was. They will cover tomorrow. We will bath in their money.,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,501,The GEO Group downgraded by ValuEngine to strong sell. https://www.marketbeat.com/r/1189834 $GEO,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,506,$ES_F 48 into the close.??. this looks sick,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,511,"Out $UGA, holding $XOM $PBR",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,512,$RFMD im looking for a move to $13.50 lets see if we get there tomorrow,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,514,$DOGE.X feel bad for those who didn&#39;t buy at 5 cents who were hoping for a drop to 4 cents or lower lol. Guys missed out!!! Lol,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,517,"$UGAZ remember what I said.. this is going down to 1.85 today, watch",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,525,$BHP yap. think it will fall back to around 24.89,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,536,"$SPY seeing so many new highs is good, if ur in but if not, most are late and eps to come. one way markets are hard for traders.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,538,"$TRXC Possibly, but even then maybe not.",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,541,"$FB Judging from the selling pressure, $45.2 may not hold this week.",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,543,"$FCX Kids, one up day does not a trend make. This sick puppy will go lower.",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,544,$XXII Clarence this stock &amp; the weather here is horrific.....,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,545,$MNKD News is out. Mike diagnosed with Down Syndrome. I knew it all along.,disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,551,$RAD bostonsonics needs a life!,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,552,$DAX Less than 100points to go and i have to take my losses,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,554,&quot;@LiveSquawk $SSEC Shanghai Comp Opens Down 2.7%&quot;,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,558,$OPGN buy the dips this morning; maybe the last chance to have sub .35,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,567,$DRYS not leaving anytime soon... :),happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,571,$TECK Any commodity based investment will have its wild swings. TECK as a business has not changed fundamentally. Deep breaths everyone,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,578,$ETP My guess is it&#39;ll bottom somewhere in the 18s and get rangebound 18-20 for a while. Something like that.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,579,"$LJPC Great job in AH longs, was eye her a few days back, didn&#39;t buy, oh well, see $OXGN for the next move. Trial results coming soon",happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,584,@jay4xo too easy $SHIP 😂😂,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,586,$GOOGL $GOOG Clean rollercoaster curls.,fear,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,587,$AAPL @totalguru is being awfully quiet today.,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,589,$BCH.X I buy it goes down 😐,disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,592,$KNDI can we get over 14 today and just say goodbye to 13 forever please,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,593,$LMFA 100%+ from alert. Also played the dips twice. Will revisit for potential swing once it cools off.,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,594,$SPY The stars are falling into place. Oil falling again today and the markets are starting to crumble. $USO $UVXY,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,597,"$INTC a bad one, closed near the lows &amp; a few cents below the breakout level. Obviously couldn&#39;t hold the prior day&#39;s high. Clearly defin",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,606,$AAPL Too many shares. and the price is expensive for a lot of &quot;regular people&quot; at 100+ so that is why its hard to move.,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,608,$JNUG gold continues to go down,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,609,$SPY buy buy buy,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,610,$GS weak,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,611,&quot;@WallStJesus: $M JUNE CALL SWEEPER&quot;,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,615,$CDEV didn&#39;t hold its breakout of 17.7. bearish.,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,617,"$ABUS @AmeroAmigo it seems that every time there is news it goes down. &#39;No news is good news&#39;, has never been truer than with this stock.",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,618,"$VTVT not a real company, no existing pipeline that works",anger,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,625,"$GLUU if gluu creates TS game properly with deep quality , still able to make big money , but still far far away from now",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,626,$MVIS Again no order today?,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,641,$BLDP unbelievable. Whole sector tanking since February without a single break through. These shorts I really hope they lose everything for being too greedy. How xannyou be happy when others are all losing tons of money. Most ev stocks have pulled back over 50% and still shows no sign of any recovery at all.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,642,$PLUG i cant see it beijg amazon guys coke on,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,643,$SNAP want this to hold above 16.74. Still thinking 18 in the near future.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,646,$NVCN im going bed,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,649,$TRVN look at $TNDM saw it early too but I sold at $50 and got inpatient 🤷‍♂️ this will have its day too soon and u won’t see it coming!,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,651,"$NE Misses EPS by .02, looks to enter 16.60 area by market open tomorrow imo",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,653,$USDJPY hit 97 like I said... possible bounce now off trendline... no position.... http://stks.co/eoFG,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,674,@walhomedi $DRYS is halted - no pre trades today.,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,681,$INPX $hmny there go my two babies!,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,686,"Corporate profits -11.5% in the 4thQ from the year-ago period, the biggest drop since a 31% collapse at the end of 2008. $SPY $DIA $AAPL $C",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,688,$NUGT game over for now usd/jpy can only make a double top here,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,690,"$SAEX this isnt up 1000% yet? Shoot son, I witnessed this bad boy in August. No way it&#39;s done",surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,695,$SCYX what’s current price? My price isn’t loading 😑,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,704,"$AQST reported a loss of $0.59, consensus was ($0.49) via @eWhispers #epsmiss http://eps.sh/d/aqst",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,707,$PLG Dilution for the next year.,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,710,ALERT: $GBR Watch over 1.50,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,712,"$ATNM The science is real here,the FUD pathetic from pathetic losers.Perhaps they should buy shs &amp; relax,kick back,&amp; enjoy ride up?or not.",disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,716,$BB BB mkt cap 3.89B. 2.4B cash.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,719,$CSCO March 27th 46$ calls are causing me much pain,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,721,"$T This is Xmas in June, buy the depressed shares now, hold 6% dividend....risk free for the most part, this isn&#39;t GE folks",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,725,$SRPT &quot;all showed decline in distance since week 144&quot; ---- Weak data,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,726,$KTEC files form SC TO-T https://fintel.io/filings/us/ktec,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,727,$AAPL new lows on the horizon double down on $96 puts,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,729,"August Markets: Stocks Often Declines as Traders Vacation $DIA, $SPY, $QQQ, $VXX http://www.livetradingnews.com/august-markets-stocks-often-declines-traders-vacation-51295.html#.WY4beFF96M8",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,732,$ROSE This is about have Hard Squeeze,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,735,$MDMP this stock should be over a dollar. We will get there. Buy and hold set your sell prices high tomorrow shorts should cover therefore sending prices higher,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,744,$IRBT this is falling as bad as $EFX LOL Holding small size 83.65,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,745,$DGAZ had to adjust my charts...4ss coming...ultimate target 6.5sss http://stks.co/b0kVU,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,749,"$TLSS 50% down, what a bad move.",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,750,$BTC.X She gone,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,752,$CELG 115 EOD. keeping stongly the uptrend.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,755,$GM the worlds gone upside down... how does a company that had an incredible Q4 suffer 2 days straight?,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,759,$SPY lol and last time we came to this level it collapsed under it. Now it’s support lol,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,762,$LINK.X Volume moving in. As of 20 min ago have moved majority of holdings into link. Let’s get this 👑☑️,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,764,$MOSY morning dip...buy,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,766,bought puts on $jpm when it was at $44.41 ... will exit it tomorrow probably,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,780,"$FB at some point, buyers will come in, probably between 53.33 and 54.80, gap will be filled and great spt at 53.33",happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,784,$CEI Soldiers of CEI -- continue doing Dr. Jonathan Camber&#39;s work. I shall carry a piece of each and every one of you into the afterlife.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,807,$UAL I was regretting for not going long but would have I stayed till the crash or not idk. Algos doing this wtf,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,809,$PLTR Cathie 🤘,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,811,"$NBEV Still plenty of institutional investors, don&#39;t see any that jumped out today like a previous post was suggested https://fintel.io/so/us/nbev",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,819,$CVS down purely on Walgreens news,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,822,$GE Where are all of the worthless PM bearshi* artists now?,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,824,$X 16+ today,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,827,$BBRY yawnnn boring week,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,828,$expe EPS play im all out +$1.80,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,832,"Apple jumps in pre-market trade, resistance is now at $384.58 - $AAPL - http://stks.co/1Jrn",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,834,$FMSA High Fundamental Rating -&gt; http://stks.co/r2gMy,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,835,@frankrandall $FIT post from earlier meant $27.77 to 27.87 27.97 target today. Sorry. Typo. #intraday #stocks #daytrading #followme,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,837,$JAGX I need this to go over $2,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,839,$TSLA $NFLX Solid Fri decay on options.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,841,RT @howardlindzon have had the new mac air in my lap for an hour and no &#39;hot balls&#39; ...an end of an era $AAPL,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,843,RT @DarvasTrader: The NASDAQ is now dipping below the 50-day line. Keep an eye on this key level throughout the day. $QQQ,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,847,$AUDUSD http://stks.co/3grT daily chart; possible elliott wave count #elliottwave #forex #aussie,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,859,$AVEO Another 4 months of waiting.... oh well thank God I have other Stocks to distract me 👀,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,860,"don&#39;t worry about this week, just remember when life comes back and you looking for some places to spend your holiday. that time check stocks price of $CCL $AAL .",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,865,$FCX continues to crash in the face of all the bullish commentary - new lows just hit http://stks.co/r2fs9,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,870,$DRYS this is suicidal,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,873,$NAK market got crushed . NAK and UVXY were the only green on my watchlist . Tomorrow will test 96 cents with 90 as new support .,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,874,$TWTR I am out from this stock.. closed long positions with big loss,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,875,"BUYING $EURCHF now, a bit late, but more sure it will rise now, have lot of losing pips to recover fr yesterday",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,876,$JD adding every time this drops below $40 which has been a lot lately. Double in 1-2 yrs.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,877,$RGLS I sure hope this pos stock goes to 40. That way I can short this back down to 6$ a share.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,883,"$AMC I’m certainly not a pro at this, or even good, but looking at these charts, shorts positions, and what these loser head-honchos on CNBC interviews are saying in their scrappy little offices.. Something sketchy is at play... which boosts my confidence in coming out of this not only unharmed, but with a little something extra to show for it. I’m down, at a big loss, but I’m ready to hold no matter how long it takes. Who’s with me?",disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,889,$P holding 20DMA for a while. waiting for that bounce before a swing trade.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,890,"@donnahurwitz I told you on the $DRYS board I am married and not interested. I am sorry I hurt you, but you can’t keep following me.",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,893,$ETH.X I&#39;m covering at 1400. I&#39;m still up. But there&#39;ll be another layer of liquidation if it falls bellow 1350.,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,900,$GRPN Finally it moved some. I just wished it would do more then the 3 range GL,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,912,$AMRH .375 next line to break,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,924,"$HEAR But lets be serious here: they had top earnings over last q&#39;s and outlook is great, however they lost more than half of their value",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,926,20-day low alerts: $DXD and $SDS,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,933,$ENZN Still holding....,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,942,$BTC.X Buying will turn to regret,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,945,"$WTW to be honest, looks pretty cheap here. can&#39;t find shares to short either",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,947,$MOBI easy short,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,954,$GRT.X I&#39;m still waiting for an established uptrend I&#39;m not going in to break even again.,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,957,"$HOFV When a ticker starts to trend, its time to full send...",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,959,$SPHS He is not coming back. Buy and Hold.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,965,$CHEK $9 by end of week the institutions want to get in lower right now,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,968,$BZUN god body is this stock,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,970,$JNJ Boring,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,971,@Haii Hope $P proves market wrong if so. A lot of my money is tied up here with a decent amount left to avg down if need be. I believe in $P,fear,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,974,"$BB looks pretty bad that ER driven by lowered costs, which were already far bloated. Cutting costs becoming even more irrelevant",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,979,$IGC it only has to go up 60% to get back to where we were,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,985,$TNXP this is a .69 stocks for a while. Waiting is the key here.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,990,$NFLX anyone shorted into earnings?,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,992,"$ADMP otherwise just wait until June,",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,993,$CBR update says ER is now on the 16th pre market ...guess they need more time to sort stuff out lol,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,999,$BAC if this stock goes down any further then it will wipe away any kind of gain it had for 2017. Seems like bear market for banks again,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1003,$AAPL declining 20 day rejected last week and rejected again twice this week. Lower volume today. Should start to boogie one we reclaim it. All the moving averages still not in line as well.,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1006,J C Penney Company&#39;s PT raised by Piper Jaffray to $14.00. overweight rating. http://stks.co/q1mRJ $JCP,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1012,$ISRG what a monster move off the $619 lows that were noted back in November. Indeed it bottomed. These bottoming formations r ubiquitous,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1014,$GPRO this stock always tanks and loses half its gains by eod all the time,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1015,"$WSM Williams-Sonoma (WSM, $45.54), top market loser yesterday, dropped -3.11%",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1018,$AAPL missed glad I didnt buy into that on the long side,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1023,"$ADMP I’m done for the night, and now I think I’ll go to my “corner” and wait for Jr approval👍💰👍",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1024,"$GPRO I was killed averaging down on this. My heart goes out to my former fellow longs. If we hit single digits, I will jump back in.",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1032,"$APRN no buyout folks...sorry. closed outright short and shorts calls. No position, but it&#39;s going lower.",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1038,$SEAC so we going up or down from here,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1041,@hinduhamma because to expensive and has similar problem with price action as $IQ since last ER.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1045,$ZOM Qorvo is starting to move upward. Hopefully we grab the coat tails and ride along.,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1050,@classy1671 it is &amp; it is going to get worse but there is still few people that dont want to understand that ..$amd,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1054,"$NKLA if it took you this long to realize they were a scam, then zero sympathy and not sorry you lost your cash. You were given dozens of signs since June.",disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1055,$ITUS Look at $INO Inks cancer research deal with Parker. Flew today on H1N1. But 87 mil OS; Hard to move. Our news this Fri w/6 mil float?,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1056,@NoPainsAllGains I love volatility and I love $PXS but I just can’t bring myself to buy when it’s already up so high today,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1065,"$PLL pull down to $60, and I will take it.",sad,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1066,$dia EXP:7/13/2018|MaxPain:247.0|HighPutOI:236.0(2132)|HighCallOI:249.0(3614) http://www.opricot.com/ticker/dia/optiongraphs,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1068,$LKNCY thinking positive.. This jumps to 17-20 overnight how many people are gonna sell right away jump ship?? Missing out on the Big Prize,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1070,$BIS peeling a little more off into this meltdown and adding some $SPY shorts and ultra&#39;s for the next week,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1072,$XSPA ill sell at 18. And then I&#39;ll jazz my pants,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1074,$CLSD let’s look for the continuation today,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1078,$SRPT A little disappointed but that was a solid bounce from 73.8 almost to 76.... so you telling me there is a chance...... lol.,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1079,$CO sorry for the ppl that got trapped and got bamboozled by the pumpers. Hahahahahahahahahahahahahahaha,disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1080,"$LC why did we dump today? Doesnt appear any big sell orders came through, and i didnt see any bad news",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1083,Fundamentals imply Manpowe $MAN is 10% undervalued w/ earnings expected Apr-20 https://t.co/z71n1eZb7U,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1090,$KODK does this go for 9 days of red in a row? Highly doubtful even with the market,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1092,$DK all synergies from merger and billion dollar cash in hand and monster $2.4 billion revenue growth gone!! Brutal,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1096,$WKHS 🐎🐎⚡⚡,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1100,$DCTH healthyness is in the dips,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1113,"$GEVO Its too late to RS, with the deadline only 6 days away, it cannot maintain $1 for 10 days. THEY WILL GET EXTENTION or get delisted.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1116,"$ADXS started trading last year round August with $4k it is now October and my account is at $650. Should I keep trading, or call it quits?",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1121,$IWM leading the way lower. Hmmm.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1126,$MVIS temporarily untradable RH?,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1129,$GWPH this could not go up despite the upgrade. Disappointed hope monday is better,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1140,"Nov 23 Monday, $VXX Low was $18.79 and just short of $0.01 from hitting my BEARISH target $18.78 from Nov 20?",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1141,New $AAPL News! --&gt; Major Averages Close Mixed Ahead Of Fed Announcement - U.S. Commentary Learn more: https://www.dowstocktrader.com/stoc,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1142,$GOOG Could get ugly. Very bearish chart here. http://fsc.bz/50B #WORDEN,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1143,"$JCP hopefully SHAQ buys it for $4 per share, lol",happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1146,$SPY This is nothing like the 2008-2009 financial crisis. We were in recession and the big banks were on verge of collapsing. Now the US economy actually is very strong and we have almost zero chance of entering into a recession,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1148,$TNXP I fell sorry for shorts when we take off keep holding us down u going get f up,anger,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1150,"$CLF rise to $20 Into Friday, get shorted back to $19 for eod Max pain, liftoff on Monday",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1154,$NVCN hold a little bit,anger,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1159,$DWTI - Cant say I saw that next leg up coming!,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1160,$PCLN: New Insider Transaction on PCLN by Hd Worldwide Strat &amp; Planning Fogel Glenn D: http://stks.co/i2wiF,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1162,$HMNY #moviepass #undervalued Buying under $16 is:,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1165,$JNUG you are seeing rejection on the 50 ema 15minute line. enjoy your loss buying now. https://www.tradingview.com/x/pMivIxmE/,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1169,"$BBRY Sunday, Oct. 06 2013 BlackBerry falls near liquidation value, says report http://stks.co/alVe",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1173,"$VRX oversold rally coming. Watch for a breakout levels of 95,98, 101. Positioned for a rebound to 120",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1175,$WMGI rises to highest close since July 1st: https://techniquant.com/reports/stock-wmgi-daily-technical-analysis-report-for-2019-07-29/,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1181,$SPY Can&#39;t wait to see how the futures thugs handle the open tomorrow and what the spin will be. have a good evening,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1183,$SPCE Will end up like for this guy,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1184,$SPHS just to put it on the record. JMTraders aka shadow. Are you in and short or do you no longer hold any position here?,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1191,"#sectorbreadth Energy ($XLE) suffers five spot ranking loss. Relative losses all around, Technology ($XLK) most resistant",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1192,$RAD morale at hq is low,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1193,"$ASNA reports 3/01 AMC, Estimize Consensus is 0.02 EPS http://stks.co/f43BG",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1195,$SPY I don&#39;t get sentiment is high but the SPY is down??????,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1198,How to trade this choppy market: http://stks.co/eacp $SPY $SPX $ES_F,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1199,$PLAY no play here.. sinking,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1206,"$SPY Eventually, I will own the power of a god if this continues.",surprise,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1215,&quot;@CashMoney210: $KNDI I told you guys....yesterday was nothing more than a &quot;dead cat bounce&quot;. This is heading back down again.&quot; U sure?,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1217,$CELG hellooo now time to go up $76,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1229,$RVLT count the pennies all you flippers!,anger,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1230,$NQ Geoff Casely - Managing Director EMEA at NQ Mobile Inc. http://stks.co/d0KoZ at the top of Bing this morning http://stks.co/b0KtW,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1232,$GLAD hammer wedge rock bottom squeez 9.08$,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1234,"$EYES Because it&#39;s never stayed down for the count and can rally out of blue, and has, at any time, from 30-100+%. And it&#39;s overdue for pop.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1235,$GOOGL had slight rise though its Q4 revenues continue to be disappointing. http://stks.co/b1aQ2,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1239,$CLWD had that last week and sold in a negative,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1252,"Target on the bearish Shark in $SPY 243.70, through that then 242.89",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1255,$MSFT Close but no cigar. No one should even fathom til a +5% move.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1256,$XSPA we get the airlines that’s the key thing,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1257,$ADMP 94m market cap. Lol awful mngmt,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1259,Support on $SPX at 1249 &amp; 1258...,neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1268,$TRVN looks like Monday or Tuesday latest for breakout/break down.. looks more like out for now.vs down,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1276,"$T sellers will dry up, investors will continue to accumulate",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1286,$SPY I bet you if i bought calls in $gsg it&#39;d breakdown right aftewards.,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1300,@jsaettele looks like $NZDUSD is just retesting the breakdown from the head and shoulders? http://stks.co/hzYL,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1314,$GERN a 6-cup packet of unsweetened seneca applesauce is $1.50.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1319,$SHS http://chart.ly/79by9vm 60 day / 60 mins intraday chart. 12/17/10. Consolidation to the 200SMA through time.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1320,$CYTR babyyyyyy i canttt,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1328,"$GEVO is it over, finally?",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1333,$XGTI let&#39;s pop to 4,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1335,$VSTM Looking for Close at or above $5.91,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1338,"$XVG.X I need to learn how to play this coin. I rode the top yesterday and got stuck holding 1,000 at .24 - need some serious pumpers today",disgust,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1339,"DRE’s VOLATILE WL 7/11/2019: $HL Bullish Buy zone: 1.64/1.66/1.68 Bullish Resistance: 1.76 Bearish: A break below 1.66 $HSGX Bullish Buy Zones: .195/20 Bullish Resistance: .23/.28/.33 Bullish PT: 0.32 Bearish: A break below 0.195 HSGX and $ZN on my watch list tomorrow. HSGX seems to be due for a PR on merger and the current prices are looking like a good entry level. We’ll see in the am I guess though. $NAK Bullish buy zones: 0.46/0.48 Bullish PT: .54+ Bearish: If it goes back below .45 DISCLAIMER: Not a financial advisor. Just sharing my opinion on potential price action if volume comes in. Opinions are my own, please do your due diligence. https://brooklyn-trader.com/blogs/news/drepicks-volatile-plays-07-12-2019",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1340,"$DPW not selling any time soon. Don&#39;t care if it hits 5 dollars, not selling. Mark this post so if I do sell you can rub it in.",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1343,"$BTC.X Go to 52, so u can resume prior trajectory",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1345,$ACST watching for reentry over .36👀🦚,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1348,$SDRL i think it lost the momentum for today... will definitely go up in the next weeks,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1352,$RTTR some people were just never made to make $ hold your shares losers😂,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1360,$EROS It&#39;s PM on no news. Best we can hope for is a continuation off the lows of yesterday&#39;s prices. Very doable. This thing has been beaten to a pulp.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1361,$SPY Mine as well start saying jokes and posting memes. This is so boring i dont care which way the market goes at this point just do something omg!,surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1363,Forex Signal: SELL $GBPUSD @ 1.24342 Shared by Momentum_FX http://sfosignals.com/sv/8e842b7adc49d2b4402559c5788ad720/?utm_source=StockTwits,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1369,$TRX.X this is going to eventually be at $1.. all cryptos will eventually be $1 when everyone can buy them,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1372,$NBEV Looks to be filling the lower gap at 7.03 and then up we should go,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1374,$CEI they want you to speculate. It can go over .20 any day they get ready. No reason for a r/s. It’s being held down for a reason. Patience,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1380,$FB all the bears are depressed on Facebook saying sad quotes and then here talking smack hilarious anyone 18-25 would think this is a buy,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1381,"$MARK short are burn today , I guess there are no type of lub can help them to ease the pain.",surprise,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1385,$RXII my bretheren. Crucified we have collectively been. Scarred too!! Can this stock be ressurected? In themeantime happy easter all,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1386,"$MTN Gapped down, gapped back up at open.",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1389,$TTNP Getting close to the next halt at -11 % s&amp;p500 🙄🙄🙄🙄,sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1401,$MCD http://chart.ly/g56f37r I don&#39;t see another good dividend paying stock with a great monthly chart. Target: $95-100,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1406,$DIS locked and loaded Jan 2018 $120 calls SPRING is coiled.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1412,$UVXY if this is x2 vix should this be at like $42 right now?,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1416,$FIT is (F)a(I)lure Uni(T).. Sell and Save your money for now..,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1426,"$FIT weak premise --FIT may not be able to compete in the smrt watch category and 3rd party apps, it was #2 smrt watch Q1 --and 700 R&amp;D sf",sad,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1429,$ENPH strength on display...yesterday bottomed around 18 rebounded quickly...today gets a downgrade by some chump and the bottom is higher than yesterday&#39;s bottom....strength.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1430,$YRIV hold at least to 5.00 dont dump,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1437,"$CL_F stopped flat +2, .07 s",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1443,$AAPL 125.80 dont forget that stocktwit lags...,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1453,"$ATNM @newmoney12 My solace, a little birdie reminded me to go back and look at 3 past PIII&#39;s, and pay attention to the patient count",neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1455,"@jakesthelegend Annoying month. I called $TVIX spot on but one week early, then $FB took a dump on stellar earnings after I moved into it.",anger,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1467,$CYTK I sold 1/3 of my shares and it&#39;s STILL my largest holding and 10% of my portfolio. That&#39;s how much I believe in this.,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1468,$BTC-X patiently waiting at the bottom with my USD.,neutral,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1474,$DWTI $UWTI They just completely dumped the $. Up 130 basis points now down almost 50 basis points. All in the name of oil. $USO,fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1476,"Futes are looking green at the time of this posting..Shorts are gonna get squeezed again this week... $GME $NOK $AMD $SPY .. &#39;Smart Money&#39; isnt as smart as you think....HODL! ..To Robinhooders, Vlad should be in prison!..Fellow traders, I hope ya&#39;ll end this week on a green note... Wish you Godspeed",happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1481,$GILD chillen memory foam bed listening to jackson brown. Thinking of the cheap exchange rate ill get with gild money when i go to newzland,happy,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1488,"$ETSY a $1bb market cap, still overvalued. Better at $5-$6",fear,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1491,$EURUSD added 3750 (c/b 3661),neutral,__invalid__,joy,structured
+FLAN-T5 Structured,Structured prompt,1492,$ATOS hold,happy,__invalid__,sadness,structured
+FLAN-T5 Structured,Structured prompt,1496,$GOOS the goose is loose!,neutral,__invalid__,sadness,structured

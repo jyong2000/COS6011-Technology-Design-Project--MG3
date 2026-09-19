@@ -1,0 +1,620 @@
+model,family,strategy,true_label,predicted_label,count,rate_within_true_class
+BERT Dataset Weighting,BERT,Dataset weighting,neutral,happy,69,0.12921348314606743
+BERT Dataset Weighting,BERT,Dataset weighting,happy,neutral,55,0.11904761904761904
+BERT Dataset Weighting,BERT,Dataset weighting,fear,happy,36,0.21951219512195122
+BERT Dataset Weighting,BERT,Dataset weighting,fear,neutral,34,0.2073170731707317
+BERT Dataset Weighting,BERT,Dataset weighting,neutral,fear,33,0.06179775280898876
+BERT Dataset Weighting,BERT,Dataset weighting,happy,fear,28,0.06060606060606061
+BERT Dataset Weighting,BERT,Dataset weighting,neutral,surprise,22,0.04119850187265917
+BERT Dataset Weighting,BERT,Dataset weighting,surprise,happy,22,0.16417910447761194
+BERT Dataset Weighting,BERT,Dataset weighting,disgust,happy,17,0.22972972972972974
+BERT Dataset Weighting,BERT,Dataset weighting,sad,happy,17,0.20481927710843373
+BERT Dataset Weighting,BERT,Dataset weighting,surprise,neutral,16,0.11940298507462686
+BERT Dataset Weighting,BERT,Dataset weighting,happy,surprise,15,0.032467532467532464
+BERT Dataset Weighting,BERT,Dataset weighting,anger,happy,13,0.2653061224489796
+BERT Dataset Weighting,BERT,Dataset weighting,sad,fear,13,0.1566265060240964
+BERT Dataset Weighting,BERT,Dataset weighting,sad,neutral,12,0.14457831325301204
+BERT Dataset Weighting,BERT,Dataset weighting,disgust,fear,9,0.12162162162162163
+BERT Dataset Weighting,BERT,Dataset weighting,anger,disgust,8,0.16326530612244897
+BERT Dataset Weighting,BERT,Dataset weighting,surprise,fear,8,0.05970149253731343
+BERT Dataset Weighting,BERT,Dataset weighting,fear,surprise,7,0.042682926829268296
+BERT Dataset Weighting,BERT,Dataset weighting,happy,sad,7,0.015151515151515152
+BERT Dataset Weighting,BERT,Dataset weighting,neutral,disgust,7,0.013108614232209739
+BERT Dataset Weighting,BERT,Dataset weighting,sad,surprise,7,0.08433734939759036
+BERT Dataset Weighting,BERT,Dataset weighting,fear,sad,6,0.036585365853658534
+BERT Dataset Weighting,BERT,Dataset weighting,neutral,anger,6,0.011235955056179775
+BERT Dataset Weighting,BERT,Dataset weighting,anger,neutral,5,0.10204081632653061
+BERT Dataset Weighting,BERT,Dataset weighting,anger,surprise,5,0.10204081632653061
+BERT Dataset Weighting,BERT,Dataset weighting,disgust,anger,5,0.06756756756756757
+BERT Dataset Weighting,BERT,Dataset weighting,happy,disgust,5,0.010822510822510822
+BERT Dataset Weighting,BERT,Dataset weighting,disgust,surprise,4,0.05405405405405406
+BERT Dataset Weighting,BERT,Dataset weighting,happy,anger,4,0.008658008658008658
+BERT Dataset Weighting,BERT,Dataset weighting,surprise,disgust,4,0.029850746268656716
+BERT Dataset Weighting,BERT,Dataset weighting,surprise,sad,4,0.029850746268656716
+BERT Dataset Weighting,BERT,Dataset weighting,anger,fear,3,0.061224489795918366
+BERT Dataset Weighting,BERT,Dataset weighting,anger,sad,3,0.061224489795918366
+BERT Dataset Weighting,BERT,Dataset weighting,disgust,neutral,3,0.04054054054054054
+BERT Dataset Weighting,BERT,Dataset weighting,disgust,sad,3,0.04054054054054054
+BERT Dataset Weighting,BERT,Dataset weighting,fear,anger,3,0.018292682926829267
+BERT Dataset Weighting,BERT,Dataset weighting,fear,disgust,3,0.018292682926829267
+BERT Dataset Weighting,BERT,Dataset weighting,neutral,sad,3,0.0056179775280898875
+BERT Dataset Weighting,BERT,Dataset weighting,sad,anger,3,0.03614457831325301
+BERT Dataset Weighting,BERT,Dataset weighting,sad,disgust,3,0.03614457831325301
+BERT Dataset Weighting,BERT,Dataset weighting,surprise,anger,2,0.014925373134328358
+BERT Domain-only,BERT,Target-only,neutral,happy,77,0.1441947565543071
+BERT Domain-only,BERT,Target-only,happy,neutral,47,0.10173160173160173
+BERT Domain-only,BERT,Target-only,neutral,fear,39,0.07303370786516854
+BERT Domain-only,BERT,Target-only,fear,happy,37,0.22560975609756098
+BERT Domain-only,BERT,Target-only,fear,neutral,35,0.21341463414634146
+BERT Domain-only,BERT,Target-only,happy,fear,26,0.05627705627705628
+BERT Domain-only,BERT,Target-only,sad,happy,23,0.27710843373493976
+BERT Domain-only,BERT,Target-only,surprise,happy,23,0.17164179104477612
+BERT Domain-only,BERT,Target-only,sad,fear,22,0.26506024096385544
+BERT Domain-only,BERT,Target-only,disgust,happy,21,0.28378378378378377
+BERT Domain-only,BERT,Target-only,neutral,surprise,19,0.035580524344569285
+BERT Domain-only,BERT,Target-only,happy,surprise,17,0.0367965367965368
+BERT Domain-only,BERT,Target-only,fear,surprise,14,0.08536585365853659
+BERT Domain-only,BERT,Target-only,surprise,neutral,12,0.08955223880597014
+BERT Domain-only,BERT,Target-only,anger,disgust,11,0.22448979591836735
+BERT Domain-only,BERT,Target-only,anger,happy,11,0.22448979591836735
+BERT Domain-only,BERT,Target-only,disgust,fear,9,0.12162162162162163
+BERT Domain-only,BERT,Target-only,fear,sad,7,0.042682926829268296
+BERT Domain-only,BERT,Target-only,surprise,fear,7,0.05223880597014925
+BERT Domain-only,BERT,Target-only,anger,neutral,6,0.12244897959183673
+BERT Domain-only,BERT,Target-only,happy,disgust,6,0.012987012987012988
+BERT Domain-only,BERT,Target-only,happy,sad,6,0.012987012987012988
+BERT Domain-only,BERT,Target-only,sad,neutral,6,0.07228915662650602
+BERT Domain-only,BERT,Target-only,anger,sad,5,0.10204081632653061
+BERT Domain-only,BERT,Target-only,disgust,neutral,5,0.06756756756756757
+BERT Domain-only,BERT,Target-only,disgust,surprise,5,0.06756756756756757
+BERT Domain-only,BERT,Target-only,fear,disgust,5,0.03048780487804878
+BERT Domain-only,BERT,Target-only,sad,disgust,5,0.060240963855421686
+BERT Domain-only,BERT,Target-only,anger,fear,4,0.08163265306122448
+BERT Domain-only,BERT,Target-only,neutral,disgust,4,0.00749063670411985
+BERT Domain-only,BERT,Target-only,surprise,disgust,4,0.029850746268656716
+BERT Domain-only,BERT,Target-only,anger,surprise,3,0.061224489795918366
+BERT Domain-only,BERT,Target-only,disgust,anger,3,0.04054054054054054
+BERT Domain-only,BERT,Target-only,disgust,sad,3,0.04054054054054054
+BERT Domain-only,BERT,Target-only,sad,anger,3,0.03614457831325301
+BERT Domain-only,BERT,Target-only,sad,surprise,3,0.03614457831325301
+BERT Domain-only,BERT,Target-only,fear,anger,2,0.012195121951219513
+BERT Domain-only,BERT,Target-only,happy,anger,2,0.004329004329004329
+BERT Domain-only,BERT,Target-only,neutral,sad,2,0.003745318352059925
+BERT Domain-only,BERT,Target-only,surprise,anger,2,0.014925373134328358
+BERT Domain-only,BERT,Target-only,surprise,sad,2,0.014925373134328358
+BERT Mixed,BERT,Mixed,neutral,happy,83,0.15543071161048688
+BERT Mixed,BERT,Mixed,happy,neutral,56,0.12121212121212122
+BERT Mixed,BERT,Mixed,fear,happy,42,0.25609756097560976
+BERT Mixed,BERT,Mixed,fear,neutral,34,0.2073170731707317
+BERT Mixed,BERT,Mixed,neutral,fear,27,0.05056179775280899
+BERT Mixed,BERT,Mixed,happy,surprise,22,0.047619047619047616
+BERT Mixed,BERT,Mixed,neutral,surprise,21,0.03932584269662921
+BERT Mixed,BERT,Mixed,surprise,happy,20,0.14925373134328357
+BERT Mixed,BERT,Mixed,happy,fear,19,0.04112554112554113
+BERT Mixed,BERT,Mixed,sad,happy,18,0.21686746987951808
+BERT Mixed,BERT,Mixed,surprise,neutral,17,0.12686567164179105
+BERT Mixed,BERT,Mixed,disgust,happy,14,0.1891891891891892
+BERT Mixed,BERT,Mixed,neutral,disgust,12,0.02247191011235955
+BERT Mixed,BERT,Mixed,anger,disgust,11,0.22448979591836735
+BERT Mixed,BERT,Mixed,happy,disgust,11,0.023809523809523808
+BERT Mixed,BERT,Mixed,anger,happy,10,0.20408163265306123
+BERT Mixed,BERT,Mixed,sad,fear,10,0.12048192771084337
+BERT Mixed,BERT,Mixed,fear,disgust,9,0.054878048780487805
+BERT Mixed,BERT,Mixed,fear,surprise,9,0.054878048780487805
+BERT Mixed,BERT,Mixed,sad,neutral,9,0.10843373493975904
+BERT Mixed,BERT,Mixed,disgust,fear,8,0.10810810810810811
+BERT Mixed,BERT,Mixed,disgust,neutral,8,0.10810810810810811
+BERT Mixed,BERT,Mixed,sad,anger,7,0.08433734939759036
+BERT Mixed,BERT,Mixed,anger,neutral,6,0.12244897959183673
+BERT Mixed,BERT,Mixed,disgust,sad,6,0.08108108108108109
+BERT Mixed,BERT,Mixed,fear,sad,6,0.036585365853658534
+BERT Mixed,BERT,Mixed,happy,sad,6,0.012987012987012988
+BERT Mixed,BERT,Mixed,sad,surprise,6,0.07228915662650602
+BERT Mixed,BERT,Mixed,surprise,fear,5,0.03731343283582089
+BERT Mixed,BERT,Mixed,disgust,surprise,4,0.05405405405405406
+BERT Mixed,BERT,Mixed,fear,anger,4,0.024390243902439025
+BERT Mixed,BERT,Mixed,happy,anger,4,0.008658008658008658
+BERT Mixed,BERT,Mixed,neutral,sad,4,0.00749063670411985
+BERT Mixed,BERT,Mixed,surprise,disgust,4,0.029850746268656716
+BERT Mixed,BERT,Mixed,anger,surprise,3,0.061224489795918366
+BERT Mixed,BERT,Mixed,surprise,sad,3,0.022388059701492536
+BERT Mixed,BERT,Mixed,anger,fear,2,0.04081632653061224
+BERT Mixed,BERT,Mixed,anger,sad,2,0.04081632653061224
+BERT Mixed,BERT,Mixed,disgust,anger,2,0.02702702702702703
+BERT Mixed,BERT,Mixed,neutral,anger,2,0.003745318352059925
+BERT Mixed,BERT,Mixed,surprise,anger,2,0.014925373134328358
+BERT Mixed,BERT,Mixed,sad,disgust,1,0.012048192771084338
+BERT Sequential,BERT,Sequential transfer,neutral,happy,68,0.12734082397003746
+BERT Sequential,BERT,Sequential transfer,happy,neutral,56,0.12121212121212122
+BERT Sequential,BERT,Sequential transfer,neutral,fear,38,0.07116104868913857
+BERT Sequential,BERT,Sequential transfer,fear,neutral,32,0.1951219512195122
+BERT Sequential,BERT,Sequential transfer,fear,happy,30,0.18292682926829268
+BERT Sequential,BERT,Sequential transfer,happy,fear,29,0.06277056277056277
+BERT Sequential,BERT,Sequential transfer,surprise,happy,23,0.17164179104477612
+BERT Sequential,BERT,Sequential transfer,neutral,surprise,21,0.03932584269662921
+BERT Sequential,BERT,Sequential transfer,disgust,fear,19,0.25675675675675674
+BERT Sequential,BERT,Sequential transfer,happy,surprise,18,0.03896103896103896
+BERT Sequential,BERT,Sequential transfer,sad,fear,18,0.21686746987951808
+BERT Sequential,BERT,Sequential transfer,disgust,happy,17,0.22972972972972974
+BERT Sequential,BERT,Sequential transfer,sad,happy,17,0.20481927710843373
+BERT Sequential,BERT,Sequential transfer,anger,happy,15,0.30612244897959184
+BERT Sequential,BERT,Sequential transfer,fear,sad,15,0.09146341463414634
+BERT Sequential,BERT,Sequential transfer,surprise,neutral,13,0.09701492537313433
+BERT Sequential,BERT,Sequential transfer,disgust,anger,11,0.14864864864864866
+BERT Sequential,BERT,Sequential transfer,fear,surprise,11,0.06707317073170732
+BERT Sequential,BERT,Sequential transfer,surprise,fear,11,0.08208955223880597
+BERT Sequential,BERT,Sequential transfer,happy,sad,8,0.017316017316017316
+BERT Sequential,BERT,Sequential transfer,anger,fear,7,0.14285714285714285
+BERT Sequential,BERT,Sequential transfer,sad,neutral,7,0.08433734939759036
+BERT Sequential,BERT,Sequential transfer,anger,neutral,6,0.12244897959183673
+BERT Sequential,BERT,Sequential transfer,disgust,surprise,6,0.08108108108108109
+BERT Sequential,BERT,Sequential transfer,disgust,neutral,5,0.06756756756756757
+BERT Sequential,BERT,Sequential transfer,happy,disgust,5,0.010822510822510822
+BERT Sequential,BERT,Sequential transfer,neutral,disgust,5,0.009363295880149813
+BERT Sequential,BERT,Sequential transfer,sad,surprise,5,0.060240963855421686
+BERT Sequential,BERT,Sequential transfer,disgust,sad,4,0.05405405405405406
+BERT Sequential,BERT,Sequential transfer,fear,disgust,4,0.024390243902439025
+BERT Sequential,BERT,Sequential transfer,neutral,sad,4,0.00749063670411985
+BERT Sequential,BERT,Sequential transfer,sad,anger,4,0.04819277108433735
+BERT Sequential,BERT,Sequential transfer,anger,disgust,3,0.061224489795918366
+BERT Sequential,BERT,Sequential transfer,anger,sad,3,0.061224489795918366
+BERT Sequential,BERT,Sequential transfer,happy,anger,3,0.006493506493506494
+BERT Sequential,BERT,Sequential transfer,surprise,disgust,3,0.022388059701492536
+BERT Sequential,BERT,Sequential transfer,anger,surprise,2,0.04081632653061224
+BERT Sequential,BERT,Sequential transfer,fear,anger,2,0.012195121951219513
+BERT Sequential,BERT,Sequential transfer,neutral,anger,2,0.003745318352059925
+BERT Sequential,BERT,Sequential transfer,surprise,sad,2,0.014925373134328358
+BERT Sequential,BERT,Sequential transfer,surprise,anger,1,0.007462686567164179
+FLAN-T5 Few-shot,LLM,Few-shot,happy,neutral,105,0.22727272727272727
+FLAN-T5 Few-shot,LLM,Few-shot,neutral,surprise,103,0.19288389513108614
+FLAN-T5 Few-shot,LLM,Few-shot,neutral,__invalid__,94,0.1760299625468165
+FLAN-T5 Few-shot,LLM,Few-shot,fear,__invalid__,75,0.4573170731707317
+FLAN-T5 Few-shot,LLM,Few-shot,happy,surprise,69,0.14935064935064934
+FLAN-T5 Few-shot,LLM,Few-shot,happy,__invalid__,62,0.1341991341991342
+FLAN-T5 Few-shot,LLM,Few-shot,sad,__invalid__,53,0.6385542168674698
+FLAN-T5 Few-shot,LLM,Few-shot,neutral,happy,51,0.09550561797752809
+FLAN-T5 Few-shot,LLM,Few-shot,surprise,__invalid__,40,0.29850746268656714
+FLAN-T5 Few-shot,LLM,Few-shot,fear,neutral,38,0.23170731707317074
+FLAN-T5 Few-shot,LLM,Few-shot,surprise,neutral,31,0.23134328358208955
+FLAN-T5 Few-shot,LLM,Few-shot,disgust,anger,30,0.40540540540540543
+FLAN-T5 Few-shot,LLM,Few-shot,disgust,__invalid__,17,0.22972972972972974
+FLAN-T5 Few-shot,LLM,Few-shot,fear,surprise,15,0.09146341463414634
+FLAN-T5 Few-shot,LLM,Few-shot,happy,anger,13,0.02813852813852814
+FLAN-T5 Few-shot,LLM,Few-shot,anger,__invalid__,12,0.24489795918367346
+FLAN-T5 Few-shot,LLM,Few-shot,fear,anger,12,0.07317073170731707
+FLAN-T5 Few-shot,LLM,Few-shot,fear,happy,12,0.07317073170731707
+FLAN-T5 Few-shot,LLM,Few-shot,anger,neutral,11,0.22448979591836735
+FLAN-T5 Few-shot,LLM,Few-shot,disgust,neutral,9,0.12162162162162163
+FLAN-T5 Few-shot,LLM,Few-shot,disgust,happy,8,0.10810810810810811
+FLAN-T5 Few-shot,LLM,Few-shot,sad,happy,8,0.0963855421686747
+FLAN-T5 Few-shot,LLM,Few-shot,sad,neutral,8,0.0963855421686747
+FLAN-T5 Few-shot,LLM,Few-shot,surprise,happy,8,0.05970149253731343
+FLAN-T5 Few-shot,LLM,Few-shot,disgust,surprise,7,0.0945945945945946
+FLAN-T5 Few-shot,LLM,Few-shot,neutral,anger,7,0.013108614232209739
+FLAN-T5 Few-shot,LLM,Few-shot,happy,fear,6,0.012987012987012988
+FLAN-T5 Few-shot,LLM,Few-shot,sad,anger,6,0.07228915662650602
+FLAN-T5 Few-shot,LLM,Few-shot,anger,surprise,5,0.10204081632653061
+FLAN-T5 Few-shot,LLM,Few-shot,surprise,anger,5,0.03731343283582089
+FLAN-T5 Few-shot,LLM,Few-shot,anger,happy,4,0.08163265306122448
+FLAN-T5 Few-shot,LLM,Few-shot,happy,sad,3,0.006493506493506494
+FLAN-T5 Few-shot,LLM,Few-shot,sad,surprise,3,0.03614457831325301
+FLAN-T5 Few-shot,LLM,Few-shot,disgust,fear,2,0.02702702702702703
+FLAN-T5 Few-shot,LLM,Few-shot,happy,disgust,2,0.004329004329004329
+FLAN-T5 Few-shot,LLM,Few-shot,sad,fear,2,0.024096385542168676
+FLAN-T5 Few-shot,LLM,Few-shot,fear,disgust,1,0.006097560975609756
+FLAN-T5 Few-shot,LLM,Few-shot,neutral,sad,1,0.0018726591760299626
+FLAN-T5 Few-shot,LLM,Few-shot,surprise,disgust,1,0.007462686567164179
+FLAN-T5 Few-shot,LLM,Few-shot,surprise,fear,1,0.007462686567164179
+FLAN-T5 Structured,LLM,Structured prompt,neutral,surprise,223,0.41760299625468167
+FLAN-T5 Structured,LLM,Structured prompt,neutral,anger,126,0.23595505617977527
+FLAN-T5 Structured,LLM,Structured prompt,happy,surprise,122,0.26406926406926406
+FLAN-T5 Structured,LLM,Structured prompt,neutral,__invalid__,122,0.22846441947565543
+FLAN-T5 Structured,LLM,Structured prompt,happy,__invalid__,84,0.18181818181818182
+FLAN-T5 Structured,LLM,Structured prompt,happy,anger,77,0.16666666666666666
+FLAN-T5 Structured,LLM,Structured prompt,fear,__invalid__,64,0.3902439024390244
+FLAN-T5 Structured,LLM,Structured prompt,fear,anger,48,0.2926829268292683
+FLAN-T5 Structured,LLM,Structured prompt,disgust,anger,45,0.6081081081081081
+FLAN-T5 Structured,LLM,Structured prompt,sad,__invalid__,45,0.5421686746987951
+FLAN-T5 Structured,LLM,Structured prompt,surprise,anger,35,0.26119402985074625
+FLAN-T5 Structured,LLM,Structured prompt,fear,surprise,31,0.18902439024390244
+FLAN-T5 Structured,LLM,Structured prompt,surprise,__invalid__,28,0.208955223880597
+FLAN-T5 Structured,LLM,Structured prompt,sad,anger,22,0.26506024096385544
+FLAN-T5 Structured,LLM,Structured prompt,happy,neutral,17,0.0367965367965368
+FLAN-T5 Structured,LLM,Structured prompt,happy,fear,15,0.032467532467532464
+FLAN-T5 Structured,LLM,Structured prompt,neutral,happy,15,0.028089887640449437
+FLAN-T5 Structured,LLM,Structured prompt,disgust,__invalid__,10,0.13513513513513514
+FLAN-T5 Structured,LLM,Structured prompt,anger,surprise,9,0.1836734693877551
+FLAN-T5 Structured,LLM,Structured prompt,disgust,surprise,9,0.12162162162162163
+FLAN-T5 Structured,LLM,Structured prompt,anger,__invalid__,7,0.14285714285714285
+FLAN-T5 Structured,LLM,Structured prompt,fear,happy,6,0.036585365853658534
+FLAN-T5 Structured,LLM,Structured prompt,neutral,fear,6,0.011235955056179775
+FLAN-T5 Structured,LLM,Structured prompt,sad,surprise,6,0.07228915662650602
+FLAN-T5 Structured,LLM,Structured prompt,sad,fear,4,0.04819277108433735
+FLAN-T5 Structured,LLM,Structured prompt,surprise,happy,4,0.029850746268656716
+FLAN-T5 Structured,LLM,Structured prompt,surprise,neutral,4,0.029850746268656716
+FLAN-T5 Structured,LLM,Structured prompt,disgust,fear,3,0.04054054054054054
+FLAN-T5 Structured,LLM,Structured prompt,disgust,happy,3,0.04054054054054054
+FLAN-T5 Structured,LLM,Structured prompt,disgust,neutral,3,0.04054054054054054
+FLAN-T5 Structured,LLM,Structured prompt,sad,happy,3,0.03614457831325301
+FLAN-T5 Structured,LLM,Structured prompt,sad,neutral,3,0.03614457831325301
+FLAN-T5 Structured,LLM,Structured prompt,fear,neutral,2,0.012195121951219513
+FLAN-T5 Structured,LLM,Structured prompt,anger,fear,1,0.02040816326530612
+FLAN-T5 Structured,LLM,Structured prompt,fear,disgust,1,0.006097560975609756
+FLAN-T5 Structured,LLM,Structured prompt,happy,sad,1,0.0021645021645021645
+FLAN-T5 Structured,LLM,Structured prompt,surprise,fear,1,0.007462686567164179
+FLAN-T5 Zero-shot,LLM,Zero-shot,neutral,happy,110,0.20599250936329588
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,neutral,86,0.18614718614718614
+FLAN-T5 Zero-shot,LLM,Zero-shot,neutral,surprise,60,0.11235955056179775
+FLAN-T5 Zero-shot,LLM,Zero-shot,fear,__invalid__,50,0.3048780487804878
+FLAN-T5 Zero-shot,LLM,Zero-shot,surprise,neutral,41,0.30597014925373134
+FLAN-T5 Zero-shot,LLM,Zero-shot,neutral,__invalid__,38,0.07116104868913857
+FLAN-T5 Zero-shot,LLM,Zero-shot,disgust,anger,37,0.5
+FLAN-T5 Zero-shot,LLM,Zero-shot,fear,neutral,35,0.21341463414634146
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,__invalid__,32,0.3855421686746988
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,anger,31,0.0670995670995671
+FLAN-T5 Zero-shot,LLM,Zero-shot,fear,anger,30,0.18292682926829268
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,surprise,29,0.06277056277056277
+FLAN-T5 Zero-shot,LLM,Zero-shot,neutral,anger,28,0.052434456928838954
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,__invalid__,24,0.05194805194805195
+FLAN-T5 Zero-shot,LLM,Zero-shot,fear,happy,23,0.1402439024390244
+FLAN-T5 Zero-shot,LLM,Zero-shot,surprise,__invalid__,21,0.15671641791044777
+FLAN-T5 Zero-shot,LLM,Zero-shot,surprise,happy,20,0.14925373134328357
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,anger,16,0.1927710843373494
+FLAN-T5 Zero-shot,LLM,Zero-shot,disgust,happy,13,0.17567567567567569
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,fear,12,0.025974025974025976
+FLAN-T5 Zero-shot,LLM,Zero-shot,surprise,anger,12,0.08955223880597014
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,neutral,11,0.13253012048192772
+FLAN-T5 Zero-shot,LLM,Zero-shot,fear,surprise,10,0.06097560975609756
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,happy,10,0.12048192771084337
+FLAN-T5 Zero-shot,LLM,Zero-shot,anger,happy,9,0.1836734693877551
+FLAN-T5 Zero-shot,LLM,Zero-shot,disgust,neutral,9,0.12162162162162163
+FLAN-T5 Zero-shot,LLM,Zero-shot,anger,neutral,8,0.16326530612244897
+FLAN-T5 Zero-shot,LLM,Zero-shot,disgust,__invalid__,8,0.10810810810810811
+FLAN-T5 Zero-shot,LLM,Zero-shot,neutral,fear,7,0.013108614232209739
+FLAN-T5 Zero-shot,LLM,Zero-shot,anger,__invalid__,4,0.08163265306122448
+FLAN-T5 Zero-shot,LLM,Zero-shot,anger,surprise,4,0.08163265306122448
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,sad,4,0.008658008658008658
+FLAN-T5 Zero-shot,LLM,Zero-shot,surprise,fear,4,0.029850746268656716
+FLAN-T5 Zero-shot,LLM,Zero-shot,disgust,surprise,3,0.04054054054054054
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,fear,3,0.03614457831325301
+FLAN-T5 Zero-shot,LLM,Zero-shot,disgust,fear,2,0.02702702702702703
+FLAN-T5 Zero-shot,LLM,Zero-shot,neutral,sad,2,0.003745318352059925
+FLAN-T5 Zero-shot,LLM,Zero-shot,anger,disgust,1,0.02040816326530612
+FLAN-T5 Zero-shot,LLM,Zero-shot,fear,disgust,1,0.006097560975609756
+FLAN-T5 Zero-shot,LLM,Zero-shot,happy,disgust,1,0.0021645021645021645
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,disgust,1,0.012048192771084338
+FLAN-T5 Zero-shot,LLM,Zero-shot,sad,surprise,1,0.012048192771084338
+FLAN-T5 Zero-shot,LLM,Zero-shot,surprise,disgust,1,0.007462686567164179
+Linear SVM A,Traditional ML,Source-only,neutral,happy,300,0.5617977528089888
+Linear SVM A,Traditional ML,Source-only,neutral,sad,99,0.1853932584269663
+Linear SVM A,Traditional ML,Source-only,fear,happy,70,0.4268292682926829
+Linear SVM A,Traditional ML,Source-only,neutral,surprise,67,0.1254681647940075
+Linear SVM A,Traditional ML,Source-only,surprise,happy,64,0.47761194029850745
+Linear SVM A,Traditional ML,Source-only,happy,sad,55,0.11904761904761904
+Linear SVM A,Traditional ML,Source-only,happy,surprise,54,0.11688311688311688
+Linear SVM A,Traditional ML,Source-only,fear,sad,49,0.29878048780487804
+Linear SVM A,Traditional ML,Source-only,neutral,anger,40,0.0749063670411985
+Linear SVM A,Traditional ML,Source-only,sad,happy,39,0.46987951807228917
+Linear SVM A,Traditional ML,Source-only,disgust,happy,32,0.43243243243243246
+Linear SVM A,Traditional ML,Source-only,fear,surprise,22,0.13414634146341464
+Linear SVM A,Traditional ML,Source-only,happy,anger,22,0.047619047619047616
+Linear SVM A,Traditional ML,Source-only,surprise,sad,22,0.16417910447761194
+Linear SVM A,Traditional ML,Source-only,anger,happy,19,0.3877551020408163
+Linear SVM A,Traditional ML,Source-only,disgust,sad,19,0.25675675675675674
+Linear SVM A,Traditional ML,Source-only,happy,neutral,19,0.04112554112554113
+Linear SVM A,Traditional ML,Source-only,disgust,surprise,15,0.20270270270270271
+Linear SVM A,Traditional ML,Source-only,fear,anger,14,0.08536585365853659
+Linear SVM A,Traditional ML,Source-only,surprise,anger,11,0.08208955223880597
+Linear SVM A,Traditional ML,Source-only,fear,neutral,9,0.054878048780487805
+Linear SVM A,Traditional ML,Source-only,anger,sad,8,0.16326530612244897
+Linear SVM A,Traditional ML,Source-only,sad,anger,8,0.0963855421686747
+Linear SVM A,Traditional ML,Source-only,anger,surprise,6,0.12244897959183673
+Linear SVM A,Traditional ML,Source-only,anger,neutral,5,0.10204081632653061
+Linear SVM A,Traditional ML,Source-only,sad,surprise,5,0.060240963855421686
+Linear SVM A,Traditional ML,Source-only,disgust,anger,4,0.05405405405405406
+Linear SVM A,Traditional ML,Source-only,disgust,neutral,4,0.05405405405405406
+Linear SVM A,Traditional ML,Source-only,sad,neutral,4,0.04819277108433735
+Linear SVM A,Traditional ML,Source-only,surprise,neutral,3,0.022388059701492536
+Linear SVM B,Traditional ML,Target-only,happy,neutral,79,0.170995670995671
+Linear SVM B,Traditional ML,Target-only,neutral,happy,66,0.12359550561797752
+Linear SVM B,Traditional ML,Target-only,fear,neutral,44,0.2682926829268293
+Linear SVM B,Traditional ML,Target-only,happy,fear,35,0.07575757575757576
+Linear SVM B,Traditional ML,Target-only,fear,happy,30,0.18292682926829268
+Linear SVM B,Traditional ML,Target-only,sad,happy,27,0.3253012048192771
+Linear SVM B,Traditional ML,Target-only,neutral,surprise,26,0.04868913857677903
+Linear SVM B,Traditional ML,Target-only,neutral,fear,25,0.04681647940074907
+Linear SVM B,Traditional ML,Target-only,happy,sad,23,0.049783549783549784
+Linear SVM B,Traditional ML,Target-only,happy,surprise,22,0.047619047619047616
+Linear SVM B,Traditional ML,Target-only,neutral,sad,18,0.033707865168539325
+Linear SVM B,Traditional ML,Target-only,sad,neutral,18,0.21686746987951808
+Linear SVM B,Traditional ML,Target-only,surprise,neutral,18,0.13432835820895522
+Linear SVM B,Traditional ML,Target-only,surprise,fear,15,0.11194029850746269
+Linear SVM B,Traditional ML,Target-only,happy,anger,14,0.030303030303030304
+Linear SVM B,Traditional ML,Target-only,anger,neutral,13,0.2653061224489796
+Linear SVM B,Traditional ML,Target-only,disgust,neutral,13,0.17567567567567569
+Linear SVM B,Traditional ML,Target-only,disgust,happy,11,0.14864864864864866
+Linear SVM B,Traditional ML,Target-only,fear,anger,10,0.06097560975609756
+Linear SVM B,Traditional ML,Target-only,anger,happy,9,0.1836734693877551
+Linear SVM B,Traditional ML,Target-only,fear,sad,9,0.054878048780487805
+Linear SVM B,Traditional ML,Target-only,happy,disgust,9,0.01948051948051948
+Linear SVM B,Traditional ML,Target-only,neutral,anger,9,0.016853932584269662
+Linear SVM B,Traditional ML,Target-only,surprise,disgust,9,0.06716417910447761
+Linear SVM B,Traditional ML,Target-only,surprise,happy,9,0.06716417910447761
+Linear SVM B,Traditional ML,Target-only,disgust,fear,7,0.0945945945945946
+Linear SVM B,Traditional ML,Target-only,disgust,sad,7,0.0945945945945946
+Linear SVM B,Traditional ML,Target-only,fear,surprise,7,0.042682926829268296
+Linear SVM B,Traditional ML,Target-only,sad,fear,7,0.08433734939759036
+Linear SVM B,Traditional ML,Target-only,neutral,disgust,6,0.011235955056179775
+Linear SVM B,Traditional ML,Target-only,sad,anger,6,0.07228915662650602
+Linear SVM B,Traditional ML,Target-only,surprise,sad,6,0.04477611940298507
+Linear SVM B,Traditional ML,Target-only,disgust,surprise,5,0.06756756756756757
+Linear SVM B,Traditional ML,Target-only,anger,disgust,4,0.08163265306122448
+Linear SVM B,Traditional ML,Target-only,anger,fear,4,0.08163265306122448
+Linear SVM B,Traditional ML,Target-only,anger,sad,4,0.08163265306122448
+Linear SVM B,Traditional ML,Target-only,anger,surprise,4,0.08163265306122448
+Linear SVM B,Traditional ML,Target-only,fear,disgust,4,0.024390243902439025
+Linear SVM B,Traditional ML,Target-only,surprise,anger,3,0.022388059701492536
+Linear SVM B,Traditional ML,Target-only,sad,surprise,2,0.024096385542168676
+Linear SVM B,Traditional ML,Target-only,sad,disgust,1,0.012048192771084338
+Linear SVM C,Traditional ML,Mixed,happy,neutral,109,0.23593073593073594
+Linear SVM C,Traditional ML,Mixed,neutral,happy,73,0.13670411985018727
+Linear SVM C,Traditional ML,Mixed,fear,neutral,52,0.3170731707317073
+Linear SVM C,Traditional ML,Mixed,happy,fear,47,0.10173160173160173
+Linear SVM C,Traditional ML,Mixed,surprise,neutral,33,0.2462686567164179
+Linear SVM C,Traditional ML,Mixed,neutral,fear,32,0.0599250936329588
+Linear SVM C,Traditional ML,Mixed,sad,neutral,28,0.3373493975903614
+Linear SVM C,Traditional ML,Mixed,surprise,happy,28,0.208955223880597
+Linear SVM C,Traditional ML,Mixed,happy,surprise,27,0.05844155844155844
+Linear SVM C,Traditional ML,Mixed,fear,happy,25,0.1524390243902439
+Linear SVM C,Traditional ML,Mixed,sad,happy,25,0.30120481927710846
+Linear SVM C,Traditional ML,Mixed,neutral,sad,23,0.04307116104868914
+Linear SVM C,Traditional ML,Mixed,neutral,surprise,21,0.03932584269662921
+Linear SVM C,Traditional ML,Mixed,disgust,happy,18,0.24324324324324326
+Linear SVM C,Traditional ML,Mixed,disgust,neutral,16,0.21621621621621623
+Linear SVM C,Traditional ML,Mixed,anger,neutral,12,0.24489795918367346
+Linear SVM C,Traditional ML,Mixed,surprise,fear,12,0.08955223880597014
+Linear SVM C,Traditional ML,Mixed,anger,happy,11,0.22448979591836735
+Linear SVM C,Traditional ML,Mixed,disgust,surprise,11,0.14864864864864866
+Linear SVM C,Traditional ML,Mixed,neutral,anger,11,0.020599250936329586
+Linear SVM C,Traditional ML,Mixed,happy,sad,10,0.021645021645021644
+Linear SVM C,Traditional ML,Mixed,fear,surprise,9,0.054878048780487805
+Linear SVM C,Traditional ML,Mixed,disgust,fear,8,0.10810810810810811
+Linear SVM C,Traditional ML,Mixed,anger,surprise,7,0.14285714285714285
+Linear SVM C,Traditional ML,Mixed,disgust,sad,7,0.0945945945945946
+Linear SVM C,Traditional ML,Mixed,fear,anger,6,0.036585365853658534
+Linear SVM C,Traditional ML,Mixed,fear,sad,6,0.036585365853658534
+Linear SVM C,Traditional ML,Mixed,happy,disgust,6,0.012987012987012988
+Linear SVM C,Traditional ML,Mixed,sad,anger,6,0.07228915662650602
+Linear SVM C,Traditional ML,Mixed,sad,fear,6,0.07228915662650602
+Linear SVM C,Traditional ML,Mixed,surprise,sad,6,0.04477611940298507
+Linear SVM C,Traditional ML,Mixed,anger,fear,5,0.10204081632653061
+Linear SVM C,Traditional ML,Mixed,happy,anger,5,0.010822510822510822
+Linear SVM C,Traditional ML,Mixed,anger,disgust,4,0.08163265306122448
+Linear SVM C,Traditional ML,Mixed,anger,sad,4,0.08163265306122448
+Linear SVM C,Traditional ML,Mixed,surprise,anger,4,0.029850746268656716
+Linear SVM C,Traditional ML,Mixed,fear,disgust,3,0.018292682926829267
+Linear SVM C,Traditional ML,Mixed,sad,surprise,3,0.03614457831325301
+Linear SVM C,Traditional ML,Mixed,disgust,anger,2,0.02702702702702703
+Linear SVM C,Traditional ML,Mixed,neutral,disgust,2,0.003745318352059925
+Linear SVM C,Traditional ML,Mixed,surprise,disgust,2,0.014925373134328358
+Linear SVM C,Traditional ML,Mixed,sad,disgust,1,0.012048192771084338
+Logistic Regression A,Traditional ML,Source-only,neutral,happy,296,0.5543071161048689
+Logistic Regression A,Traditional ML,Source-only,neutral,sad,98,0.18352059925093633
+Logistic Regression A,Traditional ML,Source-only,neutral,surprise,76,0.14232209737827714
+Logistic Regression A,Traditional ML,Source-only,happy,sad,73,0.15800865800865802
+Logistic Regression A,Traditional ML,Source-only,happy,surprise,72,0.15584415584415584
+Logistic Regression A,Traditional ML,Source-only,fear,happy,65,0.39634146341463417
+Logistic Regression A,Traditional ML,Source-only,fear,sad,53,0.3231707317073171
+Logistic Regression A,Traditional ML,Source-only,surprise,happy,53,0.39552238805970147
+Logistic Regression A,Traditional ML,Source-only,neutral,anger,42,0.07865168539325842
+Logistic Regression A,Traditional ML,Source-only,disgust,happy,33,0.44594594594594594
+Logistic Regression A,Traditional ML,Source-only,fear,surprise,32,0.1951219512195122
+Logistic Regression A,Traditional ML,Source-only,sad,happy,28,0.3373493975903614
+Logistic Regression A,Traditional ML,Source-only,surprise,sad,23,0.17164179104477612
+Logistic Regression A,Traditional ML,Source-only,anger,happy,22,0.4489795918367347
+Logistic Regression A,Traditional ML,Source-only,happy,anger,22,0.047619047619047616
+Logistic Regression A,Traditional ML,Source-only,disgust,sad,18,0.24324324324324326
+Logistic Regression A,Traditional ML,Source-only,disgust,surprise,16,0.21621621621621623
+Logistic Regression A,Traditional ML,Source-only,sad,anger,13,0.1566265060240964
+Logistic Regression A,Traditional ML,Source-only,surprise,anger,11,0.08208955223880597
+Logistic Regression A,Traditional ML,Source-only,fear,anger,9,0.054878048780487805
+Logistic Regression A,Traditional ML,Source-only,anger,sad,8,0.16326530612244897
+Logistic Regression A,Traditional ML,Source-only,happy,neutral,8,0.017316017316017316
+Logistic Regression A,Traditional ML,Source-only,anger,surprise,7,0.14285714285714285
+Logistic Regression A,Traditional ML,Source-only,sad,surprise,7,0.08433734939759036
+Logistic Regression A,Traditional ML,Source-only,anger,neutral,5,0.10204081632653061
+Logistic Regression A,Traditional ML,Source-only,disgust,anger,5,0.06756756756756757
+Logistic Regression A,Traditional ML,Source-only,fear,neutral,5,0.03048780487804878
+Logistic Regression A,Traditional ML,Source-only,surprise,neutral,4,0.029850746268656716
+Logistic Regression A,Traditional ML,Source-only,sad,neutral,3,0.03614457831325301
+Logistic Regression A,Traditional ML,Source-only,disgust,neutral,2,0.02702702702702703
+Logistic Regression B,Traditional ML,Target-only,neutral,happy,82,0.15355805243445692
+Logistic Regression B,Traditional ML,Target-only,happy,neutral,68,0.1471861471861472
+Logistic Regression B,Traditional ML,Target-only,happy,fear,52,0.11255411255411256
+Logistic Regression B,Traditional ML,Target-only,neutral,fear,38,0.07116104868913857
+Logistic Regression B,Traditional ML,Target-only,fear,happy,32,0.1951219512195122
+Logistic Regression B,Traditional ML,Target-only,fear,neutral,32,0.1951219512195122
+Logistic Regression B,Traditional ML,Target-only,sad,happy,24,0.2891566265060241
+Logistic Regression B,Traditional ML,Target-only,neutral,surprise,23,0.04307116104868914
+Logistic Regression B,Traditional ML,Target-only,surprise,neutral,21,0.15671641791044777
+Logistic Regression B,Traditional ML,Target-only,surprise,happy,20,0.14925373134328357
+Logistic Regression B,Traditional ML,Target-only,sad,neutral,19,0.2289156626506024
+Logistic Regression B,Traditional ML,Target-only,happy,sad,16,0.03463203463203463
+Logistic Regression B,Traditional ML,Target-only,surprise,fear,16,0.11940298507462686
+Logistic Regression B,Traditional ML,Target-only,anger,happy,15,0.30612244897959184
+Logistic Regression B,Traditional ML,Target-only,disgust,happy,15,0.20270270270270271
+Logistic Regression B,Traditional ML,Target-only,happy,disgust,15,0.032467532467532464
+Logistic Regression B,Traditional ML,Target-only,neutral,sad,13,0.024344569288389514
+Logistic Regression B,Traditional ML,Target-only,happy,surprise,12,0.025974025974025976
+Logistic Regression B,Traditional ML,Target-only,sad,fear,12,0.14457831325301204
+Logistic Regression B,Traditional ML,Target-only,disgust,neutral,11,0.14864864864864866
+Logistic Regression B,Traditional ML,Target-only,neutral,disgust,10,0.018726591760299626
+Logistic Regression B,Traditional ML,Target-only,anger,neutral,9,0.1836734693877551
+Logistic Regression B,Traditional ML,Target-only,anger,surprise,9,0.1836734693877551
+Logistic Regression B,Traditional ML,Target-only,fear,sad,9,0.054878048780487805
+Logistic Regression B,Traditional ML,Target-only,anger,fear,8,0.16326530612244897
+Logistic Regression B,Traditional ML,Target-only,disgust,sad,8,0.10810810810810811
+Logistic Regression B,Traditional ML,Target-only,fear,disgust,8,0.04878048780487805
+Logistic Regression B,Traditional ML,Target-only,disgust,fear,7,0.0945945945945946
+Logistic Regression B,Traditional ML,Target-only,disgust,surprise,6,0.08108108108108109
+Logistic Regression B,Traditional ML,Target-only,fear,surprise,6,0.036585365853658534
+Logistic Regression B,Traditional ML,Target-only,anger,disgust,5,0.10204081632653061
+Logistic Regression B,Traditional ML,Target-only,happy,anger,5,0.010822510822510822
+Logistic Regression B,Traditional ML,Target-only,surprise,disgust,5,0.03731343283582089
+Logistic Regression B,Traditional ML,Target-only,sad,disgust,4,0.04819277108433735
+Logistic Regression B,Traditional ML,Target-only,sad,surprise,4,0.04819277108433735
+Logistic Regression B,Traditional ML,Target-only,neutral,anger,3,0.0056179775280898875
+Logistic Regression B,Traditional ML,Target-only,anger,sad,2,0.04081632653061224
+Logistic Regression B,Traditional ML,Target-only,surprise,anger,2,0.014925373134328358
+Logistic Regression B,Traditional ML,Target-only,sad,anger,1,0.012048192771084338
+Logistic Regression B,Traditional ML,Target-only,surprise,sad,1,0.007462686567164179
+Logistic Regression C,Traditional ML,Mixed,neutral,happy,134,0.250936329588015
+Logistic Regression C,Traditional ML,Mixed,happy,neutral,84,0.18181818181818182
+Logistic Regression C,Traditional ML,Mixed,fear,neutral,58,0.35365853658536583
+Logistic Regression C,Traditional ML,Mixed,fear,happy,55,0.3353658536585366
+Logistic Regression C,Traditional ML,Mixed,surprise,happy,50,0.373134328358209
+Logistic Regression C,Traditional ML,Mixed,disgust,happy,35,0.47297297297297297
+Logistic Regression C,Traditional ML,Mixed,sad,happy,35,0.42168674698795183
+Logistic Regression C,Traditional ML,Mixed,surprise,neutral,35,0.26119402985074625
+Logistic Regression C,Traditional ML,Mixed,sad,neutral,25,0.30120481927710846
+Logistic Regression C,Traditional ML,Mixed,disgust,neutral,18,0.24324324324324326
+Logistic Regression C,Traditional ML,Mixed,anger,happy,17,0.3469387755102041
+Logistic Regression C,Traditional ML,Mixed,happy,fear,14,0.030303030303030304
+Logistic Regression C,Traditional ML,Mixed,anger,neutral,13,0.2653061224489796
+Logistic Regression C,Traditional ML,Mixed,neutral,sad,13,0.024344569288389514
+Logistic Regression C,Traditional ML,Mixed,happy,surprise,12,0.025974025974025976
+Logistic Regression C,Traditional ML,Mixed,neutral,fear,11,0.020599250936329586
+Logistic Regression C,Traditional ML,Mixed,neutral,anger,10,0.018726591760299626
+Logistic Regression C,Traditional ML,Mixed,fear,surprise,7,0.042682926829268296
+Logistic Regression C,Traditional ML,Mixed,neutral,surprise,7,0.013108614232209739
+Logistic Regression C,Traditional ML,Mixed,surprise,fear,7,0.05223880597014925
+Logistic Regression C,Traditional ML,Mixed,anger,sad,6,0.12244897959183673
+Logistic Regression C,Traditional ML,Mixed,anger,surprise,6,0.12244897959183673
+Logistic Regression C,Traditional ML,Mixed,disgust,sad,6,0.08108108108108109
+Logistic Regression C,Traditional ML,Mixed,disgust,surprise,6,0.08108108108108109
+Logistic Regression C,Traditional ML,Mixed,happy,sad,6,0.012987012987012988
+Logistic Regression C,Traditional ML,Mixed,fear,sad,5,0.03048780487804878
+Logistic Regression C,Traditional ML,Mixed,sad,anger,5,0.060240963855421686
+Logistic Regression C,Traditional ML,Mixed,fear,anger,4,0.024390243902439025
+Logistic Regression C,Traditional ML,Mixed,happy,anger,4,0.008658008658008658
+Logistic Regression C,Traditional ML,Mixed,disgust,anger,3,0.04054054054054054
+Logistic Regression C,Traditional ML,Mixed,disgust,fear,3,0.04054054054054054
+Logistic Regression C,Traditional ML,Mixed,sad,surprise,3,0.03614457831325301
+Logistic Regression C,Traditional ML,Mixed,surprise,anger,3,0.022388059701492536
+Logistic Regression C,Traditional ML,Mixed,anger,fear,2,0.04081632653061224
+Logistic Regression C,Traditional ML,Mixed,surprise,sad,2,0.014925373134328358
+Logistic Regression C,Traditional ML,Mixed,neutral,disgust,1,0.0018726591760299626
+Logistic Regression C,Traditional ML,Mixed,sad,disgust,1,0.012048192771084338
+Logistic Regression C,Traditional ML,Mixed,sad,fear,1,0.012048192771084338
+Logistic Regression C,Traditional ML,Mixed,surprise,disgust,1,0.007462686567164179
+Naive Bayes A,Traditional ML,Source-only,neutral,happy,170,0.31835205992509363
+Naive Bayes A,Traditional ML,Source-only,neutral,surprise,130,0.24344569288389514
+Naive Bayes A,Traditional ML,Source-only,neutral,sad,117,0.21910112359550563
+Naive Bayes A,Traditional ML,Source-only,happy,surprise,93,0.2012987012987013
+Naive Bayes A,Traditional ML,Source-only,happy,sad,90,0.19480519480519481
+Naive Bayes A,Traditional ML,Source-only,neutral,anger,66,0.12359550561797752
+Naive Bayes A,Traditional ML,Source-only,fear,happy,45,0.27439024390243905
+Naive Bayes A,Traditional ML,Source-only,surprise,happy,44,0.3283582089552239
+Naive Bayes A,Traditional ML,Source-only,fear,surprise,41,0.25
+Naive Bayes A,Traditional ML,Source-only,happy,anger,36,0.07792207792207792
+Naive Bayes A,Traditional ML,Source-only,fear,sad,33,0.20121951219512196
+Naive Bayes A,Traditional ML,Source-only,happy,neutral,30,0.06493506493506493
+Naive Bayes A,Traditional ML,Source-only,fear,anger,27,0.16463414634146342
+Naive Bayes A,Traditional ML,Source-only,surprise,sad,23,0.17164179104477612
+Naive Bayes A,Traditional ML,Source-only,sad,happy,22,0.26506024096385544
+Naive Bayes A,Traditional ML,Source-only,surprise,anger,21,0.15671641791044777
+Naive Bayes A,Traditional ML,Source-only,disgust,happy,20,0.2702702702702703
+Naive Bayes A,Traditional ML,Source-only,fear,neutral,18,0.10975609756097561
+Naive Bayes A,Traditional ML,Source-only,disgust,anger,17,0.22972972972972974
+Naive Bayes A,Traditional ML,Source-only,disgust,sad,16,0.21621621621621623
+Naive Bayes A,Traditional ML,Source-only,sad,anger,16,0.1927710843373494
+Naive Bayes A,Traditional ML,Source-only,disgust,surprise,15,0.20270270270270271
+Naive Bayes A,Traditional ML,Source-only,anger,happy,12,0.24489795918367346
+Naive Bayes A,Traditional ML,Source-only,anger,surprise,11,0.22448979591836735
+Naive Bayes A,Traditional ML,Source-only,sad,surprise,11,0.13253012048192772
+Naive Bayes A,Traditional ML,Source-only,anger,sad,7,0.14285714285714285
+Naive Bayes A,Traditional ML,Source-only,disgust,neutral,6,0.08108108108108109
+Naive Bayes A,Traditional ML,Source-only,sad,neutral,5,0.060240963855421686
+Naive Bayes A,Traditional ML,Source-only,surprise,neutral,5,0.03731343283582089
+Naive Bayes A,Traditional ML,Source-only,anger,neutral,3,0.061224489795918366
+Naive Bayes B,Traditional ML,Target-only,neutral,happy,133,0.24906367041198502
+Naive Bayes B,Traditional ML,Target-only,happy,neutral,70,0.15151515151515152
+Naive Bayes B,Traditional ML,Target-only,fear,happy,54,0.32926829268292684
+Naive Bayes B,Traditional ML,Target-only,fear,neutral,50,0.3048780487804878
+Naive Bayes B,Traditional ML,Target-only,surprise,happy,44,0.3283582089552239
+Naive Bayes B,Traditional ML,Target-only,sad,happy,37,0.4457831325301205
+Naive Bayes B,Traditional ML,Target-only,anger,happy,24,0.4897959183673469
+Naive Bayes B,Traditional ML,Target-only,surprise,neutral,23,0.17164179104477612
+Naive Bayes B,Traditional ML,Target-only,neutral,surprise,22,0.04119850187265917
+Naive Bayes B,Traditional ML,Target-only,disgust,happy,20,0.2702702702702703
+Naive Bayes B,Traditional ML,Target-only,neutral,fear,20,0.03745318352059925
+Naive Bayes B,Traditional ML,Target-only,sad,neutral,19,0.2289156626506024
+Naive Bayes B,Traditional ML,Target-only,happy,fear,18,0.03896103896103896
+Naive Bayes B,Traditional ML,Target-only,happy,surprise,11,0.023809523809523808
+Naive Bayes B,Traditional ML,Target-only,neutral,anger,10,0.018726591760299626
+Naive Bayes B,Traditional ML,Target-only,neutral,sad,10,0.018726591760299626
+Naive Bayes B,Traditional ML,Target-only,disgust,neutral,9,0.12162162162162163
+Naive Bayes B,Traditional ML,Target-only,sad,fear,9,0.10843373493975904
+Naive Bayes B,Traditional ML,Target-only,fear,surprise,8,0.04878048780487805
+Naive Bayes B,Traditional ML,Target-only,anger,surprise,7,0.14285714285714285
+Naive Bayes B,Traditional ML,Target-only,disgust,fear,7,0.0945945945945946
+Naive Bayes B,Traditional ML,Target-only,disgust,surprise,7,0.0945945945945946
+Naive Bayes B,Traditional ML,Target-only,neutral,disgust,7,0.013108614232209739
+Naive Bayes B,Traditional ML,Target-only,surprise,fear,7,0.05223880597014925
+Naive Bayes B,Traditional ML,Target-only,happy,anger,6,0.012987012987012988
+Naive Bayes B,Traditional ML,Target-only,happy,sad,6,0.012987012987012988
+Naive Bayes B,Traditional ML,Target-only,anger,fear,5,0.10204081632653061
+Naive Bayes B,Traditional ML,Target-only,fear,anger,5,0.03048780487804878
+Naive Bayes B,Traditional ML,Target-only,anger,disgust,4,0.08163265306122448
+Naive Bayes B,Traditional ML,Target-only,disgust,sad,4,0.05405405405405406
+Naive Bayes B,Traditional ML,Target-only,fear,sad,4,0.024390243902439025
+Naive Bayes B,Traditional ML,Target-only,happy,disgust,4,0.008658008658008658
+Naive Bayes B,Traditional ML,Target-only,sad,surprise,4,0.04819277108433735
+Naive Bayes B,Traditional ML,Target-only,surprise,disgust,4,0.029850746268656716
+Naive Bayes B,Traditional ML,Target-only,surprise,sad,4,0.029850746268656716
+Naive Bayes B,Traditional ML,Target-only,anger,neutral,3,0.061224489795918366
+Naive Bayes B,Traditional ML,Target-only,disgust,anger,2,0.02702702702702703
+Naive Bayes B,Traditional ML,Target-only,sad,anger,1,0.012048192771084338
+Naive Bayes B,Traditional ML,Target-only,surprise,anger,1,0.007462686567164179
+Naive Bayes C,Traditional ML,Mixed,happy,neutral,189,0.4090909090909091
+Naive Bayes C,Traditional ML,Mixed,fear,neutral,86,0.524390243902439
+Naive Bayes C,Traditional ML,Mixed,surprise,neutral,60,0.44776119402985076
+Naive Bayes C,Traditional ML,Mixed,happy,fear,52,0.11255411255411256
+Naive Bayes C,Traditional ML,Mixed,sad,neutral,44,0.5301204819277109
+Naive Bayes C,Traditional ML,Mixed,neutral,happy,33,0.06179775280898876
+Naive Bayes C,Traditional ML,Mixed,happy,surprise,32,0.06926406926406926
+Naive Bayes C,Traditional ML,Mixed,neutral,fear,28,0.052434456928838954
+Naive Bayes C,Traditional ML,Mixed,disgust,neutral,26,0.35135135135135137
+Naive Bayes C,Traditional ML,Mixed,neutral,surprise,24,0.0449438202247191
+Naive Bayes C,Traditional ML,Mixed,anger,neutral,19,0.3877551020408163
+Naive Bayes C,Traditional ML,Mixed,neutral,sad,18,0.033707865168539325
+Naive Bayes C,Traditional ML,Mixed,sad,happy,17,0.20481927710843373
+Naive Bayes C,Traditional ML,Mixed,surprise,happy,17,0.12686567164179105
+Naive Bayes C,Traditional ML,Mixed,fear,happy,15,0.09146341463414634
+Naive Bayes C,Traditional ML,Mixed,happy,sad,14,0.030303030303030304
+Naive Bayes C,Traditional ML,Mixed,disgust,fear,11,0.14864864864864866
+Naive Bayes C,Traditional ML,Mixed,fear,surprise,11,0.06707317073170732
+Naive Bayes C,Traditional ML,Mixed,disgust,happy,10,0.13513513513513514
+Naive Bayes C,Traditional ML,Mixed,disgust,surprise,10,0.13513513513513514
+Naive Bayes C,Traditional ML,Mixed,surprise,fear,10,0.07462686567164178
+Naive Bayes C,Traditional ML,Mixed,anger,fear,9,0.1836734693877551
+Naive Bayes C,Traditional ML,Mixed,anger,happy,9,0.1836734693877551
+Naive Bayes C,Traditional ML,Mixed,happy,disgust,9,0.01948051948051948
+Naive Bayes C,Traditional ML,Mixed,neutral,anger,6,0.011235955056179775
+Naive Bayes C,Traditional ML,Mixed,sad,fear,6,0.07228915662650602
+Naive Bayes C,Traditional ML,Mixed,surprise,sad,6,0.04477611940298507
+Naive Bayes C,Traditional ML,Mixed,anger,surprise,5,0.10204081632653061
+Naive Bayes C,Traditional ML,Mixed,surprise,disgust,5,0.03731343283582089
+Naive Bayes C,Traditional ML,Mixed,disgust,sad,4,0.05405405405405406
+Naive Bayes C,Traditional ML,Mixed,happy,anger,4,0.008658008658008658
+Naive Bayes C,Traditional ML,Mixed,neutral,disgust,4,0.00749063670411985
+Naive Bayes C,Traditional ML,Mixed,surprise,anger,4,0.029850746268656716
+Naive Bayes C,Traditional ML,Mixed,anger,disgust,3,0.061224489795918366
+Naive Bayes C,Traditional ML,Mixed,disgust,anger,3,0.04054054054054054
+Naive Bayes C,Traditional ML,Mixed,sad,anger,3,0.03614457831325301
+Naive Bayes C,Traditional ML,Mixed,sad,surprise,3,0.03614457831325301
+Naive Bayes C,Traditional ML,Mixed,anger,sad,2,0.04081632653061224
+Naive Bayes C,Traditional ML,Mixed,fear,disgust,2,0.012195121951219513
+Naive Bayes C,Traditional ML,Mixed,fear,sad,2,0.012195121951219513
+Naive Bayes C,Traditional ML,Mixed,fear,anger,1,0.006097560975609756
+Naive Bayes C,Traditional ML,Mixed,sad,disgust,1,0.012048192771084338

@@ -1,0 +1,11 @@
+body,cleaned_text,same_text
+"$DAKT: Daktronics, Inc. has lost a star, now a 1 star stock. (https://stockflare.com/stocks/DAKT.O)","<ticker> <company> inc . has lost a star , now a <number> star stock .",False
+$IF 85% Sell signal for the next 25 days (swaps are possible before). Scientific trading signal by Algonell,<ticker> <number> % sell signal for the next <number> days swaps are possible before . scientific trading signal by algonell,False
+$F still looks overpriced (rated 2.6 as price is down to 15.12). Price vs ratings chart: http://stks.co/j2fc0,<ticker> still looks overpriced rated <number> as price is down to <number> . price <ticker> ratings chart :,False
+This is an close up of my chart just posted. $study $ES_F http://chart.ly/h6nwu5j,this is an close up of my chart just posted . <ticker> <ticker>,False
+"$SPY Need to get weaned off oil, be inventive cultivate new resources, by doing so deal a heavy blow our enemies in Middle East at same time","<ticker> need to get weaned off oil , be inventive cultivate new resources , by doing so deal a heavy blow our enemies in middle east at same time",False
+$EURGBP - EURGBP touch trade - http://stks.co/b2HZb,<ticker> - <ticker> touch trade -,False
+"#Levermann #Global #MidCap #Sell WK26 $CINF (-4), $BEN (-1), $CFG (-4), $TECH (0), $CE (-2), NTAP (0), DISCA (1), RCL (-6), HAS (-2), AAP (-3) https://bit.ly/2VqA5Fm","levermann global <company> sell wk <number> <ticker> - <number> , <ticker> - <number> , <ticker> - <number> , <ticker> <number> , <ticker> - <number> , <ticker> <number> , <ticker> <number> , <ticker> - <number> , has - <number> , <ticker> - <number>",False
+$ZC_F gone short .5 of the high,<ticker> gone short <number> of the high,False
+went SHORT $AMZN,went short <ticker>,False
+$MGT .Here is everything in a nutshell,<ticker> . here is everything in a nutshell,False

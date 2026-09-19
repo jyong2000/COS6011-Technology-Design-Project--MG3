@@ -1,0 +1,161 @@
+model,family,strategy,row_index,text,true_label,predicted_label,confusion_pair_count
+Logistic Regression A,Traditional ML,Source-only,1,$EURUSD 1 min trade. myfxprofitsignals.blogspot.pt http://stks.co/c0cvl,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,7,5-star analyst Mark Moskowitz from Barclays reiterated a BUY on $ANET. Mark has a 63% success rate http://tipranks.com/experts/Mark-Moskowitz,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,10,$SPY $UCO $UWTI not one single budge on oil as spy ripped off the lows. This thing is planted,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,21,$MIC Monday analysis: 75% chance of opening lower than $65.37 .Details and accuracy rate available on #apple store: https://itunes.apple.com/us/app/market-sensei-stock-predictions/id1191375706?mt=8,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,29,$YINN - http://www.trade-ideas.com/ticky/ticky.html?symbol=YINN - Tanking Pre Market the News is Out - New premarket low. Next support 21.83 from 9/18/2018.,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,33,"Take-Two $TTWO misses by $0.38, beats on revs; guides Q2 EPS below consensus, revs above consensus; raises FY20 outlook; +7.0% after hours",neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,49,$SPY $DIA $AAPL Both Dow and Aapl sitting on their Weekly 50ma... and a long way down to the 200 for both,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,55,$CMG CMG weekly double bottom. Let&#39;s see how the weekly candle closes... which will be in a few hours. Possible retest,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,58,$ZC_F gone short .5 of the high,neutral,happy,296
+Logistic Regression A,Traditional ML,Source-only,60,$NREF / NexPoint Real Estate Finance files form 10-K https://fintel.io/sf/us/nref?utm_source=stocktwits.com&amp;utm_medium=Referral&amp;utm_campaign=filing,neutral,happy,296
+Logistic Regression B,Traditional ML,Target-only,71,$ISR 1 penny a day. Next week ir will be sub $0.48 again. Cash flows indicate longs selling off.,neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,89,"$MDB last time we hit 112, we hit 138 within 5 trading days",neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,108,$TVIX strong dollar = fed will not raise interest rate in sept. $XIV,neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,167,$SBUX lets close $57+,neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,168,"$TVIX $UVXY $VXX First order adjusted down 17.23. Come on, one more bump.",neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,206,I’ll do the standard StockTwits thing &amp; say “I think $WMT will rise to 102 and then stay for 3 days.” Only b/c that’s what I want it to do.,neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,215,$PEI Has the potential to be $1 next week.,neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,216,"@Porkchop04 SCotUS ruling made it clear , even 2 CAFC, since Patent rules include time limits $VRNG, Google can NOT use laches as defense",neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,218,"$SLS DD links are the best way to share info imo, people can read for themselves and make up their own minds. To be honest I typically won&#39;t even read someone&#39;s DD if it&#39;s in text form, links are best to insure that the information isn&#39;t bs, good or bad...",neutral,happy,82
+Logistic Regression B,Traditional ML,Target-only,243,"$GE just bought 2250 shares, holding to the 1Q ER",neutral,happy,82
+Logistic Regression C,Traditional ML,Mixed,10,$SPY $UCO $UWTI not one single budge on oil as spy ripped off the lows. This thing is planted,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,32,$DRYS that guy called a buy at 1.4!!!,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,64,$UVXY charts are also posted on my blog to keep a tracking. $TVIX $SPY $XIV $SVXY $VXX $QQQ,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,71,$ISR 1 penny a day. Next week ir will be sub $0.48 again. Cash flows indicate longs selling off.,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,76,"$GERN from Summit, NJ-based Celgene (NASDAQ: CELG), where she was executive director, strategy and clinical lead. Geron also says it will",neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,88,$ADMP PUT THE DANK MEMES INTO OVERDRIVE,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,146,$JCP @mpsp Should go to shareholders as the ones that the scheme would have impacted had it been allowed.,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,152,"$FUEL meets EPS, beats revs and guides them higher.",neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,167,$SBUX lets close $57+,neutral,happy,134
+Logistic Regression C,Traditional ML,Mixed,168,"$TVIX $UVXY $VXX First order adjusted down 17.23. Come on, one more bump.",neutral,happy,134
+Linear SVM A,Traditional ML,Source-only,1,$EURUSD 1 min trade. myfxprofitsignals.blogspot.pt http://stks.co/c0cvl,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,7,5-star analyst Mark Moskowitz from Barclays reiterated a BUY on $ANET. Mark has a 63% success rate http://tipranks.com/experts/Mark-Moskowitz,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,10,$SPY $UCO $UWTI not one single budge on oil as spy ripped off the lows. This thing is planted,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,21,$MIC Monday analysis: 75% chance of opening lower than $65.37 .Details and accuracy rate available on #apple store: https://itunes.apple.com/us/app/market-sensei-stock-predictions/id1191375706?mt=8,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,29,$YINN - http://www.trade-ideas.com/ticky/ticky.html?symbol=YINN - Tanking Pre Market the News is Out - New premarket low. Next support 21.83 from 9/18/2018.,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,33,"Take-Two $TTWO misses by $0.38, beats on revs; guides Q2 EPS below consensus, revs above consensus; raises FY20 outlook; +7.0% after hours",neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,41,$SPY if people looked at the daily chart they wouldn&#39;t be freaking out.Too busy looking at hourly charts that they think the world is ending,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,49,$SPY $DIA $AAPL Both Dow and Aapl sitting on their Weekly 50ma... and a long way down to the 200 for both,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,55,$CMG CMG weekly double bottom. Let&#39;s see how the weekly candle closes... which will be in a few hours. Possible retest,neutral,happy,300
+Linear SVM A,Traditional ML,Source-only,58,$ZC_F gone short .5 of the high,neutral,happy,300
+Linear SVM B,Traditional ML,Target-only,19,"$QQQ Inverse Head and Shoulders forming, buyers can buy freely, as today is a buying opportunity",happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,28,$TSLA Hong Kong protesters stage rallies (FRiday 11-08) across city https://www.scmp.com/news/hong-kong/politics/article/3036874/hundreds-march-lunchtime-central-protest-mourn-death-hong via @scmpnews South China News 11-08,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,47,$ACB.CA ****BIG POP UPWARD THIS MORNING....AGAIN****,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,59,FEAC GANG HERE FROM THE START $SKLZ,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,99,$CSCO might be a smart buy under 15.87,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,107,$AMC Truth. 🚀🦍,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,110,$ANR buy now before a buy out rumor comes out,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,122,$BLRX news out today. This should break the 1.00 and then mice towards 1.25 area. Tons of upside on this. Just need volume.,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,125,$TVIX 8.90 ---&gt; 10 let&#39;s roll,happy,neutral,79
+Linear SVM B,Traditional ML,Target-only,126,$AMC Relax for now...Monday approaches...,happy,neutral,79
+Linear SVM C,Traditional ML,Mixed,18,"$P keep on running baby, keep on running.",happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,19,"$QQQ Inverse Head and Shoulders forming, buyers can buy freely, as today is a buying opportunity",happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,24,$BORR may have not exploded but it has maintained its positive trend channel since November. I will take slow healthy growth.,happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,28,$TSLA Hong Kong protesters stage rallies (FRiday 11-08) across city https://www.scmp.com/news/hong-kong/politics/article/3036874/hundreds-march-lunchtime-central-protest-mourn-death-hong via @scmpnews South China News 11-08,happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,46,"$XCO must be nice to get 139,063 shares at zero cost. When is management going to do something for shareholders as promised on the website.",happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,47,$ACB.CA ****BIG POP UPWARD THIS MORNING....AGAIN****,happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,69,"Bought $SNDK Feb $50 calls yesterday for $3.45, sold today at $4.70 at 12:30. Nice pop.",happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,98,"$DRYS I only made 2,880$ yesterday. I reall need this to go 1.95$🎉💰🎉💰🎉",happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,99,$CSCO might be a smart buy under 15.87,happy,neutral,109
+Linear SVM C,Traditional ML,Mixed,102,$ETSY $CRON $ENPH Hey guys....its a good day to make high % profit https://docs.google.com/document/d/1vpWCuNuMunzVbEHVQ8snP3WMZNHigB7vvDH0iabl9d4/edit?usp=sharing,happy,neutral,109
+Naive Bayes A,Traditional ML,Source-only,7,5-star analyst Mark Moskowitz from Barclays reiterated a BUY on $ANET. Mark has a 63% success rate http://tipranks.com/experts/Mark-Moskowitz,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,29,$YINN - http://www.trade-ideas.com/ticky/ticky.html?symbol=YINN - Tanking Pre Market the News is Out - New premarket low. Next support 21.83 from 9/18/2018.,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,49,$SPY $DIA $AAPL Both Dow and Aapl sitting on their Weekly 50ma... and a long way down to the 200 for both,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,55,$CMG CMG weekly double bottom. Let&#39;s see how the weekly candle closes... which will be in a few hours. Possible retest,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,68,$JCP should be 1.00 or less soon,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,70,$rig still same story. belwo .80 I would add anohter part. as well as abvoe 20.2,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,74,$NIHD something must be cooking.. What is going on? any news?,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,83,"$ONCS filed SEC form 8-K on March 29, 16:26:17 https://s.flashalert.me/ZQhVGK",neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,87,$UCO Large Increase in Open Interest http://tinyurl.com/zej9fq2,neutral,happy,170
+Naive Bayes A,Traditional ML,Source-only,89,"$MDB last time we hit 112, we hit 138 within 5 trading days",neutral,happy,170
+Naive Bayes B,Traditional ML,Target-only,32,$DRYS that guy called a buy at 1.4!!!,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,70,$rig still same story. belwo .80 I would add anohter part. as well as abvoe 20.2,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,77,$LTC.X gdax still correcting pending orders?,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,89,"$MDB last time we hit 112, we hit 138 within 5 trading days",neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,91,"$AMZN $FB $SPY exactly, he is also calling for 2200 and a bear market, if we go over 2750 it ends all the bear thesis",neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,146,$JCP @mpsp Should go to shareholders as the ones that the scheme would have impacted had it been allowed.,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,167,$SBUX lets close $57+,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,174,$AMZN this is what holding AMZN feels like every day for the last 5 months,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,206,I’ll do the standard StockTwits thing &amp; say “I think $WMT will rise to 102 and then stay for 3 days.” Only b/c that’s what I want it to do.,neutral,happy,133
+Naive Bayes B,Traditional ML,Target-only,209,$XGTI just cover monday fills the gap,neutral,happy,133
+Naive Bayes C,Traditional ML,Mixed,16,"$CLRB little bit of volume and little more attention form the traders, this will fly. very low float ...4Mil",happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,19,"$QQQ Inverse Head and Shoulders forming, buyers can buy freely, as today is a buying opportunity",happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,24,$BORR may have not exploded but it has maintained its positive trend channel since November. I will take slow healthy growth.,happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,28,$TSLA Hong Kong protesters stage rallies (FRiday 11-08) across city https://www.scmp.com/news/hong-kong/politics/article/3036874/hundreds-march-lunchtime-central-protest-mourn-death-hong via @scmpnews South China News 11-08,happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,31,"$ZYNE Well, volume is up...price is up.. We’ll take it! 😎",happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,42,$IQ I am a happy man! Hoping my 30 and $35 calls on June 21 are the low price for this,happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,46,"$XCO must be nice to get 139,063 shares at zero cost. When is management going to do something for shareholders as promised on the website.",happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,47,$ACB.CA ****BIG POP UPWARD THIS MORNING....AGAIN****,happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,66,$NLST Interesting volume. Perhaps someone knows about something that is about to be filed but hasn&#39;t posted yet? Or just hoping/guessing?,happy,neutral,189
+Naive Bayes C,Traditional ML,Mixed,69,"Bought $SNDK Feb $50 calls yesterday for $3.45, sold today at $4.70 at 12:30. Nice pop.",happy,neutral,189
+BERT Domain-only,BERT,Target-only,32,$DRYS that guy called a buy at 1.4!!!,neutral,happy,77
+BERT Domain-only,BERT,Target-only,37,$TOPS out at .65. 45% from entry😁,neutral,happy,77
+BERT Domain-only,BERT,Target-only,150,$CVRS for what its worth. Also China buying more US coal,neutral,happy,77
+BERT Domain-only,BERT,Target-only,166,"Weekend Review Video: Battle of The Superpowers, Is This Round Two or Three https://youtu.be/CKFuyzwoTwU $GC_F $GLD $GDX $NUGT $BTC.X $SLV $SPY",neutral,happy,77
+BERT Domain-only,BERT,Target-only,210,$ESNC hmmm thinking about grabbing those .093s,neutral,happy,77
+BERT Domain-only,BERT,Target-only,218,"$SLS DD links are the best way to share info imo, people can read for themselves and make up their own minds. To be honest I typically won&#39;t even read someone&#39;s DD if it&#39;s in text form, links are best to insure that the information isn&#39;t bs, good or bad...",neutral,happy,77
+BERT Domain-only,BERT,Target-only,220,"Trade signal, 92% chance,$PBI will close above $13.97 support by end of session. Bullish. http://tradespoon.com/s.php?t=$PBI",neutral,happy,77
+BERT Domain-only,BERT,Target-only,225,$VXRT PPS is down $8 In the last month. Maybe we can close 8 CENTS green today,neutral,happy,77
+BERT Domain-only,BERT,Target-only,256,$YHOO I dont use snapchat but being 17 I know a lot of people that do It is friends sending different face pics they wouldnt use it with ads,neutral,happy,77
+BERT Domain-only,BERT,Target-only,267,$NVCN our float is really small and they keep trying this after hour is another huge short everyone know we would be making huge amount,neutral,happy,77
+BERT Sequential,BERT,Sequential transfer,37,$TOPS out at .65. 45% from entry😁,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,150,$CVRS for what its worth. Also China buying more US coal,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,210,$ESNC hmmm thinking about grabbing those .093s,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,220,"Trade signal, 92% chance,$PBI will close above $13.97 support by end of session. Bullish. http://tradespoon.com/s.php?t=$PBI",neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,246,$FB will triple by 2016 its the next netflix eventually you see 57 then 4 months later it doubles then triple in 2016 next netflix,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,308,$WKHS 8-10$ is the plan next💎,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,386,$CCIV They&#39;ll get ya every time!,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,415,$AMD Check out CBMX Today! The chart is way over sold &amp; due for a nice Bounce to $3.00 + ! L0w f l0at and will run on any V0lume $$ eds,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,431,$LRC.X wake up me cat,neutral,happy,68
+BERT Sequential,BERT,Sequential transfer,454,$CVE http://stockcharts.com/h-sc/ui its trying.,neutral,happy,68
+BERT Mixed,BERT,Mixed,37,$TOPS out at .65. 45% from entry😁,neutral,happy,83
+BERT Mixed,BERT,Mixed,115,$MOSY news at the bell? 🛎,neutral,happy,83
+BERT Mixed,BERT,Mixed,150,$CVRS for what its worth. Also China buying more US coal,neutral,happy,83
+BERT Mixed,BERT,Mixed,152,"$FUEL meets EPS, beats revs and guides them higher.",neutral,happy,83
+BERT Mixed,BERT,Mixed,166,"Weekend Review Video: Battle of The Superpowers, Is This Round Two or Three https://youtu.be/CKFuyzwoTwU $GC_F $GLD $GDX $NUGT $BTC.X $SLV $SPY",neutral,happy,83
+BERT Mixed,BERT,Mixed,168,"$TVIX $UVXY $VXX First order adjusted down 17.23. Come on, one more bump.",neutral,happy,83
+BERT Mixed,BERT,Mixed,218,"$SLS DD links are the best way to share info imo, people can read for themselves and make up their own minds. To be honest I typically won&#39;t even read someone&#39;s DD if it&#39;s in text form, links are best to insure that the information isn&#39;t bs, good or bad...",neutral,happy,83
+BERT Mixed,BERT,Mixed,220,"Trade signal, 92% chance,$PBI will close above $13.97 support by end of session. Bullish. http://tradespoon.com/s.php?t=$PBI",neutral,happy,83
+BERT Mixed,BERT,Mixed,246,$FB will triple by 2016 its the next netflix eventually you see 57 then 4 months later it doubles then triple in 2016 next netflix,neutral,happy,83
+BERT Mixed,BERT,Mixed,296,$DOGE.X were on ATM’s now. We did it mom,neutral,happy,83
+BERT Dataset Weighting,BERT,Dataset weighting,37,$TOPS out at .65. 45% from entry😁,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,87,$UCO Large Increase in Open Interest http://tinyurl.com/zej9fq2,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,150,$CVRS for what its worth. Also China buying more US coal,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,206,I’ll do the standard StockTwits thing &amp; say “I think $WMT will rise to 102 and then stay for 3 days.” Only b/c that’s what I want it to do.,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,220,"Trade signal, 92% chance,$PBI will close above $13.97 support by end of session. Bullish. http://tradespoon.com/s.php?t=$PBI",neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,246,$FB will triple by 2016 its the next netflix eventually you see 57 then 4 months later it doubles then triple in 2016 next netflix,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,267,$NVCN our float is really small and they keep trying this after hour is another huge short everyone know we would be making huge amount,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,308,$WKHS 8-10$ is the plan next💎,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,386,$CCIV They&#39;ll get ya every time!,neutral,happy,69
+BERT Dataset Weighting,BERT,Dataset weighting,401,$UVXY ES should bounce soon,neutral,happy,69
+FLAN-T5 Zero-shot,LLM,Zero-shot,61,$CHKE accumulating,neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,65,"$DDD play review Actionable trade for the team! (25) contracts | Cost -&gt; $2830 | Sold -&gt; $6833 | Profit -&gt; $4,003 Overall Profit % -&gt; 141% | Max gains -&gt; 341%",neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,87,$UCO Large Increase in Open Interest http://tinyurl.com/zej9fq2,neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,89,"$MDB last time we hit 112, we hit 138 within 5 trading days",neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,152,"$FUEL meets EPS, beats revs and guides them higher.",neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,167,$SBUX lets close $57+,neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,187,Fly Leasing Limited just filed its Tender offer statement by Issuer http://stks.co/a2wF2 $FLY,neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,195,$SPAQ Show your support by downloading the apps and reserving Fisker now! #showyoursupport #fisker,neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,209,$XGTI just cover monday fills the gap,neutral,happy,110
+FLAN-T5 Zero-shot,LLM,Zero-shot,246,$FB will triple by 2016 its the next netflix eventually you see 57 then 4 months later it doubles then triple in 2016 next netflix,neutral,happy,110
+FLAN-T5 Few-shot,LLM,Few-shot,3,$SUMR This thing needs some GREEN. Need some good news to kick it in the butt.,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,11,$AMDA Im with you on that Strong. Might even pick up a few more this week from the weak sisters.,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,19,"$QQQ Inverse Head and Shoulders forming, buyers can buy freely, as today is a buying opportunity",happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,24,$BORR may have not exploded but it has maintained its positive trend channel since November. I will take slow healthy growth.,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,66,$NLST Interesting volume. Perhaps someone knows about something that is about to be filed but hasn&#39;t posted yet? Or just hoping/guessing?,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,93,$DPW I am sure this will run AH too,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,94,$SPWR Take it easy... It&#39;s got to dip before it spikes to a hold again,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,99,$CSCO might be a smart buy under 15.87,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,110,$ANR buy now before a buy out rumor comes out,happy,neutral,105
+FLAN-T5 Few-shot,LLM,Few-shot,116,$MOSY we are holding steady at 1.53. Buy in guys. We can go to 2,happy,neutral,105
+FLAN-T5 Structured,LLM,Structured prompt,7,5-star analyst Mark Moskowitz from Barclays reiterated a BUY on $ANET. Mark has a 63% success rate http://tipranks.com/experts/Mark-Moskowitz,neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,21,$MIC Monday analysis: 75% chance of opening lower than $65.37 .Details and accuracy rate available on #apple store: https://itunes.apple.com/us/app/market-sensei-stock-predictions/id1191375706?mt=8,neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,37,$TOPS out at .65. 45% from entry😁,neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,55,$CMG CMG weekly double bottom. Let&#39;s see how the weekly candle closes... which will be in a few hours. Possible retest,neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,65,"$DDD play review Actionable trade for the team! (25) contracts | Cost -&gt; $2830 | Sold -&gt; $6833 | Profit -&gt; $4,003 Overall Profit % -&gt; 141% | Max gains -&gt; 341%",neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,68,$JCP should be 1.00 or less soon,neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,73,"Aratana Therapeutics&#39;s VP of Sales and Marketing just declared owning 30,928 shares of Aratana http://www.conferencecalltranscripts.org/5/summary2/?id=5652762 $PETX",neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,76,"$GERN from Summit, NJ-based Celgene (NASDAQ: CELG), where she was executive director, strategy and clinical lead. Geron also says it will",neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,82,$AZO NEW ARTICLE : AutoZone blows past Wall Street estimates in the fiscal fourth quarter https://www.stck.pro/news/AZO/7911201,neutral,surprise,223
+FLAN-T5 Structured,LLM,Structured prompt,87,$UCO Large Increase in Open Interest http://tinyurl.com/zej9fq2,neutral,surprise,223

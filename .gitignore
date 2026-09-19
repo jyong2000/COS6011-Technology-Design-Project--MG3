@@ -16,7 +16,7 @@ __pycache__/
 *.env
 
 # Datasets
-*.csv
+
 *.zip
 *.parquet
 

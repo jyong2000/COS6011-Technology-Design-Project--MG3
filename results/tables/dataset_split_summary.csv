@@ -1,0 +1,7 @@
+dataset,domain,rows,planned_fraction,random_seed,number_of_classes
+source_train,source,68581,0.85,42,5
+source_validation,source,12103,0.15,42,5
+target_train,target,7000,0.7,42,7
+target_validation,target,1500,0.15,42,7
+target_test,target,1500,0.15,42,7
+mixed_train,mixed,75581,,42,7
