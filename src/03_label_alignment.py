@@ -42,12 +42,14 @@ Outputs:
 - source_aligned.csv
 - target_aligned.csv
 - label_alignment_summary.csv
+- source_label_alignment_distribution.png
 
 Owner:
 Data Pipeline Member
 """
 
 import os
+import matplotlib.pyplot as plt
 import pandas as pd
 
 
@@ -57,6 +59,7 @@ import pandas as pd
 
 PROCESSED_DATA_DIR = "data/processed"
 RESULTS_TABLES_DIR = "results/tables"
+RESULTS_FIGURES_DIR = os.path.join("results", "figures")
 
 SOURCE_CLEAN_PATH = os.path.join(
     PROCESSED_DATA_DIR,
@@ -144,6 +147,7 @@ SOURCE_TO_TARGET_LABEL = {
 
 os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
 os.makedirs(RESULTS_TABLES_DIR, exist_ok=True)
+os.makedirs(RESULTS_FIGURES_DIR, exist_ok=True)
 
 
 # ============================================================
@@ -811,6 +815,117 @@ print(
     f"{ALIGNMENT_SUMMARY_PATH}"
 )
 
+# ============================================================
+# CREATE SOURCE LABEL ALIGNMENT DISTRIBUTION FIGURE
+# ============================================================
+
+print("\n" + "=" * 70)
+print("CREATING LABEL ALIGNMENT DISTRIBUTION FIGURE")
+print("=" * 70)
+
+# Order of final aligned labels
+aligned_label_order = [
+    "anger",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+]
+
+# Count how each original source label contributes
+# to each final aligned label
+alignment_counts = (
+    source_audit_df
+    .groupby(["aligned_label", "original_label"])
+    .size()
+    .unstack(fill_value=0)
+    .reindex(aligned_label_order, fill_value=0)
+)
+
+# Keep original labels in a logical order within each stack
+original_label_order = [
+    "anger",
+    "hate",
+    "happiness",
+    "fun",
+    "love",
+    "enthusiasm",
+    "relief",
+    "neutral",
+    "empty",
+    "sadness",
+    "surprise"
+]
+
+alignment_counts = alignment_counts.reindex(
+    columns=original_label_order,
+    fill_value=0
+)
+
+fig, ax = plt.subplots(figsize=(12, 7))
+
+bottom = [0] * len(alignment_counts)
+
+for original_label in original_label_order:
+
+    values = alignment_counts[original_label].values
+
+    bars = ax.bar(
+        [label.capitalize() for label in alignment_counts.index],
+        values,
+        bottom=bottom,
+        label=original_label
+    )
+
+    # Put the original source emotion name inside
+    # sufficiently large bar segments
+    for i, (bar, value) in enumerate(zip(bars, values)):
+        if value > 0:
+            ax.text(
+                bar.get_x() + bar.get_width() / 2,
+                bottom[i] + value / 2,
+                original_label,
+                ha="center",
+                va="center",
+                fontsize=9
+            )
+
+    bottom = [
+        bottom[i] + values[i]
+        for i in range(len(values))
+    ]
+
+ax.set_title(
+    "Source Label Distribution After Emotion Taxonomy Alignment",
+    fontsize=15
+)
+
+ax.set_xlabel("Final Aligned Label")
+ax.set_ylabel("Number of Texts")
+
+ax.grid(
+    axis="y",
+    alpha=0.25
+)
+
+plt.tight_layout()
+
+figure_path = os.path.join(
+    RESULTS_FIGURES_DIR,
+    "source_label_alignment_distribution.png"
+)
+
+plt.savefig(
+    figure_path,
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.close()
+
+print(f"Figure saved to: {figure_path}")
 
 # ============================================================
 # PRINT APPROVED MAPPING
