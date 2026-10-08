@@ -1,2 +1,2 @@
-eval_loss,eval_accuracy,eval_precision,eval_recall,eval_f1,training_time_seconds
-1.4852834939956665,0.6453333333333333,0.6403376137063174,0.6453333333333333,0.640464320535683,4943.8735
+eval_loss,eval_accuracy,eval_precision,eval_recall,eval_f1,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,training_time_seconds
+1.534877896308899,0.6293333333333333,0.621841446638468,0.6293333333333333,0.6233301714871919,5.7251,262.004,16.419,3.0,3610.3243901729584
