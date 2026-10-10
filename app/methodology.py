@@ -239,8 +239,8 @@ def show_methodology():
             "financial emotion classification."
         )
         st.write(
-            "These four trained BERT models are available "
-            "for interactive inference in the Emotion Classifier tab."
+            "All four BERT strategies are evaluated in the Model Comparison tab. "
+            "Dataset Weighting is selected for interactive inference in the Emotion Classifier tab."
         )
 
     with st.expander("LLM Prompting Approaches"):
@@ -294,6 +294,14 @@ def show_methodology():
     for name, description in strategies.items():
         with st.expander(name):
             st.write(description)
+
+    st.info(
+        "Deployment selection: Dataset Weighting achieved the highest test macro-F1 "
+        "among the four evaluated BERT strategies (50.06%). "
+        "Sequential Transfer Learning achieved the highest test accuracy (64.13%). "
+        "The differences are small, and this selection does not establish the "
+        "best approach across traditional ML and LLM models."
+    )
 
     # --------------------------------------------------
     # 8. WORKFLOW
@@ -391,12 +399,12 @@ def show_methodology():
 
     st.markdown("""
         **Emotion Classifier**
-        - Interactive predictions using four trained BERT models.
+        - Interactive predictions using the selected Dataset Weighting BERT model.
         - Displays predicted emotion, confidence, and
           seven-class probability scores.
 
         **Model Comparison**
-        - Compares the four BERT models on the locked Target Test set.
+        - Compares all four evaluated BERT strategies on the locked Target Test set.
         - Displays evaluation metrics, per-class results,
           confusion matrices, and misclassified examples.
 

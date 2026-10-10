@@ -39,18 +39,13 @@ with classifier_tab:
     st.header("Financial Emotion Classifier")
 
     st.write(
-        "Enter financial-related text and select a trained "
-        "BERT model to classify its emotion."
+        "Enter financial-related text to classify its emotion using the "
+        "Dataset Weighting BERT model selected for this demonstration."
     )
 
-    model_options = [
-        "Sequential Transfer Learning",
-        "Domain Only",
-        "Mixed Training",
-        "Dataset Weighting",
-    ]
-
-    selected_model = st.selectbox("Select BERT Model", options=model_options, index=0)
+    st.caption(
+        "Selected BERT strategy: Dataset Weighting | Highest test Macro-F1 among four BERT strategies"
+    )
 
     user_text = st.text_area(
         "Enter Financial Text",
@@ -69,7 +64,7 @@ with classifier_tab:
         else:
             try:
                 with st.spinner("Analysing financial emotion..."):
-                    result = predict_emotion(user_text, selected_model)
+                    result = predict_emotion(user_text)
 
                 st.success("Analysis completed!")
 

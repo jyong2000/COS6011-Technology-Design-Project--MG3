@@ -127,7 +127,11 @@ def show_dashboard():
     best_model = metrics_df["Macro-F1"].idxmax()
     best_score = metrics_df.loc[best_model, "Macro-F1"]
 
-    st.info(f"Highest Macro-F1: {best_model} ({best_score:.2%})")
+    st.info(f"Highest BERT test Macro-F1: {best_model} ({best_score:.2%})")
+    st.caption(
+        "Dataset Weighting is used for live predictions in the Emotion Classifier. "
+        "All four BERT strategies remain available here for evaluation and error analysis."
+    )
 
     # Metric comparison chart
     st.subheader("Performance Comparison")
@@ -145,7 +149,9 @@ def show_dashboard():
     st.subheader("Per-Class Performance")
 
     selected_model = st.selectbox(
-        "Select Model for Detailed Analysis", list(FILES.keys())
+        "Select Model for Detailed Analysis",
+        list(FILES.keys()),
+        index=list(FILES.keys()).index("Dataset Weighting"),
     )
 
     df = datasets[selected_model]

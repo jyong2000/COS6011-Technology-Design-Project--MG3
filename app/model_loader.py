@@ -1,4 +1,6 @@
+
 from pathlib import Path
+import os
 import re
 
 import streamlit as st
@@ -8,18 +10,17 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 # Project root directory
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-# Same tokenizer used during BERT training
+# Original tokenizer used during training
 TOKENIZER_NAME = "google-bert/bert-base-uncased"
 
-# Best checkpoints selected using validation weighted F1
-MODEL_PATHS = {
-    "Sequential Transfer Learning": (
-        "results/models/bert_sequential_target/checkpoint-1314"
-    ),
-    "Domain Only": ("results/models/bert_domain_only/checkpoint-1314"),
-    "Mixed Training": ("results/models/bert_mixed/checkpoint-9448"),
-    "Dataset Weighting": ("results/models/bert_dataset_weighting/checkpoint-14172"),
-}
+# Selected model for deployment
+MODEL_NAME = "Dataset Weighting"
+LOCAL_CHECKPOINT = (
+    PROJECT_ROOT
+    / "results/models/bert_dataset_weighting/checkpoint-14172"
+)
+
+HF_MODEL_REPO = "jyong2000/financial-emotion-dataset-weighting"
 
 EXPECTED_LABELS = [
     "anger",
@@ -32,29 +33,62 @@ EXPECTED_LABELS = [
 ]
 
 
-@st.cache_resource(show_spinner="Loading BERT model...")
-def load_model(model_name):
-    """Load and cache a trained BERT checkpoint and its tokenizer."""
+def get_hf_token():
+    """Retrieve the private Hugging Face token securely."""
+    token = os.environ.get("HF_TOKEN")
 
-    if model_name not in MODEL_PATHS:
-        raise ValueError(f"Unknown model: {model_name}")
+    if token:
+        return token
 
-    checkpoint_path = PROJECT_ROOT / MODEL_PATHS[model_name]
+    try:
+        return st.secrets.get("HF_TOKEN")
+    except (FileNotFoundError, KeyError):
+        return None
 
-    if not checkpoint_path.is_dir():
-        raise FileNotFoundError(f"Checkpoint directory not found: {checkpoint_path}")
+
+@st.cache_resource(show_spinner="Loading Dataset Weighting BERT model...")
+def load_model(model_name=MODEL_NAME):
+    """Load the selected model locally or from Hugging Face."""
+
+    if model_name != MODEL_NAME:
+        raise ValueError(f"Unsupported model: {model_name}")
 
     tokenizer = AutoTokenizer.from_pretrained(TOKENIZER_NAME)
 
-    model = AutoModelForSequenceClassification.from_pretrained(str(checkpoint_path))
+    if LOCAL_CHECKPOINT.is_dir():
+        # Use the existing local checkpoint
+        model_source = str(LOCAL_CHECKPOINT)
+        model = AutoModelForSequenceClassification.from_pretrained(
+            model_source
+        )
+    else:
+        # Download the private model on Streamlit Cloud
+        token = get_hf_token()
 
-    labels = [model.config.id2label[i] for i in range(model.config.num_labels)]
+        if not token:
+            raise RuntimeError(
+                "The local checkpoint is unavailable and HF_TOKEN "
+                "has not been configured."
+            )
+
+        model = AutoModelForSequenceClassification.from_pretrained(
+            HF_MODEL_REPO,
+            token=token,
+        )
+
+    labels = [
+        model.config.id2label[i]
+        for i in range(model.config.num_labels)
+    ]
 
     if labels != EXPECTED_LABELS:
-        raise ValueError(f"Unexpected label mapping for {model_name}: {labels}")
+        raise ValueError(
+            f"Unexpected label mapping: {labels}"
+        )
 
-    # Use GPU when available; otherwise CPU
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device(
+        "cuda" if torch.cuda.is_available() else "cpu"
+    )
 
     model.to(device)
     model.eval()
@@ -62,18 +96,16 @@ def load_model(model_name):
     return tokenizer, model, device
 
 
-def predict_emotion(text, model_name):
-    """Predict the emotion and seven class probabilities."""
+def predict_emotion(text, model_name=MODEL_NAME):
+    """Predict the emotion and all seven class probabilities."""
 
     if not text or not text.strip():
         raise ValueError("Please enter financial text.")
 
     tokenizer, model, device = load_model(model_name)
 
-    # Match the conservative text normalization used in preprocessing
     cleaned_text = re.sub(r"\s+", " ", text).strip()
 
-    # Match training tokenization settings
     inputs = tokenizer(
         cleaned_text,
         truncation=True,
@@ -82,12 +114,16 @@ def predict_emotion(text, model_name):
         return_tensors="pt",
     )
 
-    inputs = {key: value.to(device) for key, value in inputs.items()}
+    inputs = {
+        key: value.to(device)
+        for key, value in inputs.items()
+    }
 
-    # Inference only: no training or gradient calculation
     with torch.inference_mode():
         outputs = model(**inputs)
-        probabilities = torch.softmax(outputs.logits, dim=-1)[0]
+        probabilities = torch.softmax(
+            outputs.logits, dim=-1
+        )[0]
 
     predicted_id = int(torch.argmax(probabilities).item())
 
