@@ -1,0 +1,7 @@
+test_case,measurement_location,concurrent_users,requests,successes,failures,error_rate_percent,average_seconds,max_seconds,throughput_successes_per_second,elapsed_seconds
+Local inference - 1 user(s),Local Python model inference,1,3,3,0,0.0,0.0166,0.0176,56.4301,0.0532
+Local inference - 5 user(s),Local Python model inference,5,15,15,0,0.0,0.0444,0.0552,96.9341,0.1547
+Local inference - 10 user(s),Local Python model inference,10,30,30,0,0.0,0.0887,0.0948,101.3317,0.2961
+Homepage HTTP GET diagnostic,Streamlit Cloud HTTP,1,1,0,1,100.0,0.6803,0.6803,0.0,0.6803
+Deployed health endpoint HTTP GET,Streamlit Cloud HTTP,1,20,0,20,100.0,0.4316,0.4556,0.0,8.6524
+Deployed homepage browser readiness,Streamlit Cloud Chromium browser,1,3,3,0,0.0,8.4998,8.6843,0.1141,26.2898

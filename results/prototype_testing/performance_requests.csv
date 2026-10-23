@@ -1,0 +1,73 @@
+test_case,request_number,seconds,success,error,http_status,redirect_location
+Local inference - 1 user(s),1,0.017599999999220017,True,,,
+Local inference - 1 user(s),2,0.016175700002349913,True,,,
+Local inference - 1 user(s),3,0.016015299996070098,True,,,
+Local inference - 5 user(s),1,0.04327299999567913,True,,,
+Local inference - 5 user(s),2,0.04668300000048475,True,,,
+Local inference - 5 user(s),3,0.04781980000552721,True,,,
+Local inference - 5 user(s),4,0.04789780000282917,True,,,
+Local inference - 5 user(s),5,0.05522400000336347,True,,,
+Local inference - 5 user(s),6,0.04136170000128914,True,,,
+Local inference - 5 user(s),7,0.042622900000424124,True,,,
+Local inference - 5 user(s),8,0.04235950000293087,True,,,
+Local inference - 5 user(s),9,0.042717299998912495,True,,,
+Local inference - 5 user(s),10,0.04394540000066627,True,,,
+Local inference - 5 user(s),11,0.04044399999838788,True,,,
+Local inference - 5 user(s),12,0.04163400000106776,True,,,
+Local inference - 5 user(s),13,0.042717099997389596,True,,,
+Local inference - 5 user(s),14,0.043186499999137595,True,,,
+Local inference - 5 user(s),15,0.04423949999909382,True,,,
+Local inference - 10 user(s),1,0.08214379999844823,True,,,
+Local inference - 10 user(s),2,0.08925099999760278,True,,,
+Local inference - 10 user(s),3,0.09089510000194423,True,,,
+Local inference - 10 user(s),4,0.09057839999877615,True,,,
+Local inference - 10 user(s),5,0.09207969999988563,True,,,
+Local inference - 10 user(s),6,0.0916947000005166,True,,,
+Local inference - 10 user(s),7,0.09359660000336589,True,,,
+Local inference - 10 user(s),8,0.0928453999949852,True,,,
+Local inference - 10 user(s),9,0.09475680000468856,True,,,
+Local inference - 10 user(s),10,0.09450950000609737,True,,,
+Local inference - 10 user(s),11,0.08020609999948647,True,,,
+Local inference - 10 user(s),12,0.08133389999420615,True,,,
+Local inference - 10 user(s),13,0.08168880000448553,True,,,
+Local inference - 10 user(s),14,0.08396889999858104,True,,,
+Local inference - 10 user(s),15,0.08349530000123195,True,,,
+Local inference - 10 user(s),16,0.08444430000236025,True,,,
+Local inference - 10 user(s),17,0.08481210000172723,True,,,
+Local inference - 10 user(s),18,0.08544370000163326,True,,,
+Local inference - 10 user(s),19,0.0853754999989178,True,,,
+Local inference - 10 user(s),20,0.08575180000480032,True,,,
+Local inference - 10 user(s),21,0.0860811000020476,True,,,
+Local inference - 10 user(s),22,0.08876140000211308,True,,,
+Local inference - 10 user(s),23,0.09101219999865862,True,,,
+Local inference - 10 user(s),24,0.09010439999838127,True,,,
+Local inference - 10 user(s),25,0.09216330000344897,True,,,
+Local inference - 10 user(s),26,0.09192030000122031,True,,,
+Local inference - 10 user(s),27,0.09190659999876516,True,,,
+Local inference - 10 user(s),28,0.09284899999329355,True,,,
+Local inference - 10 user(s),29,0.0928217000036966,True,,,
+Local inference - 10 user(s),30,0.09328620000451338,True,,,
+Homepage HTTP GET diagnostic,1,0.6802762000006624,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F
+Deployed health endpoint HTTP GET,1,0.4334186000050977,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,2,0.4312777000013739,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,3,0.4386783000009018,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,4,0.45558580000215443,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,5,0.4434655000004568,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,6,0.4273243999996339,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,7,0.4265618999997969,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,8,0.43366420000529615,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,9,0.42936570000165375,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,10,0.4253494000004139,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,11,0.45104559999890625,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,12,0.42214079999394016,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,13,0.42608190000464674,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,14,0.4453150999979698,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,15,0.4140322000021115,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,16,0.4153315000003204,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,17,0.4372310999970068,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,18,0.4248866000052658,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,19,0.42836309999984223,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed health endpoint HTTP GET,20,0.42382350000116276,False,HTTP 303 (redirect; possible auth/session),303,https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fcos6011-technology-design-project-mg3-emotion-classifier.streamlit.app%2F_stcore%2Fhealth
+Deployed homepage browser readiness,1,8.684296400002495,True,,200,https://cos6011-technology-design-project-mg3-emotion-classifier.streamlit.app/
+Deployed homepage browser readiness,2,8.412627300000167,True,,200,https://cos6011-technology-design-project-mg3-emotion-classifier.streamlit.app/
+Deployed homepage browser readiness,3,8.402368300005037,True,,200,https://cos6011-technology-design-project-mg3-emotion-classifier.streamlit.app/

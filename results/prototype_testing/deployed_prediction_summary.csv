@@ -1,0 +1,4 @@
+test_case,concurrent_users,requests,successes,failures,error_rate_percent,average_prediction_seconds,maximum_prediction_seconds,throughput_predictions_per_second,total_submission_wall_seconds
+Deployed prediction - 1 concurrent user(s),1,3,3,0,0.0,1.2693,1.4708,0.779,3.8513
+Deployed prediction - 5 concurrent user(s),5,15,15,0,0.0,3.0941,5.6877,1.075,13.9537
+Deployed prediction - 10 concurrent user(s),10,30,30,0,0.0,8.1759,11.1021,0.9219,32.5416
